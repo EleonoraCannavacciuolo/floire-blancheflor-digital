@@ -1,0 +1,138 @@
+/* General page styles */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+/* Header styles */
+header {
+    background-color: #003366;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+/* Navigation styles */
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Main content */
+main {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Footer styles */
+footer {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Synoptic view */
+.synoptic {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.column {
+    width: 32%;
+    background: white;
+    border: 1px solid #ccc;
+    overflow-y: scroll;
+    height: 80vh;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.column h2 {
+    text-align: center;
+    background: #0055aa;
+    color: white;
+    margin-top: 0;
+    padding: 10px;
+    font-size: 1.3em;
+}
+
+/* Links inside main */
+main a {
+    color: #0055aa;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main a:hover {
+    text-decoration: underline;
+}
+
+/* Edition text styles */
+.text, .edition-text {
+    margin-top: 20px;
+}
+
+.line {
+    display: block;
+    margin-bottom: 0.5em;
+}
+
+.pagebreak {
+    font-weight: bold;
+    margin: 1em 0;
+}
+
+em {
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+}
+
+.button-link {
+    display: inline-block;
+    padding: 6px 12px;
+    margin: 4px 4px;
+    background-color: #2E5339; /* dark green */
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.button-link:hover {
+    background-color: #3C6E47; /* lighter green on hover */
+    text-decoration: none;
+    color: white;
+}

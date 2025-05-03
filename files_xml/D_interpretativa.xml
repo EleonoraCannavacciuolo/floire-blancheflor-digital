@@ -1,0 +1,3481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../transformation_scripts/diplomatic-to-html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Edition of "Floire et Blancheflor" in BnF, fr. 19152</title>
+      <editor>Eleonora Cannavacciuolo</editor>
+    </titleStmt>
+    <publicationStmt>
+      <p>Unpublished TEI encoding for scholarly use.</p>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Paris, BnF, fr. 19152.</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+
+<text>
+  <body>
+    
+<l>    Seignor baron, or entendeiz</l>
+<l>    faites pais et si escoutez</l>
+<l>    bone estoire, par tel senblant</l>
+<l>    que Dieus vos soit a toz garant</l>
+<l>    et nos deffende de toz maus</l>
+<l>    et nos doint enunit bons ostaus.</l>
+<l>    Ge vos vueil dire de l'amor</l>
+<l>    de Floire et de Blancheflor,</l>
+<l>    qui molt ot et travail et paine </l>
+<l>    ainz lor amor ne fu vileine.</l>
+<l>    Mais deviser vos vueil ençois</l>
+<l>    con homs qui est proz et cortois</l>
+<l>    puet conquerre honor et proece,</l>
+<l>    des qu'il a et sens et largesce,</l>
+<l>    et con avoir par covoitise</l>
+<l>    est deceuz, et par quel guise.</l>
+<l>    Icest raison dont ge vos di</l>
+<l>    dont la raison conmence ici</l>
+<l>    por la soufrance de sa mere</l>
+<l>    soufri travail au tens son pere.</l>
+<l>    En Espaigne ot un riche roi,</l>
+<l>    saige et prodome de la loi </l>
+<l>    toz le reaume d'Aumarie</l>
+<l>    fu siens quites en sa baillie</l>
+<l>    et la meisme prist moillier</l>
+<l>    con l'ot fait novel chevalier</l>
+<l>    bele et gente, cortoise et saige</l>
+<l>    la li quistrent de haut parage.</l>
+<l>    Quant li rois jut o la ro&#x00EF;ne</l>
+<l>    en sa chambre soz sa cortine</l>
+<l>    tel pramesse fist a sa drue,</l>
+<l>    qui cherement li fu vendue</l>
+<l>    il li pramist qu'il li donroit</l>
+<l>    un crestien, ja n'i faudroit,</l>
+<l>    qui bien françois li aprenra.</l>
+<l>    La ro&#x00EF;ne l'en mercia </l>
+<l>    N'i ot noient du deloier</l>
+<l>    une nef fist apareillier</l>
+<l>    Galeriens un riche roi</l>
+<l>    M. chevaliers mena o soi.</l>
+<l>    Desore Saint Jasque au perron</l>
+<l>    ilucques s'arma el sablon </l>
+<l>    et quant li rois fu arrivez</l>
+<l>    ses conpaignons a apelez </l>
+<l>    Gaitier envoie les chemins</l>
+<l>    por desrober les pelerins.</l>
+<l>    Une aventure molt pesant</l>
+<l>    vos veil dire d'or en avant.</l>
+<l>    Uns frans hom est de France issuz,</l>
+<l>    nobles vassaus et conneuz</l>
+<l>    bon vassal i ot et hardi</l>
+<l>    et si l'apeloit on Henri</l>
+<l>    d'Olenois tint la duscheez</l>
+<l>    novelement fu mariez </l>
+<l>    moillier avoit a son talant,</l>
+<l>    mais n'avoit encor nul enfant.</l>
+<l>    Mais la duscoise estoit ençainte</l>
+<l>    un poi avoit la coulor tainte.</l>
+<l>    Li bons dux avuec sa moillier</l>
+<l>    firent lor oirre apareillier </l>
+<l>    a Saint Jasque vuelent aler</l>
+<l>    lor conpaignon font atorner.</l>
+<l>    De ses frans homes i mena,</l>
+<l>    mais au movoir lor conmanda</l>
+<l>    qu'il facent les haubers porter</l>
+<l>    et dedenz la male trosser.</l>
+<l>    Cil firent son conmandement</l>
+<l>    quar il les hastoit durement </l>
+<l>    maintenant trossent lor hernois.</l>
+<l>    Un neveu ot preu et cortois</l>
+<l>    tote sa terre li laissa.</l>
+<l>    « Beaus nies » dist il « or i parra </l>
+<l>    pri vos de ma terre garder</l>
+<l>    et de mes frans homes gaitier ».</l>
+<l>    Par ses jornees tuit alant</l>
+<l>    qu'a Saint Jasques vinrent errant</l>
+<l>    icele nuit lor voile firent</l>
+<l>    et au matin la messe o&#x00EF;rent.</l>
+<l>    Un pui descendent et un val </l>
+<l>    en la descensse d'un costal</l>
+<l>    un pelerin ont encontré</l>
+<l>    qui au paiens ert eschapé.</l>
+<l>    Quant il le virent si usé</l>
+<l>    si l'ont un petit ravisé</l>
+<l>    por sa viellece le laisserent</l>
+<l>    les piez et les mais li lierent</l>
+<l>    sel giterent sor un roschier</l>
+<l>    por la nostre loi vergoignier.</l>
+<l>    Le plus de la nuit et du jor</l>
+<l>    soffri en paine et en doulor,</l>
+<l>    mais Saint Jasque le desloia</l>
+<l>    et de cest perill li geta.</l>
+<l>    Quant il se trova deslié</l>
+<l>    par les deserz s'en fuit tot lié.</l>
+<l>    Le duc encontra au matin</l>
+<l>    « Sire » ce dit le pelerin</l>
+<l>    « vos n'alez mie saigement</l>
+<l>    en cest pais a male gent </l>
+<l>    cil sarrazin n'ont point de foi</l>
+<l>    molt heent vos et vostre loi.</l>
+<l>    Il m'ont robe et deslié</l>
+<l>    et tote nuit tenu lié,</l>
+<l>    mais Saint Jasques m'a fet merci</l>
+<l>    or m'en covient aler d'ici ! ».</l>
+<l>    Tuit en ploroient de pitié</l>
+<l>    quant le virent mesaesié</l>
+<l>    revestu l'ont por amor Dé</l>
+<l>    tuit en ploroient de pitié</l>
+<l>    molt l'en envoient lieement.</l>
+<l>    Li dux en apela sa gent</l>
+<l>    « Seignor » fait il « ge de vos deman</l>
+<l>    cil pelerins n'est pas truant</l>
+<l>    conseilliez moi que nos feron ».</l>
+<l>    « Sire » ce dient li baron</l>
+<l>    « ja por poor de Sarrazin</l>
+<l>    ne gerpirons nostre chemin</l>
+<l>    ja nus de nos ne nos faudra,</l>
+<l>    et Saint Jasques nos conduira ! »</l>
+<l>    Ez les en terre descenduz,</l>
+<l>    si ont les blans hauberz vestuz</l>
+<l>    çaignent les espees tranchanz</l>
+<l>    et lacent cez heaumes luisanz</l>
+<l>    et sont sor les chevaus puiez</l>
+<l>    et pranent les forbiz espiez</l>
+<l>    et le hernois et sa moillier</l>
+<l>    fist li dus devant chevauchier.</l>
+<l>    Sarrazin sont en la montaigne</l>
+<l>    quant il virent nostre conpaigne</l>
+<l>    sore lor corent li Paien,</l>
+<l>    qui ainz n'amerent crestien.</l>
+<l>    Tantost ocient les premiers,</l>
+<l>    qui conduisoient les somiers,</l>
+<l>    lors ont la duschoise saisie.</l>
+<l>    Quant li dux volt prenre s'amie</l>
+<l>    o tant con il a de sa gent</l>
+<l>    les va rescorre maintenant</l>
+<l>    li Sarrazin sont bien armé</l>
+<l>    si ne sont mie redouté</l>
+<l>    des lances fierent li felon,</l>
+<l>    et li pelerin des bordon.</l>
+<l>    De .ii. parz tant en i moroit</l>
+<l>    que nus le nonbre n'en savoit.</l>
+<l>    Quant li dus voit sa conpaignie</l>
+<l>    et sa mesniee afoiblie</l>
+<l>    estal lor rent en un pendant</l>
+<l>    quant il ne pot plus en avant.</l>
+<l>    Desor senestre a regardé </l>
+<l>    un chastel gaste i a trouvé</l>
+<l>    cele part vet a quelque paine</l>
+<l>    le remanant de sa gent moine.</l>
+<l>    Quant el chastel furent entré</l>
+<l>    et cil les ont environé</l>
+<l>    tantost conmencent lor assaut</l>
+<l>    que de nule hore ne lor faut.</l>
+<l>    .iii. jorz et .iii. nuiz lor dura</l>
+<l>    lor assaut c'onques ne fina.</l>
+<l>    Li dus le vit mal aesié,</l>
+<l>    et la faim l'a molt angoissié</l>
+<l>    l'erbe menjuent por le jus</l>
+<l>    dedenz les murs ne truevent plus.</l>
+<l>    Or ait Saint Jasque d'aus pitié</l>
+<l>    quar il sont molt mesaesié !</l>
+<l>    Quant paien voient lor mesnie</l>
+<l>    cheue morte et affeblie,</l>
+<l>    si envoierent por le roi</l>
+<l>    et il i vont a grant desroi.</l>
+<l>    .v&#x0368;. chevaliers i mena</l>
+<l>    molt fierement lor escria</l>
+<l>    « Rendez vos tost, gel vos conmant,</l>
+<l>    vos ne poez avoir garant ».</l>
+<l>    De geuner et de veillier</l>
+<l>    se virent molt affebloier </l>
+<l>    vueillent ou non se sont rendu</l>
+<l>    quar tuit estoient confondu.</l>
+<l>    Jusqu'a la nef les enmena</l>
+<l>    li rois, quar molt grant joie en a,</l>
+<l>    et piez et mains lor fist loier,</l>
+<l>    ses giterent sor un clochier.</l>
+<l>    Ençainte estoit la pelerine</l>
+<l>    mestre la fist en la sentine</l>
+<l>    iluec la conmande a garder</l>
+<l>    puis si se fist desaencrer.</l>
+<l>    Drescent les voiles si s'en vont</l>
+<l>    tant ont coru qu'arrivé sont</l>
+<l>    en Aummarie la cité</l>
+<l>    la dom il estoient torné.</l>
+<l>    La ro&#x00EF;ne estoit en la tor</l>
+<l>    bien connut la nef son seignor</l>
+<l>    lor fu molt tost apareilliee</l>
+<l>    avuec lui fu ot riche mesniee.</l>
+<l>    Contre le roi vint au rivaige</l>
+<l>    li rois amena son barnaige</l>
+<l>    et vint encontre la ro&#x00EF;ne</l>
+<l>    grant joie en font la marine.</l>
+<l>    Ses prisons a fait amener</l>
+<l>    en sa chartre la fist giter,</l>
+<l>    mais la duchoise a retenue</l>
+<l>    quant la ro&#x00EF;ne l'ot ve&#x00FC;e</l>
+<l>    feme la vit et molt l'ama</l>
+<l>    que son seignor la demanda.</l>
+<l>    Por sa pramesse la li rent</l>
+<l>    a la ro&#x00EF;ne doucement</l>
+<l>    par le conmandement le roi</l>
+<l>    en ses chanbres l'enmoine o soi.</l>
+<l>    Cele laisse son duel ester</l>
+<l>    d'autre chose l'estuet garder.</l>
+<l>    Oez que la dame faisoit</l>
+<l>    por son seignor que sent destroit</l>
+<l>    quant ses mangiers li est livrez</l>
+<l>    et devant lui est aportez</l>
+<l>    en .iii. parties le partoit</l>
+<l>    la menor part en retenoit</l>
+<l>    les .ii. parz donoit son seignor</l>
+<l>    qu'an la chartre muert a doulor.</l>
+<l>    Quant li rois velt du dois partir</l>
+<l>    ele vait le relief coillir</l>
+<l>    de ce vivoient li baron</l>
+<l>    et li dus et si conpaignon.</l>
+<l>    Saint Jasques lor a&#x00EF;st lor sire</l>
+<l>    quar il soeffrent trop grant martire.</l>
+<l>    Repairier doi a ma raison</l>
+<l>    nostre estoire conmenceron.</l>
+<l>    Des .ii. dames qui erent ençaintes</l>
+<l>    en un terme furent ataintes</l>
+<l>    le jor d'une Pasque Florie</l>
+<l>    que tote riens est esjoie</l>
+<l>    se sont les dames delivrees</l>
+<l>    quar lor terme sont arrivees.</l>
+<l>    La ro&#x00EF;ne ot un fill molt gent</l>
+<l>    li rois en ot joie et sa gent</l>
+<l>    Flore l'avoient apelé</l>
+<l>    por le haut jor ou il fu né.</l>
+<l>    La duschoise ot une meschine</l>
+<l>    or a&#x00EF;st Dieus a l'orfeline !</l>
+<l>    Por la hautece et por le jor</l>
+<l>    l'ont apelee Blancheflor.</l>
+<l>    Por la hautesce et por la feste</l>
+<l>    o ce qu'il sont de bone geste</l>
+<l>    li mist Amors tote sa cure</l>
+<l>    il s'entramerent sanz mesure.</l>
+<l>    Lors furent né li dui enfant</l>
+<l>    qui puis furent travaillié tant</l>
+<l>    ainz tel amor ne fu oo&#x00EF;e</l>
+<l>    li rois en fist grant felonie</l>
+<l>    qui par envie les seura,</l>
+<l>    mais chierement le conpara</l>
+<l>    il en perdi toute s'onnor,</l>
+<l>    puis en morut a grant doulor.</l>
+<l>    Molt estoit beaus li damoiseaus</l>
+<l>    plus estoit blans que nus critaus</l>
+<l>    sor la blanchor fu le vermeil</l>
+<l>    tres bien asis par grant conseil</l>
+<l>    qui bien le vosist esgarder</l>
+<l>    bien se pooist en lui mirer.</l>
+<l>    Cortos et saiges de bons dis</l>
+<l>    ses aages estoit petiz</l>
+<l>    si senti ja les trez d'amors.</l>
+<l>    Tot autresi fait Blancheflor,</l>
+<l>    qui assez ert cortoise et bele</l>
+<l>    jamais n'en ert nule pucele</l>
+<l>    de la soe beauté ve&#x00FC;e</l>
+<l>    tost l'ot Amors aperce&#x00FC;e.</l>
+<l>    Li rois qui ot felon coraige</l>
+<l>    des que il vinrent en aage</l>
+<l>    a fait son fill apareillier</l>
+<l>    a l'escole velt envoier</l>
+<l>    por desseurer icel amor</l>
+<l>    que il avoit a Blancheflor.</l>
+<l>    A un bon mestre le charia</l>
+<l>    molt fu bons clers si li pria</l>
+<l>    Flores en apele le roi</l>
+<l>    « Peres » fait il « entendez moi</l>
+<l>    conbien serai en cest estaige ? »</l>
+<l>    « .lx. jors est nostre usaige,</l>
+<l>    puis revenrons si vos verrons</l>
+<l>    entendez bien a la leçon ».</l>
+<l>    Lors gita Flores un soupir</l>
+<l>    « Ge ferai tot vostre plaisir »</l>
+<l>    encor ne set mot Blancheflor</l>
+<l>    ja la metra en grant error.</l>
+<l>    En la chanbre est venuz errant</l>
+<l>    la pucele trueve seant</l>
+<l>    de ses cheveus un laz faisoit</l>
+<l>    que son ami doner voloit.</l>
+<l>    Quant ele vit celui venir</l>
+<l>    le cuer se volt por lui jo&#x00EF;r</l>
+<l>    dolent le vit et enbruchié</l>
+<l>    et de plorer le vit moillié.</l>
+<l>    Molt saigement l'araisona</l>
+<l>    si li demande que il a,</l>
+<l>    et il li conmence a conter</l>
+<l>    q'a l'escole l'estuet aler</l>
+<l>    « Li rois me fait apareillier</l>
+<l>    au mestre et paier son loier »</l>
+<l>    « Irai o vos ge ? » « Non, par foi »</l>
+<l>    « Et por quoi donc ? » « Ne velt le roi »</l>
+<l>    « Et porroiz vos sanz moi garir ? »</l>
+<l>    « Bele, molt m'ert grief a soffrir ».</l>
+<l>    Lors s'entranbracent li enfant</l>
+<l>    .c. foiz se baisent maintenant</l>
+<l>    et quant il furent relevé</l>
+<l>    en baisant chairent pasmé.</l>
+<l>    Baisent soi, puis pranent congié</l>
+<l>    si se departent tuit irié.</l>
+<l>    Floires est venuz el palais</l>
+<l>    la ou li rois tenoit ses plais.</l>
+<l>    Vient a son maistre, si l'apele</l>
+<l>    ja priera por la pucele</l>
+<l>    « Maistre, ge sui livrez a toi.</l>
+<l>    Por Dieu, aiez merci de moi !</l>
+<l>    S'avuec moi ne moines m'amie</l>
+<l>    tu feras trop grant felonie.</l>
+<l>    Or la va au roi demander,</l>
+<l>    et se il la te velt doner</l>
+<l>    ge devenrai tes homes liges,</l>
+<l>    de moi avras molt bon service ».</l>
+<l>    Ambedui sont venuz au roi</l>
+<l>    dist li maistres « Entendez moi</l>
+<l>    Ge vos vueil demander un don</l>
+<l>    ne vos en venra se bien non.</l>
+<l>    Faites amener la meschine</l>
+<l>    qui sert es chanbres la ro&#x00EF;ne </l>
+<l>    aprenrai la, por amor Dé ».</l>
+<l>    Li rois a Floire regardé</l>
+<l>    sot que le maistre en ot prié.</l>
+<l>    Li rois respondi toz iriez</l>
+<l>    « Ele ne vos ert ja vaee,</l>
+<l>    mais el est trop desatornee</l>
+<l>    alez vos en jusqu'a quart jor</l>
+<l>    vos envoierai Blancheflor</l>
+<l>    molt richement apareilliee</l>
+<l>    au loement de ma mesniee ».</l>
+<l>    Cil ne porent vers lui plus prenre</l>
+<l>    lor covent lor covient atendre.</l>
+<l>    Vait s'en Floire, si laist s'amie</l>
+<l>    ne la verra mais en sa vie</l>
+<l>    s'en avra eu grant doulor</l>
+<l>    et de sa mor molt grant paor.</l>
+<l>    Li rois fait porchacier sa mort,</l>
+<l>    a grant pechié et a grant tort.</l>
+<l>    Son seneschal apele a soi</l>
+<l>    « Amis » ce li a dit le roi</l>
+<l>    « estrangement sui corrociez,</l>
+<l>    et trop m'a fait mes filz iriez</l>
+<l>    qu'anamee a cele dolente</l>
+<l>    et en lui met tote s'entente.</l>
+<l>    Et or l'en velt o soi mener</l>
+<l>    quar il ne s'en puet consirrer</l>
+<l>    trop seroit li hontaiges forz</l>
+<l>    certes, mielz volroie estre morz</l>
+<l>    que il de lui feist ro&#x00EF;ne</l>
+<l>    povre chosse est et orfenine !</l>
+<l>    Desoz Saint Jasque pris son pere,</l>
+<l>    ençainte en amenai sa mere</l>
+<l>    ne sai soz ciel con ge l'ocie,</l>
+<l>    quar çaienz a esté norrie.</l>
+<l>    Se me saviez conseillier</l>
+<l>    ge vos en avroie molt chier ».</l>
+<l>    « Sire » ce a dit Maydien</l>
+<l>    « ge vos en conseillerai bien.</l>
+<l>    La ro&#x00EF;ne l'aime forment,</l>
+<l>    si ne vos sofferroit noient</l>
+<l>    que entre nos fust vergondee ;</l>
+<l>    mais la chose ert si atornee :</l>
+<l>    qu'ele morra par jugement,</l>
+<l>    et ses cors ert mis a torment.</l>
+<l>    Ençois que Floires l'ait se&#x00FC;</l>
+<l>    ne de l'escole soit venu,</l>
+<l>    nos en covenra delivrert</l>
+<l>    que il n'en o&#x00EF;e mais parler ».</l>
+<l>    Et li rois li a dit itant</l>
+<l>    « Or en penssez de maintenant ».</l>
+<l>    Li seneschaus se part du roi</l>
+<l>    por Blancheflor mestre en effroi.</l>
+<l>    Jusqua .ii. jors s'est porchaciez,</l>
+<l>    o&#x00EF;ez que fist li desvoiez :</l>
+<l>    un lardez prist, si le toucha</l>
+<l>    et en venin l'envelopa.</l>
+<l>    Puis apela un sien serjant</l>
+<l>    « Pinel » fait il « ge te conmant :</l>
+<l>    cest mes porteras mon seignor,</l>
+<l>    si li diras que Blancheflor</l>
+<l>    li a cest presant envoiez ;</l>
+<l>    ge cuit qu'il en sera molt liez ».</l>
+<l>    Et cil s'en est tornez atant,</l>
+<l>    el palais est venuz errant</l>
+<l>    ou li rois seoit au mengier.</l>
+<l>    Ez vos venu le messagier,</l>
+<l>    le roi salue hautement</l>
+<l>    « Sire » fait il « icest present</l>
+<l>    vos a envoié Blancheflor ».</l>
+<l>    Lors s'apercust l'empereor,</l>
+<l>    de la traison li menbra ;</l>
+<l>    la damoisele en mercia.</l>
+<l>    Li rois regarde le lardé,</l>
+<l>    a un damoisel l'a doné.</l>
+<l>    Une coupe d'or et d'argent</l>
+<l>    dona Pinel por le present</l>
+<l>    qui devant lui li aporta ;</l>
+<l>    molt lieement l'en envoia.</l>
+<l>    Li damoiseaus tint le lardé</l>
+<l>    que li rois li avoit doné.</l>
+<l>    Molt fist que fous qu'il en menja !</l>
+<l>    Or o&#x00EF;ez qu'il i gaaigna :</l>
+<l>    quant il en ot un mors gouté</l>
+<l>    endui li hueil li sont volé,</l>
+<l>    et chiet toz morz entre la gent,</l>
+<l>    toz estanduz el pavement.</l>
+<l>    Lors leva li rois du mengier</l>
+<l>    et tuit li autre chevalier,</l>
+<l>    grant senblant fist qu'il soit iriez,</l>
+<l>    mais en son cuer estoit toz liez.</l>
+<l>    « Seignor » ce dit l'ampereor</l>
+<l>    « avez ve&#x00FC; de Blancheflor</l>
+<l>    que nos avon çaienz norrie.</l>
+<l>    Ell a fait trop grant felonie,</l>
+<l>    qui tel present nos a tramis,</l>
+<l>    bien me quida avoir ocis !</l>
+<l>    Mon fill quide avoir a seignor</l>
+<l>    et estre dame de m'anor.</l>
+<l>    Jugiez la tost, gel vos comant,</l>
+<l>    vos qui de moi estes tenant ».</l>
+<l>    « Sire » ce dient li vassal,</l>
+<l>    qui la vuelent faire loial</l>
+<l>    « Or envoiez por la pucele,</l>
+<l>    qui ne set mot de la novele</l>
+<l>    Droiz est qu'ele soit au jugier ».</l>
+<l>    Et dist li rois « Ce n'a mestier : </l>
+<l>    bien o&#x00EF;stes conmunalment</l>
+<l>    que de par lui vint le present.</l>
+<l>    De noz encesors le tenons</l>
+<l>    et en nostre loi le trouvons :</l>
+<l>    qui est repris de felonie</l>
+<l>    que il en doit perdre la vie ».</l>
+<l>    Lors s'aperçurent li plusor</l>
+<l>    que il n'amoit pas Blancheflor.</l>
+<l>    Par jugement ont esgardé</l>
+<l>    que molt fu grant la crualté,</l>
+<l>    qu'ele sera el fu gitee,</l>
+<l>    q'or sera arse et enbrasee.</l>
+<l>    Li rois oo&#x00EF; le jugement,</l>
+<l>    si en mercie molt sa gent ;</l>
+<l>    le feu conmandent alumer</l>
+<l>    et la pucele amener.</l>
+<l>    « Sire » ce dient li baron</l>
+<l>    « vos nos dites grant mesprison </l>
+<l>    Bien doit enuit avoir respit,</l>
+<l>    ja veez vos qu'il anuitit ».</l>
+<l>    Et li rois lor a ostroié</l>
+<l>    tant que li jors soit esclairié.</l>
+<l>    Defors les murs, loig du portal,</l>
+<l>    ot une place principal</l>
+<l>    ou se soloient deporter</l>
+<l>    et escuier et chevalier.</l>
+<l>    A li rois .x. chars envoiez,</l>
+<l>    chascun fu de busche chargiez.</l>
+<l>    Un ré i conmencent molt grant,</l>
+<l>    puis i ont mis le feu ardant.</l>
+<l>    .iiii. serjanz en apela,</l>
+<l>    por  Blancheflor les envoia.</l>
+<l>    « Ge coumant bien » ce dit li rois</l>
+<l>    « qu'el ameint sa mere avuec soi ».</l>
+<l>    Cil i alerent a enviz</l>
+<l>    quar por lui fu chascun marriz.</l>
+<l>    Lors ont trovee la meschine,</l>
+<l>    qui servoit devant la ro&#x00EF;ne.</l>
+<l>    Ne la vorrent saisir noient,</l>
+<l>    ainz li distrent molt doucement</l>
+<l>    « Damoisele, venez au roi »</l>
+<l>    « Mande me il ? » « Oo&#x00EF;l, par foi,</l>
+<l>    et vostre mere i amenez,</l>
+<l>    savroiz qu'il velt et si l'orres ».</l>
+<l>    Lors s'apareille la pucele,</l>
+<l>    qui ne sait mot de la novele. </l>
+<l>    Quide qu'il la vueille mostrer</l>
+<l>    a ses barons por esgarder.</l>
+<l>    Lors vesti un bliaut d'orfroiz,</l>
+<l>    la char ot blanche conme nois ;</l>
+<l>    molt li sist bien li cercles d'or,</l>
+<l>    sor les cheveus qui tant sont sor.</l>
+<l>    Et ele vait desaffublee,</l>
+<l>    la duschoise l'a amenee.</l>
+<l>    Por la pucele tuit ploroient,</l>
+<l>    tote la gent qui l'esgardoient,</l>
+<l>    tuit disoient « Dieus, quel domaige</l>
+<l>    de pucele de son aage.</l>
+<l>    Tant mar i fustes Blancheflor,</l>
+<l>    encui morroiz a grant doulor ».</l>
+<l>    Li rois meisme, qui la voit,</l>
+<l>    en son coraige le disoit</l>
+<l>    « tant mar i fu ceste pucele</l>
+<l>    qu'an cest monde n'en a plus bele.</l>
+<l>    Or l'estovra encui morir,</l>
+<l>    ne vueil ma loi laissier honir.</l>
+<l>    Molt me poise de cest amor,</l>
+<l>    devenir me fait trahitor ».</l>
+<l>    Cele vint a son jugement,</l>
+<l>    mais n'en savoit encor noient.</l>
+<l>    Estez la vos es rens entree,</l>
+<l>    et vit la gent si abosmee,</l>
+<l>    ni a celui qui mot li die,</l>
+<l>    tote la char li est fremie.</l>
+<l>    Et dit li rois « Venez avant.</l>
+<l>    Le jor fui ge molt nonsachant</l>
+<l>    que j'amai onques vostre bien,</l>
+<l>    mielz me venist norrir un chien</l>
+<l>    que vos servir ne alever.</l>
+<l>    Vos deviez mon fill amer,</l>
+<l>    sanblant li monstriez d'amor,</l>
+<l>    et queriez sa deshennor.</l>
+<l>    Poi aime voir l'enfant petit</l>
+<l>    cil qui son pere li ocit.</l>
+<l>    A grant pechié et a grant tort</l>
+<l>    aviez porchacié ma mort,</l>
+<l>    si m'envoiastes un present,</l>
+<l>    bien le virent tote ma gent,</l>
+<l>    dont mes damoiseaus est ocis :</l>
+<l>    Grant duel m'avez en mon cuer m[is].</l>
+<l>    Par jugement ont esgardé</l>
+<l>    que vos seroiz arse en un ré.</l>
+<l>    Ce poise moi, grant duel en ai</l>
+<l>    por ce que norrie vos ai,</l>
+<l>    et vos avez mort deservie,</l>
+<l>    mes filz vos tenoir por amie ».</l>
+<l>    La pucele se vit jugier</l>
+<l>    et vit sa fin si aproschier.</l>
+<l>    Devant le roi s'ageloigna,</l>
+<l>    molt doucement l'arresona </l>
+<l>    « Hai !» fait ele « Gentill roi,</l>
+<l>    ainz faus coraige n'o vers toi,</l>
+<l>    de vos trahir ne engignier</l>
+<l>    ne de vostre mort porchacier.</l>
+<l>    Quant il vos plaist que ge ci muere,</l>
+<l>    a vos me rent con a mon pere.</l>
+<l>    Quant vos volez que l'en m'ocie,</l>
+<l>    vos m'avez tant soef norrie !</l>
+<l>    De moi faites vostre talant</l>
+<l>    conme pere de son enfant ».</l>
+<l>    Li rois esgarde la pucele,</l>
+<l>    qui si tres simplement l'apele :</l>
+<l>    ne set soz ciel que il li die,</l>
+<l>    molt doit hair sa felonnie.</l>
+<l>    La duschoise voit et entent</l>
+<l>    l'angoisseus feu et le torment</l>
+<l>    ou sa fille est a mort jugiee ;</l>
+<l>    sa joie est a duel changiee.</l>
+<l>    Devant le roi s'agenoilla,</l>
+<l>    ambe .ii. les piez li baisa.</l>
+<l>    « Rois, » dist ele « Por Dieu, merci !</l>
+<l>    Ja vos ai ge tant jor servi !</l>
+<l>    Laissiez en Blancheflor aler</l>
+<l>    et si li faites forjurer</l>
+<l>    a toz jors mais vostre contree,</l>
+<l>    et ge soie arse et enbrasee :</l>
+<l>    por lui souferrai le torment ».</l>
+<l>    Li rois respont irieement</l>
+<l>    « L'une ne puet l'autre garir,</l>
+<l>    an .ii. vos covenra morir ».</l>
+<l>    Lors est la ro&#x00EF;ne venue</l>
+<l>    qui la parole a entendue.</l>
+<l>    Par le palais vint simplement</l>
+<l>    et plora molt grevagement.</l>
+<l>    Denant le roi vint, si l'apele</l>
+<l>    « Sire, merci de ma pucele !</l>
+<l>    La cheitive m'avez donee,</l>
+<l>    qui soz Saint Jasque fu proié.</l>
+<l>    Ne soffrez pas que l'en l'ocie,</l>
+<l>    trop feriez grant felonie ».</l>
+<l>    Li baron voient la ro&#x00EF;ne</l>
+<l>    qui si ert vers le roi encline.</l>
+<l>    Tuit li escrient hautement</l>
+<l>    cil ne li velt dire noient</l>
+<l>    « Quar li otroiez gentius ber</l>
+<l>    si la nos laissiez racheter</l>
+<l>    .vii. foiz la vos peserons d'or</l>
+<l>    bien en croistroiz vostre tresor ».</l>
+<l>    Et dist li rois « Ce n'a mestier</l>
+<l>    proiere ne li a mestier</l>
+<l>    volez vos ma loi vergonder ?</l>
+<l>    Ge vos pri, laissiez moi ester ».</l>
+<l>    Lors en jure son seirement</l>
+<l>    que ni a nul de cele gent</l>
+<l>    se huimais en avoit parlé</l>
+<l>    que ja ne fust desherité.</l>
+<l>    Atant issent de la cité</l>
+<l>    les dames ambe .ii. au ré</l>
+<l>    en moinent por mielz esploitier</l>
+<l>    se le feu fust apareillié</l>
+<l>    li rois volt fussent enz gitez</l>
+<l>    si remanroient cez criez</l>
+<l>    or en penst Dieus li toz puissanz</l>
+<l>    que li tormenz est assez granz.</l>
+<l>    Oo&#x00EF;r devez du fill le roi</l>
+<l>    qui molt estoit en grant effroi</l>
+<l>    quant il ne voit venir s'amie</l>
+<l>    sachoiz segurs ne fu il mie.</l>
+<l>    Vient a son maistre, prent congié,</l>
+<l>    puis est el palefroi puié</l>
+<l>    puiant en vient vers la cité</l>
+<l>    un gentill home a encontré</l>
+<l>    prodons estoit et bien du roi</l>
+<l>    Floire paroils ert lez la loi.</l>
+<l>    « Paroils » dist il « Dont venez vos ? »</l>
+<l>    « De la cité tot coroçous</l>
+<l>    merveilles i poez veoir</l>
+<l>    li rois velt Blancheflor ardoir</l>
+<l>    ersoit le volt enpoisoner</l>
+<l>    ardoir la volt et tormenter ».</l>
+<l>    Quant Floire la novele entent</l>
+<l>    onques mais ne fu si dolent.</l>
+<l>    Du palefroi cha&#x00EF; pasmez</l>
+<l>    et quant il se fu relevez</l>
+<l>    se lors l'o&#x00EF;ssiez dementer</l>
+<l>    et la pucele regreter.</l>
+<l>    « Hai ! Blancheflor, bele amie,</l>
+<l>    por m'amistié perdroiz la vie</l>
+<l>    grant felonie fait li rois »</l>
+<l>    « Parois » dist il « Conseilliez moi »</l>
+<l>    cil dist « Filz, ge te di itant</l>
+<l>    il n'en prenra or ne argent »</l>
+<l>    et Flores li a dit itant</l>
+<l>    « Or ne argent ne vos demant</l>
+<l>    fors c'unes armes me prestez</l>
+<l>    de ce estes bien aesiez »</l>
+<l>    « Sire » ce li dist li vassaus</l>
+<l>    « Trop est vostre pere cruaus</l>
+<l>    ge nel m'oseroie pensser</l>
+<l>    il me feroit desheriter »</l>
+<l>    Floire li est ch&#x00E1;oiz as piez</l>
+<l>    ja li eust an .ii. baisiez,</l>
+<l>    mais sa paroilz sel releva</l>
+<l>    plorer le vit, molt l'en pesa.</l>
+<l>    Puis li a dit « Beaus doz amis</l>
+<l>    se ge devoie le pais</l>
+<l>    vuidier, si seroiz vos armez,</l>
+<l>    mais molt est joenes vostre aez ».</l>
+<l>    Flores n'avoit que seul .xv. anz,</l>
+<l>    mais a merveilles estoit granz</l>
+<l>    por escremir ne por lancier</l>
+<l>    ne doutoit il nul chevalier.</l>
+<l>    L'en li aporta une broigne</l>
+<l>    qui fu au roi de Mageloigne</l>
+<l>    fort et legier et bien tenant</l>
+<l>    un heaume li lacent luisant</l>
+<l>    qui fu a l'amiral de Perse</l>
+<l>    que li dona le roi d'Averse</l>
+<l>    .ii. ymaiges ot el nasal</l>
+<l>    une pucele et un vassal.</l>
+<l>    Flores le vit, molt l'ot plus chier</l>
+<l>    senblant faisoient de baisier.</l>
+<l>    Et li aporta une espee</l>
+<l>    qui fu a l'amustal enblee</l>
+<l>    les letres dient qui i sont</l>
+<l>    que il a reliques el pont</l>
+<l>    se hom la porte qui ait droit</l>
+<l>    ne douter que vaincuz soit.</l>
+<l>    Puis li a dit molt doucement</l>
+<l>    « Filleus, ne la bailliez noient</l>
+<l>    vostre pere vos a molt chier</l>
+<l>    quant il vos fera chevalier</l>
+<l>    o vos en fera .c. armez</l>
+<l>    dont vos seroiz molt hennorez ».</l>
+<l>    Et Flores li respont iriez</l>
+<l>    « Se l'espee ne me çaigniez</l>
+<l>    que puisse a tens au chanp venir</l>
+<l>    ge doi bien m'amie garir</l>
+<l>    dont serai ge en fin honiz</l>
+<l>    çaigniez la moi, vostre merciz,</l>
+<l>    quar ne se doit nul escuier</l>
+<l>    armer encontre chevalier ».</l>
+<l>    Lors li a ceint le branc d'acier</l>
+<l>    et fist amener un destrier</l>
+<l>    un sor baucent bien acesmé</l>
+<l>    enmi le front fu estelé</l>
+<l>    sele ot de molt riche façon</l>
+<l>    d'ivuire furent li arçon</l>
+<l>    les auves sont d'autre maniere</l>
+<l>    la coverture fu molt chiere</l>
+<l>    d'un riche paile volatine</l>
+<l>    jusque la terre li traine</l>
+<l>    li frains estoit a or ovrez</l>
+<l>    les pierres gietent grant clartez</l>
+<l>    quar a conpas furent assises</l>
+<l>    et par engig i furent mises.</l>
+<l>    Quant il l'ot fermé en la teste</l>
+<l>    nus hom ne vit si bele beste.</l>
+<l>    Floires a la regne saisie</l>
+<l>    qui molt se haste por s'amie</l>
+<l>    montez i est par grant vertu,</l>
+<l>    et l'en li aporte un escu</l>
+<l>    ou il ot point .iii. lionceaus</l>
+<l>    d'or et d'argent molt furent beaus</l>
+<l>    li borz flamboie conme feu,</l>
+<l>    et li lion sont en mileu</l>
+<l>    la guiche fu d'un paile frois</l>
+<l>    bien taillié d'or sarrazinois</l>
+<l>    molt richement apareillie.</l>
+<l>    Lors li ont la lance baillie</l>
+<l>    par tel vertu l'a cil brandie</l>
+<l>    qui l'en fait voler les esclices.</l>
+<l>    « Sire » fait il « tel me bailliez</l>
+<l>    dont ge soie apareilliez</l>
+<l>    et doner puisse grant colee</l>
+<l>    se la bataille est assanblee ».</l>
+<l>    Un espié li fist aporter</l>
+<l>    ou il se pot molt bien fier</l>
+<l>    la hante fu d'un frois pomier,</l>
+<l>    et li fers d'un tranchant acier.</l>
+<l>    Armez est Floire, si s'en part</l>
+<l>    li esploiter li est molt tart</l>
+<l>    molt chevauche par grant vigor</l>
+<l>    sovent regrete Blancheflor.</l>
+<l>    Crient que ni viegne a tens james</l>
+<l>    « Hai ! » fait il « Cheval que fes</l>
+<l>    efforce toi et esvertue</l>
+<l>    se m'amie n'est secorue</l>
+<l>    que devenra cest pecheor</l>
+<l>    jamais n'avra joie nul jor ».</l>
+<l>    Molt se haste d'esperoner</l>
+<l>    forment le covenoit haster</l>
+<l>    se il i velt a tens venir</l>
+<l>    quar el est molt pres de morir.</l>
+<l>    Madiens est venuz au roi</l>
+<l>    « Sire » fait il « entendez moi</l>
+<l>    li feus est toz apareilliez »</l>
+<l>    et dist li rois « Or esploitiez ».</l>
+<l>    Les .ii. dames pranent menois</l>
+<l>    puisque conmandé l'ot li rois</l>
+<l>    tot droit en sont au feu venuz</l>
+<l>    onques tel duel ne fu veuz.</l>
+<l>    Conme la ro&#x00EF;ne faisoit</l>
+<l>    desus les dames se pasmoit</l>
+<l>    molt ploroient tote la gent</l>
+<l>    plus en i pasmerent de .c..</l>
+<l>    Quant Blancheflor sa mere voit</l>
+<l>    qui devant lui au feu aloit</l>
+<l>    estrangement fu deshetiee,</l>
+<l>    mais molt parla con ensaigniee</l>
+<l>    « Hai ! » fait el « droiz emperere</l>
+<l>    grant pechié faites de ma mere</l>
+<l>    faites m'avant el feu giter</l>
+<l>    ne puis son torment esgarder</l>
+<l>    soffrez un poi, danz seneschaus,</l>
+<l>    ne soiez mie si cruaus</l>
+<l>    laissiez moi faire une oroison</l>
+<l>    que Dieus nos face verai pardon ».</l>
+<l>    Dist Madiens « Ge l'otroi bien,</l>
+<l>    mais ne vos i vaudra ja rien</l>
+<l>    que vos seroiz arse et brulee,</l>
+<l>    et au vent la poudre ventee ».</l>
+<l>    A la terre s'agenoilla</l>
+<l>    et contre le ciel esgarda</l>
+<l>    « Dieus » dist elle « Glorious rois</l>
+<l>    qui donastes totes les lois</l>
+<l>    le ciel et la terre feistes</l>
+<l>    et tot le monde beneistes</l>
+<l>    oiseax et bestes et poissons</l>
+<l>    establistes par devisons.</l>
+<l>    Sire, quant li angle pechierent</l>
+<l>    qui encontre vos s'orguillirent</l>
+<l>    descendre les estuet aval</l>
+<l>    en un si doulerous hostal</l>
+<l>    plus que cuers ne porroit pensser</l>
+<l>    ne bouche dire ne parler</l>
+<l>    la destrece ne la doulor</l>
+<l>    le martire ne la puor.</l>
+<l>    Sire, por cel siege emplir</l>
+<l>    que Luciabel feis gerpir</l>
+<l>    faites home, si vos plot,</l>
+<l>    mais d'engig garder ne se sot</l>
+<l>    vos li feistes conpaignie</l>
+<l>    sa feme et s'espose et s'amie</l>
+<l>    d'une des costes del baron</l>
+<l>    faistes a vostre faiçon</l>
+<l>    conmandastes lui a servir</l>
+<l>    et a voz conmanz obeir,</l>
+<l>    et en un seint leu furent mis</l>
+<l>    qui est apelez Paradis</l>
+<l>    un seint vergier lor demonstrastes</l>
+<l>    et un arbre lor conmandastes</l>
+<l>    que si l'en menjuent noient</l>
+<l>    ce seroit a lor dampnement.</l>
+<l>    Quant Deable e sot verité</l>
+<l>    qui hom fu et faiz et formez</l>
+<l>    que les sieges devoit remplir</l>
+<l>    et son conmandement tenir</l>
+<l>    ainz de riens tant ne li pesa</l>
+<l>    a plus tost qu'il pot se hasta.</l>
+<l>    A la feme premerement</l>
+<l>    vint en figure de serpent</l>
+<l>    dist li s'il menjue du fruit</l>
+<l>    que de la joie et du deduit</l>
+<l>    porroient estre parçonier</l>
+<l>    et porroient o vos regner.</l>
+<l>    El en menja, si fist folie</l>
+<l>    et quant se trova escharnie</l>
+<l>    a Adan vint, si l'en dona</l>
+<l>    mangier le fist, trop li greva.</l>
+<l>    Molt richement erent vestu</l>
+<l>    des vestemenz qui erent la sus</l>
+<l>    tantost se trouverent tuit nu</l>
+<l>    de Paradis furent issu</l>
+<l>    et du sieges furent fors mis</l>
+<l>    ou vos les aviez assis.</l>
+<l>    Sire, por icel premier pere</l>
+<l>    et por la premeraine mere</l>
+<l>    qui trespasserent booan</l>
+<l>    et au Deable furent soen</l>
+<l>    esté avons en lor eissil</l>
+<l>    et en torment et en peril.</l>
+<l>    Deable qui nos ravisoit</l>
+<l>    le vif avoit quant il voloit</l>
+<l>    por amender icel forfet</l>
+<l>    en conmençastes un tel plet</l>
+<l>    ne voliez perdre vostre home</l>
+<l>    qu'aviez perdu par la pome</l>
+<l>    vostre sainte loi nos dona</l>
+<l>    et par bautesme conmença</l>
+<l>    que tuit cil qui en vos croiroient</l>
+<l>    et vostre saint cors recevroient</l>
+<l>    en avroient tuit sauvement</l>
+<l>    sel recevroient dignement.</l>
+<l>    Si con ge di voir beau doz sire</l>
+<l>    apareilliez hui mon martire</l>
+<l>    haiez hui merci de mon pere</l>
+<l>    ge pri por lui et por ma mere ».</l>
+<l>    De s'oroison est redreciee</l>
+<l>    de sa mein destre s'est seigniee</l>
+<l>    derriere soi regarda</l>
+<l>    vit sa mere, si se pasma.</l>
+<l>    Quant sa mere la vit pasmee,</l>
+<l>    lors fu forment desconfortee</l>
+<l>    a ceus parla puis dist itant</l>
+<l>    « Seignor, merci de mon enfant</l>
+<l>    laissiez la avant repairer,</l>
+<l>    puis en faites vostre plaisir.</l>
+<l>    Ha ! Bele fille, Blancheflor,</l>
+<l>    encui morroiz a grant doulor</l>
+<l>    beaus sire pere Jhesu bons</l>
+<l>    quar nos deffent par tes sainz nons</l>
+<l>    tu en sez bien la verité</l>
+<l>    c'onques ne li vint en pensse</l>
+<l>    a Blancheflor le roi ocire,</l>
+<l>    mais il a vers nos trop grant ire</l>
+<l>    molt nos heent cil trahitor</l>
+<l>    encui morron a grant doulor.</l>
+<l>    Sainte Marie douce mere</l>
+<l>    quar priez a Dieu nostre pere</l>
+<l>    qu'an la chartre muert a doulor</l>
+<l>    et lui et toz ses conpaignons</l>
+<l>    les mete toz avuec les bons ». </l>
+<l>    Atant a sa raison fenie</l>
+<l>    et Blancheflor s'est asperie,</l>
+<l>    et le tapiz ont aporté</l>
+<l>    li serjant furent apresté</l>
+<l>    por la pucele el feu lancier</l>
+<l>    sor le tapi l'ont fait couschier</l>
+<l>    ja l'eussent el feu lancie.</l>
+<l>    Quant es rans est la gent fremie</l>
+<l>    venir voient le damoisel</l>
+<l>    sor le cheval fort et isnel</l>
+<l>    lance sor fautre tint l'escu</l>
+<l>    toz enbrunchiez sor l'eaume agu</l>
+<l>    voie li font laissent l'aler</l>
+<l>    por la pucele delivrer</l>
+<l>    au seneschal s'est eslaissie</l>
+<l>    ferir le quide de l'espie</l>
+<l>    cil a la pucele gerpie</l>
+<l>    quar paor avoit de sa vie</l>
+<l>    cil qui tenoient le tapi</l>
+<l>    fuiant s'en vont, si l'ont gerpi.</l>
+<l>    Lors fist Floire grant baronie</l>
+<l>    par la mein destre prist s'amie</l>
+<l>    si l'a molt du feu esloigniee</l>
+<l>    quar trop en estoit aproschiee.</l>
+<l>    Puis li a dit « Ci vos estez</l>
+<l>    segurement vos contenez</l>
+<l>    vos ne morroiz huimais sanz moi</l>
+<l>    ne mais que bien en poist au roi ».</l>
+<l>    « Sire » dist ele « grant merciz »</l>
+<l>    li seneschaus fu molt marriz,</l>
+<l>    lors apela l'ampereor</l>
+<l>    « Avez ve&#x00FC; d'un lecheor</l>
+<l>    qui vostre cort a desjugiee</l>
+<l>    et honie vostre maisniee ?</l>
+<l>    les dames cuide garantir</l>
+<l>    et toz nos velt por fous tenir</l>
+<l>    or deust estre li gloz pris</l>
+<l>    et devant eles el feu mis ».</l>
+<l>    Floire s'est vers le roi tornez,</l>
+<l>    si l'apela conme senez</l>
+<l>    « Hai, » fait il « Empereor !</l>
+<l>    ne creez ja cest trahitor</l>
+<l>    ja sui ge issuz de ma terre</l>
+<l>    si aloie aventure querre</l>
+<l>    si chevauchoient .v. baron</l>
+<l>    qui tuit erent mi conpaignon</l>
+<l>    por ceste merveille esgarder</l>
+<l>    dont j'oi ton seneschal blasmer</l>
+<l>    sor aus as fait ton jugement</l>
+<l>    livrer les velz a grant torment.</l>
+<l>    Grant pechiez est de la pucele</l>
+<l>    s'el i moroit, que trop est bele</l>
+<l>    sui ci venuz por li deffendre</l>
+<l>    se nus velent la bataille prendre ».</l>
+<l>    Tote la gent s'est esjo&#x00EF;e</l>
+<l>    quant il ont la parole oo&#x00EF;e</l>
+<l>    « Danz seneschaus » ce dit li rois</l>
+<l>    « il est escrit en nostre lois</l>
+<l>    que ne puet morir par raison</l>
+<l>    des qu'el troeve deffenssion</l>
+<l>    ou tote quite la leroiz</l>
+<l>    ou contre lui vos conbatroiz ».</l>
+<l>    Et cil respont celeement</l>
+<l>    « Sire, ne li demant noient</l>
+<l>    bien porroie querre ma mort</l>
+<l>    vos savez bien que ni ai tort ».</l>
+<l>    Et dist li rois « porquoi doutez ?</l>
+<l>    Hardiement vos conbatez</l>
+<l>    cil vallez de joene aage</l>
+<l>    molt poi durra son vasselaig</l>
+<l>    ja voz .ii. cous ne sofferra</l>
+<l>    ne .ii. cous ne vos atendra</l>
+<l>    ne set li musarz qu'il se fet</l>
+<l>    onques mais ne fu en tel plait ».</l>
+<l>    « Sire » ce dit li seneschaus</l>
+<l>    « por vos ai esté trop crueaus</l>
+<l>    et por vostre loi essaucier</l>
+<l>    conment la leroi abaissier</l>
+<l>    totes voies me conbatrai,</l>
+<l>    mais a grant paine le ferai ».</l>
+<l>    Ses garnemenz fait aporter</l>
+<l>    en la place se fait armer</l>
+<l>    desor un bliaut de samit</l>
+<l>    vesti un bon hauberc treslit</l>
+<l>    fort et legier et bien tenant</l>
+<l>    un heaume li lacent luisant.</l>
+<l>    Madien ot çainte une espee</l>
+<l>    il n'ot si bone en la contree</l>
+<l>    fors c'une que Floires en a</l>
+<l>    que ses paroilz li presenta.</l>
+<l>    L'en li amoine un vairon</l>
+<l>    toz fu coverz d'un siglaton</l>
+<l>    li seneschaus i est puié,</l>
+<l>    lors li ont un escu baillié</l>
+<l>    qui fu coverz d'or et d'argent</l>
+<l>    a floretes avenanment.</l>
+<l>    Hante ot molt riche en son espié</l>
+<l>    un penon vert i ot lié.</l>
+<l>    La ro&#x00EF;ne venir le voit</l>
+<l>    bien sot que bons vassaus estoit</l>
+<l>    du vallet crient que s'esmaiast</l>
+<l>    et la bataille redoutast.</l>
+<l>    Trait soi pres de l'escu vermeil</l>
+<l>    au damoisel dist en conseil</l>
+<l>    « Conbatez vos segurement</l>
+<l>    que eles n'ont forfet noient</l>
+<l>    se la bataille est bien fornie ».</l>
+<l>    Floire regarde un poi sa mere</l>
+<l>    forment douta lui et son pere</l>
+<l>    ne velt que il soit conneuz</l>
+<l>    tant que li chans soit toz vaincuz.</l>
+<l>    Madiens est es rens entré</l>
+<l>    si a le vallet apelé</l>
+<l>    « Or me dites, Sire vassaus »</l>
+<l>    ce li a dit li seneschaus</l>
+<l>    « Volez vos celui delivrer</l>
+<l>    qui le roi volent enpoisoner ?</l>
+<l>    Se vos veissiez le present</l>
+<l>    que li rois fist et l'autre gent</l>
+<l>    ja ne vos penssissoiz de rien</l>
+<l>    une chose sachoiz vos bien</l>
+<l>    se vos en estes au peor</l>
+<l>    ce sera vostre deshennor.</l>
+<l>    Joenes estes, ne savez rien</l>
+<l>    quar me creez, si feroiz bien ».</l>
+<l>    Cil li dist « Sire, et ge de quoi</l>
+<l>    se vos voliez et le roi</l>
+<l>    connoistre vostre felonie</l>
+<l>    et la pucele fust garie</l>
+<l>    Ge la leroie ainsi ester,</l>
+<l>    et se cel plait ne puis trover</l>
+<l>    la bataille ne remaroit</l>
+<l>    por trestot lor qui jamais soit ».</l>
+<l>    Et Madiens a respondu</l>
+<l>    « Cist plez n'en ert ja conneu</l>
+<l>    or ni a plus gardez vos bien</l>
+<l>    ne vos affi huimais de rien ».</l>
+<l>    Li rois fist les rens eslargir</l>
+<l>    et les .ii. vassaus departir</l>
+<l>    a s'armes sist Floires si bien</l>
+<l>    que amender ni puet de rien.</l>
+<l>    Chascun disoit « De son aé</l>
+<l>    ne vit onques si bel armé ».</l>
+<l>    Quant il orent les escuz pris</l>
+<l>    et les espiez el fautre mis</l>
+<l>    bien s'aloignierent un arpent</l>
+<l>    il broschent irieement.</l>
+<l>    Floire feri le cop premier</l>
+<l>    qui voloit s'amie vengier</l>
+<l>    l'escu et l'auberc li faussa</l>
+<l>    de son espie qui l'aporta</l>
+<l>    el cors li mist par tel air</l>
+<l>    qui ne pot la broigne garir.</l>
+<l>    Bien l'en poist sel giete el sablon</l>
+<l>    par les rens dient li baron</l>
+<l>    « Cist vallez est de grant vertu</l>
+<l>    ja ert li seneschaus vaincu</l>
+<l>    ceste bataille ert tost fenie ».</l>
+<l>    Li rois qui sot la seignorie</l>
+<l>    fu molt dolenz du seneschal</l>
+<l>    quant le vit jus de son cheval</l>
+<l>    molt volentiers le remontast</l>
+<l>    se por honte ne le laissast.</l>
+<l>    Li seneschaus s'est relevez</l>
+<l>    feru se sent molt s'est hastez</l>
+<l>    quant de soi vit le pré vermeil</l>
+<l>    s'il ot poor ne men merveil</l>
+<l>    devant lui vit Floire venir</l>
+<l>    tot apresté de lui ferir.</l>
+<l>    Lors se conmence a porpensser</l>
+<l>    conment le porra vergonder</l>
+<l>    molt l'aresone belement</l>
+<l>    « Vallet » fait il « mien escient</l>
+<l>    petit avez besoig ve&#x00FC;</l>
+<l>    ge m'en sui bien aperce&#x00FC;</l>
+<l>    a moi volez joster a pié</l>
+<l>    vostre pris en ert abaissié,</l>
+<l>    mais laissiez moi quoi mon cheval,</l>
+<l>    et quant nos serons parigal</l>
+<l>    se poez avoir le meillor</l>
+<l>    tornera vos a grant henor ».</l>
+<l>    Et Floire li dist belement</l>
+<l>    « Ge n'ai de vilonner talent</l>
+<l>    ge nel vos vié nel je deffent</l>
+<l>    alez, montez segurement ».</l>
+<l>    Maidien monte tot haitié</l>
+<l>    qui le vallet a anganné</l>
+<l>    li rois et tote l'autre gent</l>
+<l>    s'en merveillerent durement</l>
+<l>    a toz les plusors en pesa</l>
+<l>    quant il cel plait li ostroia.</l>
+<l>    Aloigne soi le filz le roi</l>
+<l>    ses armes trait environ soi</l>
+<l>    li seneschaus l'a molt douté</l>
+<l>    quar a merveilles l'a grevé</l>
+<l>    a esmé soi et tint l'espié</l>
+<l>    vers le vallet s'est eslaissié</l>
+<l>    soz la boucle l'escu li fent</l>
+<l>    molt l'a feru irieement</l>
+<l>    l'auberc ronpi et desmailla</l>
+<l>    sachois c'onques ne l'espargna</l>
+<l>    si pres li a l'espie passé</l>
+<l>    c'un poi li rase du costé</l>
+<l>    enpoint le bien de grant vertu</l>
+<l>    contre terre l'a abatu.</l>
+<l>    Par les rens dient li vassal</l>
+<l>    « Bien est vengiez le seneschal</l>
+<l>    embedui sont de grant valor</l>
+<l>    or en verra l'on le meillor ».</l>
+<l>    Li damoiseaus s'est relevez</l>
+<l>    feru se sent, molt s'est iriez</l>
+<l>    li seneschaus vers lui s'en vient</l>
+<l>    et a .ii. mains s'espee tient</l>
+<l>    ferir le cuide maintenant,</l>
+<l>    mais Floire fu proz et vaillant</l>
+<l>    a lui et au cheval guenchist</l>
+<l>    et molt cortoisement li dit</l>
+<l>    « Se Dieus m'a&#x00EF;st, sire vassaus,</l>
+<l>    or avez vos fait que cruaus</l>
+<l>    oreinz me deistes ici</l>
+<l>    qui cil seroit en fin honiz</l>
+<l>    qui son conpaignon toucheroit</l>
+<l>    tant dis conme a pié seroit</l>
+<l>    ou mon cheval me renderoiz</l>
+<l>    ou avueques moi descendroiz ».</l>
+<l>    [E] Madiens respont itant</l>
+<l>    « Vos le feistes con enfant,</l>
+<l>    et ge vos en tieg por bricon</l>
+<l>    or en avrez mal gerredon</l>
+<l>    por mauvais home me tenrez</l>
+<l>    se vos jamais i remontez ».</l>
+<l>    A lui s'eslaisse, et cil l'atent</l>
+<l>    l'espee traite se deffent</l>
+<l>    hardiement le requeroit</l>
+<l>    le seneschal qui l'asalloit.</l>
+<l>    Quant Floire voit le seneschal</l>
+<l>    qui le requiert conme vassal</l>
+<l>    es rens vit plorer Blancheflor</l>
+<l>    qui de la mort fu en error</l>
+<l>    de la pucele ot grant pitié</l>
+<l>    son ennemi a aprismé</l>
+<l>    grant cop li done sor l'escu</l>
+<l>    a la terre l'a abatu</l>
+<l>    la hante coupe des espee</l>
+<l>    de quoi la voit si jostisié.</l>
+<l>    Madien voit fret son escu</l>
+<l>    et son espie qu'il ot perdu</l>
+<l>    grant paor ot, molt s'esmaia</l>
+<l>    quant de l'espee li menbra</l>
+<l>    isnelement i met la mein</l>
+<l>    Floire qui ne fu pas vilain</l>
+<l>    ainz qu'il soit sor lui ausez</l>
+<l>    li damoiseaus s'est si hastez</l>
+<l>    si est sailliz sor le destrier</l>
+<l>    onques por lui nel volt laissier.</l>
+<l>    L'espee traite l'escu pris</l>
+<l>    li est venuz devant le vis</l>
+<l>    grant cop li done en l'eaume agu</l>
+<l>    jusqua la coife l'a fendu</l>
+<l>    .c. desmailles du chapelier</l>
+<l>    li fist sentir devant l'acier</l>
+<l>    li vassaus se sent atornez</l>
+<l>    desor son arçon est clinez</l>
+<l>    li bons chevaus outre s'en vait</l>
+<l>    que cil descendre ne li lait.</l>
+<l>    Floire le voit, molt se hastoit</l>
+<l>    et molt hautement li crioit</l>
+<l>    « Vassaus estes vos endormi</l>
+<l>    vilainement m'avez gerpi</l>
+<l>    se vos ainsi vos en alez</l>
+<l>    et congié ne me requerez</l>
+<l>    tornez arriers et connoissiez</l>
+<l>    con li presenz fu envoiez</l>
+<l>    dont la pucele fu trahie</l>
+<l>    venez ça et nel laissiez mie ».</l>
+<l>    Li seneschaus s'o&#x00EF; blasmer,</l>
+<l>    sachoiz que molt l'en dut peser,</l>
+<l>    lors se dreça tot vergoignoit</l>
+<l>    por la pucele qu'el veoit</l>
+<l>    il tint l'espee tote nue,</l>
+<l>    vait le ferir, molt s'esvertue</l>
+<l>    amont el heaume qui flanboie</l>
+<l>    jusqua la coive li envoie.</l>
+<l>    Floire se vait vengier menois</l>
+<l>    qui d'escremir estoit cortois</l>
+<l>    o l'espee tel li dona</l>
+<l>    qua poi le braz ne li cospa.</l>
+<l>    Dist Madien « Feru m'avez</l>
+<l>    or sui honiz se m'eschapez ».</l>
+<l>    Lors s'en corut vers lui se trait</l>
+<l>    s'espee tint ferir le vet</l>
+<l>    sor le cor feri le cheval</l>
+<l>    tot le porfent jusqu'el poitral</l>
+<l>    desoz lui l'a ageloignié,</l>
+<l>    et Floire est remes a pié</l>
+<l>    tuit escrient grant et menu</l>
+<l>    ja ert li damoiseaus vaincu.</l>
+<l>    Blancheflor plore durement</l>
+<l>    et la ro&#x00EF;ne et l'autre gent</l>
+<l>    au roi n'estoit noient de bel</l>
+<l>    que meschaoit au damoisel</l>
+<l>    a poi que il nes dessevroit</l>
+<l>    que ses coraiges li traoit</l>
+<l>    s'il en seust la verité</l>
+<l>    petit eust el chanp esté.</l>
+<l>    Madiens li dist toz iriez</l>
+<l>    « Se vos du champ ne vos fuiez</l>
+<l>    petit i poez mais durer</l>
+<l>    or vueil de pres a vos parler ».</l>
+<l>    « Sire » disoit li damoiseaus</l>
+<l>    « Vostre cheval est trop isneaus</l>
+<l>    ge ne m'en puis fo&#x00EF;r a pié</l>
+<l>    quar de mes armes sui chargié</l>
+<l>    ge ni vig mi por fo&#x00EF;r,</l>
+<l>    mais por la pucele garir</l>
+<l>    que vos eussiez forjugiee,</l>
+<l>    mais molt ert ençois bargeniee</l>
+<l>    ja nul jor que ge aie a vivre</l>
+<l>    ne ferai tel recreantise</l>
+<l>    que ge du champ me parte ainsi</l>
+<l>    tant que ce soit du tout feni ».</l>
+<l>    Le seneschal fu esmaié</l>
+<l>    qui n'ot noient de son espié</l>
+<l>    le damoisel voit en la place</l>
+<l>    qui tient le sienne fet qu'il face</l>
+<l>    a li s'eslaisse irieement</l>
+<l>    ja en i avra un dolent.</l>
+<l>    Floire le vit si aproschié</l>
+<l>    il li a lancié son espié</l>
+<l>    par tel poesté le consut</l>
+<l>    haubers ne riens ne li valut</l>
+<l>    parmi ambe .ii. l'escostez</l>
+<l>    li est li fers tranchanz passez</l>
+<l>    bien l'enpoint sel giete a la terre</l>
+<l>    irieement le vait requerre.</l>
+<l>    Li seneschaus se volt lever,</l>
+<l>    mais ne se pot ravigorer</l>
+<l>    enferrez fu d'un grant espié,</l>
+<l>    et Floire l'a si aproschié</l>
+<l>    que soz l'espee le tenoit</l>
+<l>    bien sot que a la mort estoit.</l>
+<l>    Or est li rois trop irascuz</l>
+<l>    quant son vassal voit abatu</l>
+<l>    bien set que il en a le pire,</l>
+<l>    mais ne velt pas que il i muire</l>
+<l>    por la bataille departir</l>
+<l>    fait ses barons a lui venir.</l>
+<l>    Quant Floire a o&#x00EF; parler</l>
+<l>    de la bataille desseurer</l>
+<l>    de duel morra si estort</l>
+<l>    quar molt l'a aprochié de mort</l>
+<l>    ferir le vait molt se hasta</l>
+<l>    l'eaume et la coife li trancha</l>
+<l>    jusques denz l'a tot porfendu</l>
+<l>    contre terre l'a abatu,</l>
+<l>    puis essuie le branc d'acier</l>
+<l>    quar a merveille la voit chier.</l>
+<l>    Lors est sailliz el bon cheval</l>
+<l>    dont il ot mort le seneschal</l>
+<l>    en riant dist a la ro&#x00EF;ne</l>
+<l>    par dedesoz l'eaume l'encline</l>
+<l>    « Ceste pucele vos coumant</l>
+<l>    et en apres mon covenant ».</l>
+<l>    « Sire » ce li dit Blancheflor</l>
+<l>    « cist plez vos torne a grant henor</l>
+<l>    por nos avez le chanp finé</l>
+<l>    Floire vos en savra bon gré ».</l>
+<l>    « Damoiseaux » ce a dit le roi</l>
+<l>    « Quar remanez avueques moi </l>
+<l>    quant Floire sera chevalier</l>
+<l>    de vos fera son conseillier ».</l>
+<l>    Et Floire li a respondu</l>
+<l>    « Ge ne sui pas por ce venu</l>
+<l>    l'en ne doit pas amer seignor</l>
+<l>    qui croit conseil de trahitor</l>
+<l>    trahison est mauvaise afaire</l>
+<l>    et plus mauvese est a retraire</l>
+<l>    quar en la queue ou au chief</l>
+<l>    en vient l'en tost a mal eschief</l>
+<l>    or m'en irai en mon pais</l>
+<l>    ge ai bien fait ce que ge vis</l>
+<l>    ci pres m'atendent li baron</l>
+<l>    qui estoient mi conpaignon ».</l>
+<l>    Li rois a ses druz apelez</l>
+<l>    et quiert conseil a ses privez</l>
+<l>    le damoisel prenre voloit</l>
+<l>    tant qu'il seust qui il estoit</l>
+<l>    qui si fiert de lance et d'espee,</l>
+<l>    mais ni fist mie grant estee.</l>
+<l>    Partiz s'en est conme saichant</l>
+<l>    il n'el tenront ja por enfant</l>
+<l>    qu'il s'en est bien du chanp torné</l>
+<l>    que ainz en sot la verité</l>
+<l>    de s'amie grant joie fait,</l>
+<l>    mais molt est fous quant il li lait</l>
+<l>    cel jor en fu trop engignié</l>
+<l>    quar puis en fu il travaillié</l>
+<l>    plus l'en estut soffrir grant paine</l>
+<l>    que ainz Paris n'ot por Helaine.</l>
+<l>    Li rois ne l'amera noient</l>
+<l>    quar du seneschal fu dolent.</l>
+<l>    Floire chevauche a grant vertu</l>
+<l>    a Montelien est venu</l>
+<l>    la le desarment lieement</l>
+<l>    ses paroilz par la mein le prent</l>
+<l>    bien vit a l'eaume et a l'escu</l>
+<l>    qu'il s'est a certes conbatu</l>
+<l>    itant li dist con enseignié</l>
+<l>    « Mon bon cheval m'avez changié</l>
+<l>    ne me celez con l'avez fait »</l>
+<l>    « Sire » fist Floire « bien m'estait</l>
+<l>    que j'ai m'amie delivree</l>
+<l>    qui fust hui arse et bruslee ».</l>
+<l>    Cel jor le fist o lui ester</l>
+<l>    ainz ne le laissa remuer</l>
+<l>    sa plaie li a mecinez</l>
+<l>    cuar il estoit un poi navrez.</l>
+<l>    Du damoisel lairons ici</l>
+<l>    quar il est bien du chanp parti</l>
+<l>    si diron de l'ampereor</l>
+<l>    qui est remes en grant doulor</l>
+<l>    tuit li baron l'ont apelé</l>
+<l>    qui el champ avoient esté</l>
+<l>    « Hai, » fait il « Droiz amperere !</l>
+<l>    Molt estoit prodom vostre pere</l>
+<l>    et molt se tenoit hautement</l>
+<l>    et molt amoit tote sa gent</l>
+<l>    qui de felonie est repris</l>
+<l>    au jugement de cest pais</l>
+<l>    faire en estuet la venjance</l>
+<l>    il n'i avoit autre atendance</l>
+<l>    avez du seneschal ve&#x00FC;</l>
+<l>    con il li est mesavenu</l>
+<l>    se la jostise en remanoit</l>
+<l>    espoir uns autres si prenroit ».</l>
+<l>    Li rois l'o&#x00EF;, molt l'en pesa</l>
+<l>    a grant paine lor otroia</l>
+<l>    le seneschal ont desarmé,</l>
+<l>    si ont le cors ens fu gité</l>
+<l>    il a le mal por Blancheflor</l>
+<l>    tieus chief tiegnent li trahitor</l>
+<l>    aler s'en voloit la ro&#x00EF;ne</l>
+<l>    et la duschoise et la meschine</l>
+<l>    ne vuelent mais iluec ester</l>
+<l>    en ses chanbres s'en velt entrer.</l>
+<l>    Li rois a Blancheflor saisie</l>
+<l>    « Certes » fait il « n'en menrroiz mie</l>
+<l>    ele remanra ovuec moi</l>
+<l>    or l'aim ge molt par bone foi</l>
+<l>    or avra mon cuer et m'amor,</l>
+<l>    et si li dorrai grant hennor</l>
+<l>    et por mon fill l'avrai molt chiere</l>
+<l>    quar il l'aime de grant meniere ».</l>
+<l>    La ro&#x00EF;ne s'en vait molt liee</l>
+<l>    quant du seneschal fu vengiee</l>
+<l>    le cors en ont ve&#x00FC; ardoir</l>
+<l>    ainz que s'en vosist removoir.</l>
+<l>    La duschoise est molt esmaiee</l>
+<l>    por Blancheflor que l'ot laissiee</l>
+<l>    le roi doute grant poor a</l>
+<l>    que ja amer ne la porra</l>
+<l>    en une chanbre sont entrees</l>
+<l>    de plor et de duel sont matees</l>
+<l>    sor un tapiz sont endormies</l>
+<l>    prochainement seront marries.</l>
+<l>    En sa cité s'en vint li rois</l>
+<l>    Blancheflor ameine ovuec soi</l>
+<l>    or o&#x00EF;ez par quel destinee</l>
+<l>    la pucele fu dessevree</l>
+<l>    de son ami et de sa mere</l>
+<l>    en la chartre est li dus son pere</l>
+<l>    qui auques des noveles sot</l>
+<l>    si l'en sovint au mielz qu'il pot.</l>
+<l>    Au roi est venuz uns messaiges</l>
+<l>    qui li a dit en son langaige</l>
+<l>    une nef est ci arrivee</l>
+<l>    que marcheanz ont amenee</l>
+<l>    qui sont venuz d'autre contree</l>
+<l>    iluec vont achater et vendre</l>
+<l>    cil qui savoir vuelent aprendre</l>
+<l>    qui vult viure de tel mestier</l>
+<l>    et avoir velt a gaaignier.</l>
+<l>    L'emperere se porpensa</l>
+<l>    que la pucele lor vendra</l>
+<l>    ainsi en velt estre delivres</l>
+<l>    ja riens n'en savra homs qui vive</l>
+<l>    par la main destre l'a saisie</l>
+<l>    a tot s'en vait a la navie</l>
+<l>    li marcheant voient le roi</l>
+<l>    qui la pucele moine o soi</l>
+<l>    a merveille l'ont covoitiee</l>
+<l>    que l'ert molt bien apareillié</l>
+<l>    quant de pres virent sa beauté</l>
+<l>    si li ont molt tost demandé.</l>
+<l>    « Sire » font il « Venez avant</l>
+<l>    qua pucele est molt avenant</l>
+<l>    se por vendre li amenez</l>
+<l>    avoir vos en dorrons assez »</l>
+<l>    et lor a dit apertetement</l>
+<l>    « Ge la vos vendrai voirement ».</l>
+<l>    Cil covoitent le gaaignier</l>
+<l>    n'i ot noient del baigenier</l>
+<l>    .m. onces d'or de maintenant</l>
+<l>    li donerent li marcheant</l>
+<l>    et une coupe bien ouvree</l>
+<l>    onques sa per ne fu trouvee</l>
+<l>    onques nus hom ne vit sa per</l>
+<l>    il n'ot en terre ne en mer</l>
+<l>    oisel ne poisson qui ni soit</l>
+<l>    par devison toz fait adroit</l>
+<l>    desor le bort qui si resplent</l>
+<l>    fu devisé molt soltiment</l>
+<l>    si con Helaine fu ravie,</l>
+<l>    et que Paris prist par folie</l>
+<l>    el cercle d'or ot .ii. pomeaus</l>
+<l>    portraiz i sont .ii. damoiseaus</l>
+<l>    qui devisoient par nature</l>
+<l>    tote maniere d'escriture.</l>
+<l>    Li rois ot la coupe molt chiere</l>
+<l>    et molt l'ama de grant meniere</l>
+<l>    et Blancheflor lor a livree</l>
+<l>    si l'ont dedenz lor nef menee.</l>
+<l>    Quant Blancheflor se vit vendue</l>
+<l>    pasmee chiet la coulor mue</l>
+<l>    et quant el se fu redreciee</l>
+<l>    demanta soi molt fu iriee</l>
+<l>    « Hai, » fait ele « Mauvais roi !</l>
+<l>    grant felonie as fait de moi</l>
+<l>    qui por avoir m'avez donee</l>
+<l>    mar me veistes onques nee</l>
+<l>    ja ne verroiz .iii. jors passer</l>
+<l>    se vos me pooiez trouver</l>
+<l>    vos ne me vendriez noient</l>
+<l>    por moi .xiiii. pois d'argent.</l>
+<l>    Floire ne s'en gabera mie</l>
+<l>    por quoi li tolez vos s'amie ».</l>
+<l>    « Hai, » fait ele « Marcheant !</l>
+<l>    quant vos par estes non sachant</l>
+<l>    que vos donez por moi looier</l>
+<l>    certes vos le conparroiz chier.</l>
+<l>    Se Floires puet a tens venir</l>
+<l>    vos venroiz tart au repentir ».</l>
+<l>    Quant li rois la parole entent</l>
+<l>    il lor a dit isnelement</l>
+<l>    « Alez vos en gel vos conmant</l>
+<l>    quar ge ne vos sui plus garant</l>
+<l>    teus porra ci endroit venir</l>
+<l>    ne vos porroie garantir ».</l>
+<l>    Cil entendirent la novele</l>
+<l>    qui sont saisi de la pucele</l>
+<l>    lor engre sachent du gravier</l>
+<l>    et font la voile amont deecier</l>
+<l>    vont s'en a joie et a baudor.</l>
+<l>    Du port se part l'ampereor</l>
+<l>    si s'en revient en sa cité.</l>
+<l>    La ro&#x00EF;ne l'a apelé</l>
+<l>    et quant la pucele ne voit</l>
+<l>    si demanda ou el estoit,</l>
+<l>    et il li dit « Ge l'ai vendue »</l>
+<l>    ele respont con irascue</l>
+<l>    « Si m'a&#x00EF;st Dieus, mal l'avez fait</l>
+<l>    engenrrez vos est itel plait</l>
+<l>    dont nos seron tuit corrociez,</l>
+<l>    et Floire en sera iriez</l>
+<l>    quant s'amie ne trouvera</l>
+<l>    sachiez qu'il se corrocera</l>
+<l>    quant il ni a nul recourier.</l>
+<l>    Or faites donc apareillier</l>
+<l>    un gent tonbel en la cité</l>
+<l>    gardez qu'il soit toz atoz atornez</l>
+<l>    quant li damoiseaus ert venu,</l>
+<l>    et nos avron son duel ve&#x00FC;</l>
+<l>    se nos nel poons conforter</l>
+<l>    au tonbel le feron mener</l>
+<l>    si diron " Morte est Blancheflor </l>
+<l>    messe avon faite por s'amor "</l>
+<l>    por le tonbel que il verra</l>
+<l>    ilueques se confortera ».</l>
+<l>    Et dit li rois « Ge l'otroi bien ».</l>
+<l>    Du demorer n'i ot il rien</l>
+<l>    denant la tor fist a ciment</l>
+<l>    en un arvolt qui molt ert gent</l>
+<l>    font un tonbel apareillier</l>
+<l>    de marbre le fist entaillier</l>
+<l>    oiseaus et bestes et pointures</l>
+<l>    et de soltis tresgiteures</l>
+<l>    l'ont entaillie par dedefors,</l>
+<l>    mais dedenz n'i ot point decors</l>
+<l>    .ii. ymages par nigromance</l>
+<l>    i ot faites par tel senblance</l>
+<l>    de Floires et de Blancheflor</l>
+<l>    il reconterent lor amors</l>
+<l>    au chié desor ert le vassal</l>
+<l>    et la pucele contre val</l>
+<l>    une chaene i ot tendue</l>
+<l>    ainz plus bele ne fu ve&#x00FC;e</l>
+<l>    desor ot un molt bel enfant</l>
+<l>    molt fu bien faiz n'ert pas trop grant</l>
+<l>    apareilliez fu conme saige</l>
+<l>    senblant faisoit que molt fust</l>
+<l>    .ii. venz avoit apareilliez</l>
+<l>    a tueaus d'or bien entailliez</l>
+<l>    qui le mesaige conduisoient</l>
+<l>    tot ensement con il voloient</l>
+<l>    quant li venz de destre ventoit</l>
+<l>    a la pucele s'en aloit</l>
+<l>    senblant faisoit que il parloit</l>
+<l>    et ensanble li conseilloit</l>
+<l>    quant li vallez est abaissiez</l>
+<l>    l'autre vent est apareilliez</l>
+<l>    que conduisoit au damoisel</l>
+<l>    ice desoz estoit molt bel.</l>
+<l>    La duschoise ert dolente assez</l>
+<l>    quant le tonbel vit atornez</l>
+<l>    n'en ose plorer ne duel faire</l>
+<l>    quar li rois ert trop deputaire.</l>
+<l>    Icel jor fu faiz li tonbeaus</l>
+<l>    lendemain vint li damoiseaus</l>
+<l>    Floire repaire de l'escole</l>
+<l>    encui orra dure parole.</l>
+<l>    Encontre lui vienent la gent</l>
+<l>    au perron la ou il descent,</l>
+<l>    mais de tot ce ne li chaloit</l>
+<l>    quar molt s'amie desirroit</l>
+<l>    monstrer li quide le costé</l>
+<l>    qui ot esté el champ navré.</l>
+<l>    Son pere et sa mere salue,</l>
+<l>    puis lor demande de sa drue</l>
+<l>    « Mere » fait il « Ou est m'amie ? »</l>
+<l>    « Certes, beaus filz, el ni est mie</l>
+<l>    ele s'est alé deporter</l>
+<l>    ge ne le vos quier ja celer ».</l>
+<l>    La duschoise la regarda</l>
+<l>    et de sa fille li menbra</l>
+<l>    onques ne li pot mot soner</l>
+<l>    ançois conmença a plorer.</l>
+<l>    Lors s'est Floire aperce&#x00FC;</l>
+<l>    que il l'avoient deceu</l>
+<l>    « Mere » fait il « En bone foi</l>
+<l>    la vos baillai rendez la moi</l>
+<l>    ou ci devant vos m'ocirrai ».</l>
+<l>    « Lasse » dist ele « Que ferai</l>
+<l>    quant ge ne puis vie doner</l>
+<l>    a çaus qui vuelent trespasser ?</l>
+<l>    Qu'ele est morte por vostre amor</l>
+<l>    Madamoisele Blancheflor ».</l>
+<l>    Quant il o&#x00EF; que morte estoit</l>
+<l>    de son estal ou il estoit</l>
+<l>    cha&#x00EF; a la terre pasmez</l>
+<l>    et quant il se fu relevez</l>
+<l>    ses poinz detort ses cheveus tire</l>
+<l>    molt doucement plore et soupire.</l>
+<l>    Molt fist grant duel le damoisel,</l>
+<l>    lors le menerent au tonbel</l>
+<l>    desor le marbre se pasmoit</l>
+<l>    et molt doucement le baisoit</l>
+<l>    et quant les .ii. ymages voit</l>
+<l>    par un petit ne s'ocioit</l>
+<l>    voit sa figure et sa vie</l>
+<l>    par un petit ne pert la vie</l>
+<l>    molt regrete la damoisele</l>
+<l>    mar i fustes gentius pucele</l>
+<l>    « Hai, amie Blancheflor !</l>
+<l>    Ja fusmes nos né en un jor</l>
+<l>    et en un jor devons morir</l>
+<l>    se Dieus le volsist consantir ».</l>
+<l>    Le tonbel voloit despecier</l>
+<l>    por le cors s'amie baisier</l>
+<l>    li rois l'en part a molt grant paine</l>
+<l>    ovuec soi el pales l'en maine</l>
+<l>    iluec l'a tenu et gardé</l>
+<l>    en meniere d'ome desvé.</l>
+<l>    Quant Floire voit ne la durra</l>
+<l>    et ocirre ne se porra</l>
+<l>    si fait senblant du duel laissier</l>
+<l>    quar il les voloit engingnier</l>
+<l>    porpense soi qu'il s'ocirra</l>
+<l>    ou en la mer se noiera</l>
+<l>    quant d'une chose si sovient</l>
+<l>    qui de .ii. periz le retient</l>
+<l>    l'ampereres ot .ii. lions,</l>
+<l>    et orribles sont et felons</l>
+<l>    li leonier quant il savoient</l>
+<l>    en une fosse norrissoient</l>
+<l>    que il se voloit coronner</l>
+<l>    por ses granz festes hennorer</l>
+<l>    ors et lieparz i amenoient</l>
+<l>    tote la gent si deportoient.</l>
+<l>    Li damoiseaus s'est porpenssez</l>
+<l>    qu'il l'avroient tost devoré</l>
+<l>    tot droit a la fosse est venuz</l>
+<l>    iluec se despoilla toz nuz</l>
+<l>    les fieres bestes regarda</l>
+<l>    oiez con il se regreta</l>
+<l>    « Hai, » fait il « Sens et beautez !</l>
+<l>    petit avez en moi duré</l>
+<l>    mar fu onques mon vasselaige</l>
+<l>    se ge venisse en grant aage.</l>
+<l>    Ha, bele amie, Blancheflor !</l>
+<l>    por moi vos a morte mon pere</l>
+<l>    fu onques mais si crueus mere</l>
+<l>    qui pot soffrir tel felonie</l>
+<l>    dolenz les ferai en lor vie</l>
+<l>    seignor lion, recevez moi</l>
+<l>    et delivrez le fill le roi</l>
+<l>    de mon cors vos faz livroison</l>
+<l>    molt fist mes peres que felon</l>
+<l>    quant celui a de moi partie</l>
+<l>    par qui perdrai encui la vie ».</l>
+<l>    Quant ne se set plus dementer</l>
+<l>    en la fosse se lait aler</l>
+<l>    o les lions en grief torment</l>
+<l>    ja en sera li rois dolent.</l>
+<l>    Or est Floire o les lions</l>
+<l>    Ha, Dieus ! Con crueus conpaignons</l>
+<l>    cel jor avoient geuné</l>
+<l>    si erent trestuit afenmé</l>
+<l>    de mengier orent grant talent</l>
+<l>    quant il virent le bel enfant</l>
+<l>    qui en la fosse gist toz nuz</l>
+<l>    et devant lors piez estenduz</l>
+<l>    s'en pres l'eussent devoré</l>
+<l>    que tuit erent entalenté,</l>
+<l>    mais Dieus le regarda le jor</l>
+<l>    por la priere Blancheflor</l>
+<l>    qui en la nef estoit sor mer</l>
+<l>    e le nel pooit oblier</l>
+<l>    la puet l'en miracles veoir</l>
+<l>    qui puis fu tant bele a savoir</l>
+<l>    ge quit que nul home terrestre</l>
+<l>    pooist a nul jor plus bel estre.</l>
+<l>    La ou gisoit toz estanduz</l>
+<l>    fist Dieus por lui si granz vertuz</l>
+<l>    li lion nel porent touchier</l>
+<l>    ne de son cors point domagier</l>
+<l>    cil n'ot de vie nul espoir</l>
+<l>    trop est amors de grant pooir</l>
+<l>    qui si tost a home plaissié</l>
+<l>    et si mué et si changié</l>
+<l>    et si l'a tost en ses laz mis</l>
+<l>    en poi d'ore l'a si conquis</l>
+<l>    ja n'ert de si grant poesté</l>
+<l>    qu'il ne face sa volenté</l>
+<l>    molt se devroit bien homs garder</l>
+<l>    de si greveus fais aporter</l>
+<l>    il le porroit bien mestre jus</l>
+<l>    des que soufrir nel porroit plus</l>
+<l>    si conme fist Floires li genz</l>
+<l>    qui por s'amie est si dolenz</l>
+<l>    qui as lions s'ala livrer</l>
+<l>    des qu'il ne la pooit trover.</l>
+<l>    Quant vit que il nel toscheroient</l>
+<l>    ne autre mal ne li feroient</l>
+<l>    molt isnelement se leva</l>
+<l>    oez con il les apela</l>
+<l>    « Hai, » fait il « Seignor Leon !</l>
+<l>    tant soliez estre felon</l>
+<l>    riens ne pooit verr vos venir</l>
+<l>    se vos en aviez loisir</l>
+<l>    qui ne fust sempres devorez</l>
+<l>    ne sai que vos ja tendez</l>
+<l>    esploitiez tost, si me mengiez</l>
+<l>    ja en estes bien aesiez ».</l>
+<l>    Molt l'enclinerent doucement,</l>
+<l>    et li vallez irieement</l>
+<l>    des poinz et des piez les feroit</l>
+<l>    et par la fosse les chacoit.</l>
+<l>    Quant il nes pot faire marriz</l>
+<l>    et il les ot assez laidiz</l>
+<l>    a une part s'en vait ester</l>
+<l>    si reconmença a plorer.</l>
+<l>    Ne savoit mot l'empereor</l>
+<l>    que ses filz fust en tel doulor</l>
+<l>    quant li mengiers fu apresté</l>
+<l>    li rois a son fill demandé</l>
+<l>    querre le fist isnelement,</l>
+<l>    et quant il nel truevent noient</l>
+<l>    dient qu'il s'est en mer noiez,</l>
+<l>    lors est li dels reconmenciez</l>
+<l>    tuit ploroient petit et grant</l>
+<l>    por la doulor de lor enfant.</l>
+<l>    Quant cerchié orent haut et bas</l>
+<l>    tant que du querre furent las</l>
+<l>    sus el palais en sont venu</l>
+<l>    onques tel duel ne fu ve&#x00FC;.</l>
+<l>    Con il faisoient el palais</l>
+<l>    la ro&#x00EF;ne n'ert pas en pais</l>
+<l>    a poi qu'ele ne se desvoit</l>
+<l>    l'emperor souvent blasmoit</l>
+<l>    « Hai, » fait ele « Mauvais roi !</l>
+<l>    Ou est mes filz ? Rendez le moi</l>
+<l>    morz est par vostre cruauté</l>
+<l>    fist onques ce nul home né</l>
+<l>    qui ce feist de son enfant</l>
+<l>    or dient tuit petit et grant</l>
+<l>    que mort l'avez a escient</l>
+<l>    ne s'en mesferont d.e noient</l>
+<l>    mielz amasse que la pucele</l>
+<l>    qui tant par est cortoise et bele</l>
+<l>    en fust dame tote sa vie.</l>
+<l>    Hai lasse ! Quel felonnie !</l>
+<l>    s'il l'a preist par mariage</l>
+<l>    ja n'abessast vostre lignage</l>
+<l>    ja est li gentius aus ses peres,</l>
+<l>    et la franche dame est sa mere ».</l>
+<l>    « Lasse » fait ele « que feron</l>
+<l>    quant l'unne l'autre n'en avon ? »</l>
+<l>    L'amperere s'est perceuz</l>
+<l>    que ses pechiez l'a deceuz</l>
+<l>    quant la pucele fust vendue</l>
+<l>    dont teus perte lor est creue</l>
+<l>    entre ses homes se pasmoit</l>
+<l>    soventes foiz lor escrioit</l>
+<l>    « Ociez moi, vostre merci,</l>
+<l>    quar ge l'ai molt bien deservi ».</l>
+<l>    En son palais grant duel faisoit</l>
+<l>    quant des lions li sovenoit</l>
+<l>    maintenant prist un cierge ardant</l>
+<l>    au sozterrin en vient erant</l>
+<l>    quant ilueques le vit ester</l>
+<l>    forment les prist a mercier</l>
+<l>    « Seignor Leon » ce dit le roi</l>
+<l>    « ma druerie vos otroi</l>
+<l>    celui m'avez hui espargnié</l>
+<l>    dont en ma vie sui plus liez ».</l>
+<l>    Apeler fist les liemens</l>
+<l>    il li giterent volentiers</l>
+<l>    li rois amener fist .iii. tors</l>
+<l>    en la fosse le mist defors</l>
+<l>    por l'amistié Floire le gent</l>
+<l>    lor fist li rois itel present.</l>
+<l>    Quant li damoiseaus fu vestu,</l>
+<l>    et li chevalier sont venu</l>
+<l>    environ lui grant joie moinent</l>
+<l>    de lui conforter molt se poinent</l>
+<l>    la ro&#x00EF;ne le volt baisier,</l>
+<l>    mais il ne le volt otroier</l>
+<l>    « Mere » fait il « Ne m'atoschiez</l>
+<l>    quar de duel sui si angoissiez</l>
+<l>    ge n'avrai mes joie nul jor</l>
+<l>    quant j'ai perdue Blancheflor</l>
+<l>    tant con l'ame me soit el cors</l>
+<l>    et el soit issue fors</l>
+<l>    et ovuec m'amie a jostee</l>
+<l>    n'en ert par moi joie menee ».</l>
+<l>    « Beaus sire filz, » ce dit le roi</l>
+<l>    « Mais or aiez merci de moi</l>
+<l>    se tu te velz resleescier</l>
+<l>    demain te ferai chevalier</l>
+<l>    liverrai toi tot mon tresor</l>
+<l>    et te dorrai corrone d'or</l>
+<l>    ja n'a il feme environ moi</l>
+<l>    fille a prince ne fille a roi</l>
+<l>    que ge ne te face amener »</l>
+<l>    et Floire dist « Laissiez m'ester</l>
+<l>    que ja por nule manantie</l>
+<l>    n'oblierai ma doce amie</l>
+<l>    ou par lui m'estoura garir</l>
+<l>    ou par lui m'estoura  morir ».</l>
+<l>    « Beaus sire filz, » ce dit li rois</l>
+<l>    « Quant en si grant doulor te voi</l>
+<l>    connoistre te vueil verité</l>
+<l>    ne te puet estre plus celé</l>
+<l>    que Blancheflor est devenue</l>
+<l>    se Dieus m'a&#x00EF;st, ge l'ai vendue ».</l>
+<l>    Quant Flore ot que n'est pas morte</l>
+<l>    un petitet se reconforte</l>
+<l>    a l'amperor dit itant</l>
+<l>    « Savez qui sont li marchheant</l>
+<l>    qui Blancheflor ont achetee</l>
+<l>    enques terres l'en ont menee »</l>
+<l>    « Certes » dist li rois « Ge ne sai ».</l>
+<l>    « He, Dieus, » dist Floire « Que ferai ?</l>
+<l>    Or m'estoura dangier soffrir</l>
+<l>    et maint poior de moi servir</l>
+<l>    et avoir maint mauves ostal.</l>
+<l>    Douce amie con j'avrai mal </l>
+<l>    ainz que ge vos aie trovee</l>
+<l>    he las chetis quel destinee</l>
+<l>    conment peres jor de sa vie</l>
+<l>    pot engignier tel felonie ».</l>
+<l>    « Beaus sire filz » ce dit le roi</l>
+<l>    « Tot ce faisoie ge por toi</l>
+<l>    et por ton barnaige essaucier</l>
+<l>    or nos velz tu trop abaissier</l>
+<l>    la pucele velz aler querre</l>
+<l>    qui fu proiee en autre terre</l>
+<l>    ceste terre est molt covoitiee</l>
+<l>    et sovent de gerre marchiee</l>
+<l>    vers tel home quier mariaige</l>
+<l>    s'il voit ta honte et ton domaige</l>
+<l>    que bien le t'a&#x00EF;st a deffendre</l>
+<l>    iluec devroies tu entendre ».</l>
+<l>    Et Floire dist « Ce ne vaut rien</l>
+<l>    une chose vos di ge bien</l>
+<l>    ou face savoir ou folie</l>
+<l>    demain irai querre m'amie.</l>
+<l>    Or vos dirai que vos feroiz</l>
+<l>    une nef m'apareilleroiz</l>
+<l>    si m'i metez or et argent</l>
+<l>    et me chargiez de vostre gent</l>
+<l>    que ge puisse mener barnaige</l>
+<l>    conme vallez de mon aage ».</l>
+<l>    Quant voit li rois nel retenra</l>
+<l>    ainz nule rien tant nel greva</l>
+<l>    nel volt laissier noient morir</l>
+<l>    tantost fist une nef venir,</l>
+<l>    tote la nuit o lui veillerent</l>
+<l>    et molt doucement li prierent</l>
+<l>    c'un poi de respit lor donast</l>
+<l>    en dementiers s'apareillast</l>
+<l>    quar hom qui velt ainsi aler</l>
+<l>    covenroit molt bien atorner</l>
+<l>    ja ni avra fait il respit</l>
+<l>    ja ni avra jor entre nuit.</l>
+<l>    Et quant li jors s'est esclarciez</l>
+<l>    Floires s'est vestuz et chauciez</l>
+<l>    isnelement vait au rivaige</l>
+<l>    li rois i mena son bernage</l>
+<l>    .v&#x0368;. chevaliers li bailla</l>
+<l>    richement les apareilla</l>
+<l>    de bacheliers et de serjanz</l>
+<l>    ne vos vueil mie dire quanz.</l>
+<l>    La duschoise vint au danzel</l>
+<l>    plorant le prist par le mantel</l>
+<l>    et si li a un laz baillié</l>
+<l>    que sa fille li ot laissié</l>
+<l>    de ses cheveus estoit longiez</l>
+<l>    Floires le prist, molt s'en fist liez</l>
+<l>    plus de .v&#x0368;. foiz le baisa</l>
+<l>    et la pucele regreta</l>
+<l>    du braz se fist tant dovrir</l>
+<l>    que pot le laz dedenz cueillir.</l>
+<l>    Et quant il l'ot baisie assez,</l>
+<l>    et ses erres fu aprestez</l>
+<l>    jamais arrier ne tornerra</l>
+<l>    tant que s'amie trouvera</l>
+<l>    ou ert per li a mort jugiez</l>
+<l>    or est ses travauz conmenciez.</l>
+<l>    En sa nef est entrez l'enfant</l>
+<l>    le roi apele maintenant</l>
+<l>    or li dira ja tel novele</l>
+<l>    qui gaires ne li sera bele</l>
+<l>    « Peres » fait il « Ge m'en irai</l>
+<l>    toz esgarez quar ge ne sai</l>
+<l>    en ques leu n'en con fait pais</l>
+<l>    grant soffraite aiez vos d'amis</l>
+<l>    si avra il mien escient</l>
+<l>    se l'estoire ne se desment.</l>
+<l>    Sire, bien queriez ma paine</l>
+<l>    quant vos en cel autre semaine</l>
+<l>    droit a l'escole m'envoiastes</l>
+<l>    grant felonnie porpenssastes</l>
+<l>    Blancheflor voliez ardoir</l>
+<l>    ge la rescous a mon pooir</l>
+<l>    si ocis vostre seneschal</l>
+<l>    le jor oi assez bien et mal ».</l>
+<l>    Lors a le bliaut sozlevé</l>
+<l>    la plaie monstre du costé</l>
+<l>    li rois la vit, si se pasma</l>
+<l>    sachiez que molt grant doulor a</l>
+<l>    drescent les voiles contremont</l>
+<l>    quant cil voient que il s'en vont</l>
+<l>    pasmez remestrent el gravier</l>
+<l>    li rois et tuit si chevalier.</l>
+<l>    Vait s'en la nef molt ont bon vent</l>
+<l>    Floire va confortant sa gent</l>
+<l>    si con aventure les moine,</l>
+<l>    mais molt orent pesant estraine.</l>
+<l>    Desoz Fusis sont arrivé</l>
+<l>    ainsi avoit non la cité</l>
+<l>    dont Sanones ert sire et rois</l>
+<l>    un amperere molt cortois.</l>
+<l>    Un fill avoit molt estoit beaus</l>
+<l>    et estoit chevaliers noveaus</l>
+<l>    Diogenes fu apelez</l>
+<l>    il n'ot si bel en .c. regnez.</l>
+<l>    Quant li vassal sont arrivé</l>
+<l>    au meillor port de la cité</l>
+<l>    au roi est venuz un mesaige</l>
+<l>    qui li a dit en son langaige</l>
+<l>    « Une nef est ci arrivee</l>
+<l>    ainz si riche ne fu trovee</l>
+<l>    lors sires est uns damoiseaus</l>
+<l>    qui a grant merveilles ert beaus</l>
+<l>    molt amoine grant baronie</l>
+<l>    molt a riche chevalerie ».</l>
+<l>    Diogenes a entendu</l>
+<l>    que li chevalier sont venu</l>
+<l>    grant joie en a en son corage</l>
+<l>    por esprover son vasselaige</l>
+<l>    ses conpaignons apele a soi</l>
+<l>    sanz le conmandement le roi</l>
+<l>    armer les fist en lor ostaus,</l>
+<l>    puis monterent sor les chevaus</l>
+<l>    de la vile issent fierement</l>
+<l>    les ensaignes metent au vent.</l>
+<l>    Quant Floire choisi la conpaigne</l>
+<l>    qui devaloit de la montaigne</l>
+<l>    et vit les heaumes flanboier</l>
+<l>    et les ensaignes baloier</l>
+<l>    a ses chevaliers dist itant</l>
+<l>    « Armez vos tuit gel vos conment ».</l>
+<l>    De la vile issent chevalier</l>
+<l>    molt tost devalent el gravier</l>
+<l>    « Se il nos truevent desguarni</l>
+<l>    il nos avroient tuit honi</l>
+<l>    alez as guarnemenz corant ».</l>
+<l>    Chascun si vest un hauberc blanc</l>
+<l>    ceignent les espees tranchanz</l>
+<l>    et lacent les heaumes luisanz</l>
+<l>    et sont es bons chevaus puiez</l>
+<l>    et pranent les forbiz espiez.</l>
+<l>    Ez les vos el gravier venuz</l>
+<l>    Floire en apele ses druz</l>
+<l>    « Baron » ce dit le filz le roi</l>
+<l>    « traez vos tuit environ moi</l>
+<l>    veez les chevaliers venir,</l>
+<l>    mais nes irons pas envahir</l>
+<l>    s'il se vuelent a nos meller</l>
+<l>    gardez que nus ni soit aver,</l>
+<l>    mais monstrez lor au bien ferir</l>
+<l>    que ge puis mielz le chanp tenir ».</l>
+<l>    Diogenes vit les vassaus</l>
+<l>    montez desor les bons chevaus</l>
+<l>    .c. chevaliers lor envoia</l>
+<l>    « Baron » fait il « or i parra</l>
+<l>    gardez qu'il soient bien feru</l>
+<l>    vos seroiz molt tost secoru ».</l>
+<l>    Cil firent son comandement,</l>
+<l>    mais ni gaaignierent noient</l>
+<l>    entre les noz se sont feru</l>
+<l>    il furent molt bien receu</l>
+<l>    de çaus abatent la moitié</l>
+<l>    cil ont le tornoi comencié.</l>
+<l>    Diogenes ne tarda mie</l>
+<l>    et vit sa gent si departie</l>
+<l>    a aus s'eslaisse par desroi</l>
+<l>    onques n'i ot tenu conroi</l>
+<l>    cil les sorent bien recevoir</l>
+<l>    et lor vasselaige veoir</l>
+<l>    brisent et lances et escuz</l>
+<l>    molt en i ot des abatuz</l>
+<l>    dont li cheval sont estraier</l>
+<l>    onques coarz n'i ot mestier.</l>
+<l>    Diogenes vait par les rens</l>
+<l>    o grant proesce et o grant sens</l>
+<l>    molt hautement s'ensaigne escrie</l>
+<l>    tote sa gent o soi ralie.</l>
+<l>    Et Floire ert el chanp venu</l>
+<l>    lance sor fautre tint l'escu</l>
+<l>    quant il li vit sa gent laidir</l>
+<l>    le destrier broche par ahir.</l>
+<l>    Grant doulor fu quant l'encontra</l>
+<l>    l'escu et l'auberc li faussa</l>
+<l>    l'espie li met parmi le piz,</l>
+<l>    et cil a les arçons gerpiz</l>
+<l>    bien l'enpoint sel giete el gravier</l>
+<l>    ne li orent mire mestier.</l>
+<l>    Quant cil virent mort lor seignor</l>
+<l>    tuit li plusor en ont doulor</l>
+<l>    quant il n'orent a qui tenir</l>
+<l>    le chanp lor covint a gerpir</l>
+<l>    pranent les regnes, si s'en vont,</l>
+<l>    et cil molt grant enchauz lor font</l>
+<l>    o aus sont en la vile entrez</l>
+<l>    lor pechié les i a menez</l>
+<l>    saillent borjois et chevalier</l>
+<l>    et bachelier fort et legier</l>
+<l>    de totes parz le sont enclos</l>
+<l>    il i entrerent conme fous.</l>
+<l>    Quant Floire se vit entrepris,</l>
+<l>    et en la vile se sont mis</l>
+<l>    de tote parz lor force croist</l>
+<l>    et de partir ne s'en pooit.</l>
+<l>    « Baronce » dit li damoiseaus</l>
+<l>    « Nostre n'en est pas li plus beaus</l>
+<l>    angoisseus geu avons parti</l>
+<l>    des que nos l'avons fait issi</l>
+<l>    ferez itant qu'au dessevrer</l>
+<l>    ne se puissent de nos gaber ».</l>
+<l>    Si fierent il de totes parz</l>
+<l>    nel firent mie por coariz</l>
+<l>    merveillous fu li chapleiz</l>
+<l>    des branz qu'il tenoient forbiz.</l>
+<l>    Floire regarde sa mesniee</l>
+<l>    si la voit molt affebloiee</l>
+<l>    un dru le roi a encontré</l>
+<l>    qui a merveille l'ot grevé</l>
+<l>    a tot l'eaume la teste en prent</l>
+<l>    tuit si ami en sont dolent</l>
+<l>    a lui conmencent a lancier</l>
+<l>    si li ont ocis son destrier ;</l>
+<l>    mais Floire fu preuz et vaillant</l>
+<l>    en piez est sailliz maintenant</l>
+<l>    contre lui lieve son escu</l>
+<l>    molt fierement s'est contenu</l>
+<l>    environ lui fait grant essart</l>
+<l>    nel tienent mie por coart.</l>
+<l>    Tant a en la bataille estez</l>
+<l>    et feruz et poinz et boutez</l>
+<l>    que son escu est empiriez</l>
+<l>    et son heaume toz domagiez</l>
+<l>    en son hauberc n'ot tant dentier</l>
+<l>    que mais a&#x00EF;st au chevalier</l>
+<l>    tant l'ont de totes parz feru</l>
+<l>    contre terre l'ont abatu</l>
+<l>    et puis l'ont pris au redrecier</l>
+<l>    ainz rescosse n'i ot mestier</l>
+<l>    par les rens vint et vit sa gent</l>
+<l>    qui iluec erent a torment</l>
+<l>    .c. et .l. en ont ocis,</l>
+<l>    et les autre sont trestoz pris.</l>
+<l>    Quant la bataille fu fenie,</l>
+<l>    et çaus dedenz l'ont departie</l>
+<l>    au roi ont les presons reduz</l>
+<l>    qu'an la vile orent retenuz</l>
+<l>    li rois a joie des prisons</l>
+<l>    et mercie toz ses barons</l>
+<l>    qui sa cité ont deffendue</l>
+<l>    ou tel perte li est creue.</l>
+<l>    De son fill grant merveille avoit</l>
+<l>    quant devant lui venir nel voit ;</l>
+<l>    mais d'une chose grant dote ot</l>
+<l>    por que l'estor conmencie ot</l>
+<l>    des rues fist les morz oster</l>
+<l>    et por le sanc les fist laver</l>
+<l>    cil qui les morz vont redreçant</l>
+<l>    chascun plaint son apartenant.</l>
+<l>    Le tousel truevent el gravier</l>
+<l>    sor son escu l'ont fait couchier</l>
+<l>    a la vile atont sont venu</l>
+<l>    molt ot grant duel environ lui</l>
+<l>    soz un pin ont le vallet mis</l>
+<l>    sor un peron de marrbre bis.</l>
+<l>    Quant li rois a ve&#x00FC; le mort,</l>
+<l>    et le duel qui fu grant et fort,</l>
+<l>    lors demanda que ce estoit,</l>
+<l>    et un damoisel li disoit</l>
+<l>    « Sire, ce est Diogenes</l>
+<l>    vostre filz jamais nel verroiz ».</l>
+<l>    Quant il o&#x00EF; qu'il estoit morz,</l>
+<l>    lors n'i ot il mestier conforz</l>
+<l>    a terre cha&#x00EF; jus pasmez</l>
+<l>    et quant il se fu relevez</l>
+<l>    le cors son fill vait enbracier</l>
+<l>    et contre lui le vait lever</l>
+<l>    descolorez fu et paliz</l>
+<l>    quant il le trova si froidiz,</l>
+<l>    adonc l'o&#x00EF;ssiez dementer</l>
+<l>    et Diogenes regreter</l>
+<l>    « Beaus sire filz » ce dit li rois</l>
+<l>    « Tant puis estre dolenz de toi</l>
+<l>    qu'est devenue la beauté</l>
+<l>    qui si t'avoit enluminé</l>
+<l>    la proece et li hardemenz</l>
+<l>    ha las con puis estre dolenz</l>
+<l>    que ge ai vie et tu es mort</l>
+<l>    or ont de moi li dieu grant tort</l>
+<l>    molt avoie amee la loi</l>
+<l>    ainz ne dechai endroit moi</l>
+<l>    mauvais dieus ai toz jorz servi</l>
+<l>    quant il n'orent de moi merci</l>
+<l>    el champ vos ont laissie morir</l>
+<l>    ne vos voldrent por moi guarrir</l>
+<l>    beaus filz quant ge te fis seignor</l>
+<l>    et chies de trestote m'anor</l>
+<l>    coroner te fis hautement</l>
+<l>    o mon barnaige et o ma gent</l>
+<l>    adonc oi ge joie de toi</l>
+<l>    quar trestuit t'apelerent roi</l>
+<l>    por ton sen et por ta beauté</l>
+<l>    quida estre molt hennoré</l>
+<l>    et or quida estre a sejor</l>
+<l>    or n'istra jamais de doulor</l>
+<l>    quant hui main me dist le mesaige</l>
+<l>    que la nef estoit au rivaige</l>
+<l>    vos conpaignons armer feistes</l>
+<l>    onques congié ne m'en queistes</l>
+<l>    ce fu par vostre lecherie</l>
+<l>    vostre forfaiz vos tolt la vie</l>
+<l>    por l'estor qu'il a conmencie</l>
+<l>    nos ni avons riens gaaignie ».</l>
+<l>    Un poi leva amont sa chiere</l>
+<l>    desor le cors se trest arriere</l>
+<l>    sa gent voit qui tel duel fesoient</l>
+<l>    et molt grant duel en demenoient,</l>
+<l>    por lor grant duel le sien laissa</l>
+<l>    et lui et aus reconforta</l>
+<l>    « Seignor baron » ce dit li rois</l>
+<l>    « Male merciz avez de moi</l>
+<l>    quar laissez cest grant duel ester</l>
+<l>    vos ni poez riens conquester ».</l>
+<l>    « Sire » ce dient li baron</l>
+<l>    « N'en poons mais se nos ploron</l>
+<l>    tel perte avez hui receue</l>
+<l>    qui ne nos puet estre rendue.</l>
+<l>    Puis qu'il ni a nul recourier,</l>
+<l>    or penssez donc de vos vengier,</l>
+<l>    quar vos avez liez et pris</l>
+<l>    çaus qui ocistrent noz amis ».</l>
+<l>    Et dit li rois en la soffrance</l>
+<l>    « Ne doit avoir nul atendance »</l>
+<l>    et dist li rois « Ge vuel savoir</l>
+<l>    se ges ferai pendre ou ardoir</l>
+<l>    ou detrahiner a destriers,</l>
+<l>    li queus tormenz lor ert plus gries ».</l>
+<l>    « Sire » ce dient li vassal</l>
+<l>    « Trainez soient a cheval</l>
+<l>    icil tormenz lor est plus forz</l>
+<l>    a plus grant paine avront la mort ».</l>
+<l>    Et li rois lor a dit itant</l>
+<l>    « Or en penssez, gel vos conmant ».</l>
+<l>    Floire estoit devant le roi,</l>
+<l>    ses homes voit environ soi</l>
+<l>    penssis et mornes et riez</l>
+<l>    en lor bliauz toz desarmez.</l>
+<l>    Quant il o&#x00EF; lor mort jugier</l>
+<l>    et lor torment apareillier,</l>
+<l>    estrangement en fu dolenz</l>
+<l>    ne puet laissier ne se desment.</l>
+<l>    « Hai, pere qui m'engendras,</l>
+<l>    onques de bon cuer ne m'amas</l>
+<l>    quant porchacaste ma doulor,</l>
+<l>    quant vos vendistes Blancheflor,</l>
+<l>    por lui querre fui esmeu.</l>
+<l>    Ha las ! Con m'est mesavenu.</l>
+<l>    Arrivez sui a mauves port,</l>
+<l>    et o moi sont mi home mort,</l>
+<l>    et or morra li remananz,</l>
+<l>    ne ge ne aus n'avrons garanz.</l>
+<l>    Ici morrai, ja nel savront,</l>
+<l>    ne de lor elz ne me verront ».</l>
+<l>    Li rois a Floire regardé,</l>
+<l>    dolent le vit et abosmé,</l>
+<l>    et dit ne l'ocirra noient</l>
+<l>    tant qu'il savra a escient</l>
+<l>    dom il est et de quel paraige ;</l>
+<l>    il velt connoistre son lignaige.</l>
+<l>    Par la mein destre l'a saisi</l>
+<l>    tot maintenant li avoit dit</l>
+<l>    « Vallez » fait il « Dont es tu né ?</l>
+<l>    Savoir en vueil la verité »</l>
+<l>    et cil li dit molt doucement</l>
+<l>    « Sire, nel celeroi noient.</l>
+<l>    D'Aumarie sui filz le roi,</l>
+<l>    mes peres est forfez vers moi.</l>
+<l>    Oez con fist grant felonnie :</l>
+<l>    il meisme vendi m'amie</l>
+<l>    meuz estoie por lui querre</l>
+<l>    arrivez sui en vostre terre.</l>
+<l>    De bataille talent n'avoie,</l>
+<l>    mais noveles o&#x00EF;r voloie</l>
+<l>    quant vostre filz par s'estoutie</l>
+<l>    a mena sa chevalerie</l>
+<l>    quant il cuida a nos parler,</l>
+<l>    et il vinrent a nos joster.</l>
+<l>    A aus jostasmes a meschief,</l>
+<l>    d'amedos parz fu l'estor grief</l>
+<l>    bien sai que sor moi desfendant</l>
+<l>    t'ai hui ocis ton bel enfant.</l>
+<l>    Or te puis bien de moi vengier</l>
+<l>    que rescorre ni a mestier ».</l>
+<l>    Quant li rois l'ot oo&#x00EF; parler,</l>
+<l>    si se conmence a porpensser</l>
+<l>    que ce seroit trop grant domaige</l>
+<l>    de damoisel de son paraige.</l>
+<l>    « Sire vallez » ce dit li roi</l>
+<l>    « Vos estes molt forfaiz vers moi,</l>
+<l>    mon filz m'avez mort et ma gent,</l>
+<l>    dont ge ai molt le cuer dolent.</l>
+<l>    Esmeuz est t'amie querre,</l>
+<l>    et si ne sez ou n'en quel terre</l>
+<l>    or t'en iras desconseilliez,</l>
+<l>    de toi doit l'on avoir pitié.</l>
+<l>    Tot ensement, por un amor,</l>
+<l>    fui ge ja travailliez maint jor,</l>
+<l>    maint mal m'en estut a soffrir,</l>
+<l>    et molt en fui pres de morir.</l>
+<l>    Ice ne dirai ge jamais</l>
+<l>    que cil ne soit en fin mauvais</l>
+<l>    qui ne se revange s'il puet</l>
+<l>    des qu'il voit que faire l'estuet</l>
+<l>    s'il vos alerent assaillir</l>
+<l>    bien les alastes acueillr</l>
+<l>    se il firent lor vasselaige</l>
+<l>    or en soit fait li gaaignaige</l>
+<l>    certes ge vos pardoig lor mort,</l>
+<l>    quar ge sai bien qu'il orent tort.</l>
+<l>    Alez vos huimais herbergier</l>
+<l>    trusque demain a l'esclerier</l>
+<l>    alez vos en de devant moi,</l>
+<l>    j'ai trop grant duel quant ge vos voi ».</l>
+<l>    Floires li est chauz as piez</l>
+<l>    quant il se fu humeliez</l>
+<l>    « Sire, merci de noz barons</l>
+<l>    que ge voi penssis et enbrons</l>
+<l>    mielz voil que vos moi ociez</l>
+<l>    que vos sanz moi les ennoiez ».</l>
+<l>    Et dist li rois « Tuit sont quitez</l>
+<l>    segurement vos contenez ».</l>
+<l>    Chevaus et armes et hernois</l>
+<l>    lor a tot fait rendre li rois,</l>
+<l>    puis apela son seneschal,</l>
+<l>    si lor a fait livrer ostal</l>
+<l>    aval el borc a la cité,</l>
+<l>    chies un borgois bien assazé.</l>
+<l>    Et Floire fait as nes aler,</l>
+<l>    si en fait l'avoir aporter</l>
+<l>    et le hernois et les deniers</l>
+<l>    en fist aporter a somiers</l>
+<l>    bien fait sa cuisine garnir</l>
+<l>    quar il vorra grant cort tenir.</l>
+<l>    Quant li mangiers fu apresté,</l>
+<l>    ainçois qu'il eussent lavé,</l>
+<l>    Floire a fet son ban crier,</l>
+<l>    par la vile, a un bachelier :</l>
+<l>    qui vorra mengier a sa cort</l>
+<l>    preu i avra ainz qu'il s'en tort</l>
+<l>    du sien avra au departir,</l>
+<l>    richement le fera servir.</l>
+<l>    Iriez fu Floires et penssis</l>
+<l>    quant au mengier furent assis,</l>
+<l>    quar ne savoit en quel regné</l>
+<l>    il torneroit toz esgaré.</l>
+<l>    Li bons ostes le regarda,</l>
+<l>    au chevaliers trestoz monstra</l>
+<l>    « Cil damoiseaus est molt destroiz</l>
+<l>    il n'a mie qnqu'il voldroit</l>
+<l>    autretel faisoit Blancheflor</l>
+<l>    qui çeanz just a l'autre jor.</l>
+<l>    A merveilles les esgardoient</l>
+<l>    li marcheant qui la gardoient ».</l>
+<l>    Quant Floire ot nomer s'amie</l>
+<l>    son oste forment en mercie</l>
+<l>    « Sire » fait il « Gari m'avez</l>
+<l>    quant vos m'amie me nomez.</l>
+<l>    Or mengerai ge lieement</l>
+<l>    .c. once d'or vos en present ».</l>
+<l>    Molt furent richemt servi</l>
+<l>    quant il furent du dois parti</l>
+<l>    des liz parolent maintenant</l>
+<l>    en jusqu'a l'aube aparissant.</l>
+<l>    Volentiers se sont reposé</l>
+<l>    quar du travail furent lassé,</l>
+<l>    et quant li jors fu esclairez</l>
+<l>    Floires s'est vestus et chauciez.</l>
+<l>    Son chabellan a fait venir</l>
+<l>    si li conmande son plaisir.</l>
+<l>    Quant ot aquité son mengier</l>
+<l>    .c. fist l'oste baillier</l>
+<l>    qui qu'ait perdu il gaaigna</l>
+<l>    por s'amie qu'il li noma.</l>
+<l>    Li bons borgois l'a regardé,</l>
+<l>    dolent le vit et abosmé</l>
+<l>    « Sire, ge sui molt corroceus</l>
+<l>    quant ge vos voi si angoisseus.</l>
+<l>    Or vos dirai que vos feroiz :</l>
+<l>    tot droit en Babiloine iroiz,</l>
+<l>    la est menee vostre amie,</l>
+<l>    bien nos distrent sa conpaignie</l>
+<l>    qu'il ne l'amerroient avant</l>
+<l>    bien le distrent li marcheant.</l>
+<l>    Or vos baillerai mon ennel</l>
+<l>    et mes letres et mon seel</l>
+<l>    ses bailleroiz au pontonnier,</l>
+<l>    il vos avra por moi mlt chier,</l>
+<l>    de vostre amie vos dira</l>
+<l>    trestot le mielz que il savra ».</l>
+<l>    « Sire » dist Floire « Grant merciz</l>
+<l>    donc serai ge enfin gariz ».</l>
+<l>    Lors li a son ennel baillie</l>
+<l>    et son sael apareillie.</l>
+<l>    Le droit chemin li a monstré</l>
+<l>    qui vait tot droit vers la cité.</l>
+<l>    De lui se partent lieement,</l>
+<l>    molt furent lié de lor present.</l>
+<l>    Lors chevalchierent a esploit,</l>
+<l>    molt li est tart que venuz soit</l>
+<l>    a la cité de Babiloine,</l>
+<l>    mais poi se garde de l'esoigne</l>
+<l>    et de la grant mesaventure</l>
+<l>    ou il avra si grant ardure.</l>
+<l>    Ge quit bien qu'il vait a tel port</l>
+<l>    ou il avra poor de mort.</l>
+<l>    La nef ou Blancheflor estoit</l>
+<l>    i ert arrivee .viii. jors avoit</l>
+<l>    li marcheant erent molt sai[ge]</l>
+<l>    quant venu furent au rivaige</l>
+<l>    la pucele ont bien atornee</l>
+<l>    si l'ont a ceus dedenz monstree</l>
+<l>    a l'amirail vint un mesaige</l>
+<l>    si li a dit en son langaige</l>
+<l>    qu'au port avoit une pucele</l>
+<l>    froische conme rose novele.</l>
+<l>    L'amiral la novele entent</l>
+<l>    au port est venuz maintenant.</l>
+<l>    Si li monstrerent Blancheflor</l>
+<l>    fresche et clere avoit la color</l>
+<l>    il ne la sot tant esgarder</l>
+<l>    qu'il i pooist riens amender.</l>
+<l>    Les marcheanz apele a soi</l>
+<l>    « Seignor » ce lor a dit le roi</l>
+<l>    « Ou fu la pucele trovee ?</l>
+<l>    Savez de quel gent el est nee ? ».</l>
+<l>    « Sire » ce dient « D'Aumarie</l>
+<l>    et sachiez bien sanz tricherie</l>
+<l>    Galeriens li ampereres</l>
+<l>    la nos vendi qui est ses peres</l>
+<l>    volez savoir conment le font</l>
+<l>    tuit cil qui en cel pais sont</l>
+<l>    quant il ont plus de .ii. enfanz</l>
+<l>    tant les norrissent qu'il sont granz,</l>
+<l>    puis si les changent a avoir</l>
+<l>    li dus remainent el manoir ».</l>
+<l>    Dit l'amiral « Gel sai assez,</l>
+<l>    mais vendez la se vos volez</l>
+<l>    que vos diroie ge donc el</l>
+<l>    prenez en plus que le chetel</l>
+<l>    il vos i covient gaaigierr,</l>
+<l>    puis que vivez de cest mestier ».</l>
+<l>    « Sire » dient li marcheant</l>
+<l>    « Que vos dirion en avant ?</l>
+<l>    Por vostre travers la prenez</l>
+<l>    molt nos avez bien aquitez ».</l>
+<l>    « Seignor baronce » dit le roi</l>
+<l>    « Bontez me faites bien le voi</l>
+<l>    por l'amistié de Blancheflor</l>
+<l>    dont m'avez faite tel henor</l>
+<l>    vos claim quite jusqua .v. anz</l>
+<l>    vostre travers ja n'ert si granz ».</l>
+<l>    Li marcheant grant joie en font</l>
+<l>    molt l'enclinerent de parfont</l>
+<l>    quar onques mais en nul marchié</l>
+<l>    n'avoient il tant gaaignié.</l>
+<l>    L'amiral s'en vait aitant,</l>
+<l>    et Floire est venuz errant</l>
+<l>    tant chevauchierent durement</l>
+<l>    c'une aventure lor consent</l>
+<l>    c'un poi devant midi soné</l>
+<l>    virent les murs de la cité</l>
+<l>    et les granz palais qui i sont</l>
+<l>    ou les aigles de colors sont.</l>
+<l>    Babiloine est citez molt fort</l>
+<l>    si est assise en un regort</l>
+<l>    de .ii. parz li vient sa navie</l>
+<l>    dont la vile est molt bien garnie</l>
+<l>    n'i est a nule povre gent</l>
+<l>    tuit sont riche d'or et d'argent.</l>
+<l>    De l'une part de la cité</l>
+<l>    dont ge vos ai assez conté</l>
+<l>    avoit une aive molt corant</l>
+<l>    molt ravinose et molt tres grant</l>
+<l>    molt par i a beles rivieres</l>
+<l>    de prez et de forez plenieres</l>
+<l>    et de terre a gaaignier</l>
+<l>    et de quanque home est mestier</l>
+<l>    molt ert pleniere de poissons</l>
+<l>    molins i a a granz foisons</l>
+<l>    un grant pont desus l'aive avoit</l>
+<l>    qui tant fort ravinose estoit</l>
+<l>    a grant merveilles estoit bel</l>
+<l>    de marbre en furent li quarrel.</l>
+<l>    Iluec arrive la navie</l>
+<l>    qui vient de terre Femenie</l>
+<l>    de Nubie et de Quartaige</l>
+<l>    et d'Ociane la sauvaige.</l>
+<l>    Li rois i a son pontonier</l>
+<l>    qui ne le sert d'autre mestier</l>
+<l>    ainz prent la rente son seignor </l>
+<l>    trois .m. onces chascun jor.</l>
+<l>    Sor une chaere ensement</l>
+<l>    bien entailliee soltiment</l>
+<l>    se fu assis le pontonnier</l>
+<l>    il n'estoit mie pautonier</l>
+<l>    vestuz fu d'un pliçon hermin</l>
+<l>    et bien fu chauciez d'ostorin</l>
+<l>    affublé orent un mantel</l>
+<l>    d'or en furent fait li tesel</l>
+<l>    une verge tint en sa mein</l>
+<l>    ne resanble mie vilain.</l>
+<l>    Et Floire et si conpaignon</l>
+<l>    a pié descendent au perron</l>
+<l>    molt le saluent hautement,</l>
+<l>    et cil parla apertement</l>
+<l>    « Sire » ce dit le damoisel</l>
+<l>    « Tien cest enel et cest seel</l>
+<l>    teue merciz garde dedenz</l>
+<l>    du respondre ne soiez lenz ».</l>
+<l>    Qnt il ot le brief receu</l>
+<l>    et il l'oit dedenz porveu</l>
+<l>    « Amis » dit il « Ce sachoiez bien</l>
+<l>    que cil ne vos haoit de rien</l>
+<l>    qui teus ensaignes vos charga</l>
+<l>    ge quit que mielz vos en sera ».</l>
+<l>    Puis apela un sien serjant</l>
+<l>    « Menez les an gel vos comant</l>
+<l>    gardez que soient aesiez</l>
+<l>    se il nel sont ge'n sui iriez ».</l>
+<l>    Li messages s'en est tornez</l>
+<l>    a lor ostel a menez</l>
+<l>    droit a l'entree de la sale</l>
+<l>    descendi Floire de sa sele</l>
+<l>    li serjant ont les chevaus pris</l>
+<l>    droit en l'estable les ont mis</l>
+<l>    li vallez s'assist sor un banc</l>
+<l>    sor un fautre de poile blanc</l>
+<l>    environ lui fu sa mesniee</l>
+<l>    en la sale qui fu jonchiee</l>
+<l>    de ce avoit Floire bon sens</l>
+<l>    que son mengier queroit avant.</l>
+<l>    Quant li pontonniers fu venu</l>
+<l>    et son paage ot receu</l>
+<l>    l'aive donerent maintenant</l>
+<l>    li bachelier et li serjant</l>
+<l>    li pontoniers ert trop cortois</l>
+<l>    Floire assist au maistre dois.</l>
+<l>    Lors a fait venir sa mollier</l>
+<l>    por le vallet esleescier</l>
+<l>    devant lui la fet asseir</l>
+<l>    molt richement a son plaisir</l>
+<l>    quant au mengier furent assis</l>
+<l>    iriez fu Floire et penssis</l>
+<l>    quar de s'amie ne savoit</l>
+<l>    ques noveles il en orroit</l>
+<l>    il ne se pot mie garder</l>
+<l>    qu'il ne l'estut a soupirer</l>
+<l>    d'un coutel a el dois feru</l>
+<l>    que tuit s'en sont aperce&#x00FC;</l>
+<l>    un sol petit de vint respant.</l>
+<l>    Li pontoniers dist en riant</l>
+<l>    « Une amende avons de merci »</l>
+<l>    et dist Floire « Gel vos affi</l>
+<l>    il doit molt bien estre renduz</l>
+<l>    li vins puis qu'il est respanduz ».</l>
+<l>    La cope fist a soi venir</l>
+<l>    tot la fist de besanz emplir</l>
+<l>    au pontonier la presenta</l>
+<l>    molt doucement l'aresona</l>
+<l>    « Sire » dist li vallez « Tenez</l>
+<l>    cest vostre amende sel prenez</l>
+<l>    encor vos dorrai ge du mien</l>
+<l>    ge quit que vos me feroiz bien ».</l>
+<l>    Aitant l'ont ainsi laissie</l>
+<l>    un petit se sont acoisie ;</l>
+<l>    mais la dame s'aperçut bien</l>
+<l>    que cil ne menja nule rien</l>
+<l>    un poi regarde son seignor</l>
+<l>    si li a dit par grant amor</l>
+<l>    « Cist damoiseaus est molt destroiz</l>
+<l>    il n'a mie ce qu'il volroit</l>
+<l>    ensement ploroit Blancheflor</l>
+<l>    qui çaienz fu ne sai quel jor ».</l>
+<l>    Molt li o&#x00EF; Floire nomer</l>
+<l>    et molt Blancheflor regreter</l>
+<l>    cil ot son non et le s'amie</l>
+<l>    tote la char li est fremie</l>
+<l>    « Dame » fait il « Gari m'avez</l>
+<l>    que vos m'amie me nomez</l>
+<l>    ja ne partiromes ançois</l>
+<l>    que li presenz ert molt cortois ».</l>
+<l>    « Sire » ce dit le pontonnier</l>
+<l>    « Segurement pooez mengier</l>
+<l>    de vostre amie vos dirai</l>
+<l>    la verité quar bien la sai ».</l>
+<l>    Molt furent richement servi</l>
+<l>    quant il furent du dois parti</l>
+<l>    li pontonniers dist saigement</l>
+<l>    li plus l'entendent de la gent</l>
+<l>    « Sire » fait il « Or m'entendez</l>
+<l>    traiez vos ça, si m'escoutez</l>
+<l>    por Blancheflor ce m'est avis</l>
+<l>    estes venuz en cest pais</l>
+<l>    se ge vos en di verité</l>
+<l>    ne m'en devez savoir mal gré</l>
+<l>    laissiez la damoisele ester</l>
+<l>    quar ne poez recourer</l>
+<l>    li amiraus l'a achatee</l>
+<l>    qui en sa tor l'a enfermee</l>
+<l>    molt a o lui gentes puceles</l>
+<l>    que el monde n'en a plus beles</l>
+<l>    la tor fu faite et conpassee</l>
+<l>    quant Babiloine fu fondee</l>
+<l>    a grant merveille fu cil saiges</l>
+<l>    qui si conpassa les estaiges</l>
+<l>    ja l'une l'autre ne verra</l>
+<l>    ne son covine ne savra</l>
+<l>    il n'en a que .ii. en la tor</l>
+<l>    ce est Claris et Blancheflor</l>
+<l>    qui ensanble puissent parler</l>
+<l>    ne lor affaire raconter</l>
+<l>    iluec sera tote sa vie</l>
+<l>    jamais n'en averoiz baillie ».</l>
+<l>    Floire l'oo&#x00EF;, si chiet pasmez</l>
+<l>    et quant il se fu relevez</l>
+<l>    « Ha las ! » dist Floire « Qu'ai ge quis</l>
+<l>    por quoi issi de mon pais</l>
+<l>    por quoi ne fui morz par le roi</l>
+<l>    quant il estoit saisiz de moi</l>
+<l>    il avoit droit et ge oi tort</l>
+<l>    que son fill li avoie mort</l>
+<l>    hai chier pere que ferai</l>
+<l>    quant ge Blancheflor n'averai</l>
+<l>    se venir poisse a la tor</l>
+<l>    molt m'aleiast ceste doulor ».</l>
+<l>    « Sire » ce dit le pontonier</l>
+<l>    « Serjanz i quidiez gaagnier</l>
+<l>    la tor vos ferai ge mostrer</l>
+<l>    de loig la pooez esgarder ».</l>
+<l>    « Sire » dist Floire « Ge l'otroi,</l>
+<l>    por Dieu, aiez merci de moi ».</l>
+<l>    La nuit sont tuit en grant error,</l>
+<l>    et li vassaus fu en greignor</l>
+<l>    et de repos n'i ot noient,</l>
+<l>    et li pontoniers ensement.</l>
+<l>    Des que li jors fu esclairez</l>
+<l>    Floire s'est vestuz et chauciez</l>
+<l>    vient a ses homes congié prent</l>
+<l>    si lor a dit molt bonement</l>
+<l>    « Seignor » fait il « Vos remainroiz,</l>
+<l>    et ge irai quar il est droiz</l>
+<l>    maintenez vos joieusement</l>
+<l>    assez avroiz or et argent ».</l>
+<l>    Maintenant vint au pontonier</l>
+<l>    qui les serjanz li doit baillier</l>
+<l>    o lui est en la chanbre entrez</l>
+<l>    molt doucement fu apelez</l>
+<l>    « Sire, por Dieu, conseilliez moi</l>
+<l>    avez en vos pris nul conroi ? »</l>
+<l>    « Sire » ce dit le pontonier</l>
+<l>    « Ge ne vos sai prou conseillier</l>
+<l>    merveilles sui marriz du vos</l>
+<l>    quant ge vos voi si angoisseus</l>
+<l>    quant mais soffrir ne vos poez</l>
+<l>    .c. onces d'or o vos portez</l>
+<l>    quant vos venrez la bele tor</l>
+<l>    la ou est mise Blancheflor</l>
+<l>    se vos volez avant</l>
+<l>    si en revienet li serjant</l>
+<l>    une chose vos di ge bien</l>
+<l>    ne vos en mentirai de rien</l>
+<l>    onques voir nus hom ni entra</l>
+<l>    que nos puis reveission ça</l>
+<l>    en sa loge sist le portier</l>
+<l>    au roi ne sert d'autre mestier,</l>
+<l>    mais que des bricons decoler</l>
+<l>    que il puet la dedenz trover</l>
+<l>    se vos poez entrer dedenz</l>
+<l>    gardez que ne soiez pas lenz</l>
+<l>    a la tor alez maintenant</l>
+<l>    de mesurer faites senblant</l>
+<l>    quant vos verroiz celui venir</l>
+<l>    toz acesmé de vos ferir</l>
+<l>    gardez ne soiez oubliez</l>
+<l>    devant ses piez vos paroffrez</l>
+<l>    si li dites d'estrange terre</l>
+<l>    estes venuz merveilles querre</l>
+<l>    quar mesurer volez la tor</l>
+<l>    et la hautesce et la largor</l>
+<l>    por la merveille qu'il i a</l>
+<l>    puist estre vos esparnera</l>
+<l>    a preudome tien le portier</l>
+<l>    qu'a lui vos puissiez acointier</l>
+<l>    que il a vos vueille joer</l>
+<l>    gardez ne vos tiegne a aver</l>
+<l>    a lui joez segurement,</l>
+<l>    et si l'enviez bien souvent</l>
+<l>    se a lui poez gaaignier</l>
+<l>    n'aiez mie son avoir chier.</l>
+<l>    Mais tot maintenant li rendez</l>
+<l>    et del vostre encor assez</l>
+<l>    ainsi si puet l'en acointier</l>
+<l>    por bel servir et por loier</l>
+<l>    s'il vos semont en herbergaige</l>
+<l>    venez vos en en mon estaige</l>
+<l>    quar tote voies vos dirai</l>
+<l>    trestoz le mielz que savrai ».</l>
+<l>    Lors apela un sien seriant</l>
+<l>    « Moine les tost gel te comant</l>
+<l>    entre la tor et le vergier</l>
+<l>    moine le tot le droit sentier ».</l>
+<l>    La tor li monstre a delivre</l>
+<l>    ou la pucele estoit mise</l>
+<l>    « Sire » dit il « Et ge l'otroi »</l>
+<l>    Le damoisel met devant soi</l>
+<l>    tant l'a cil conduit et mené</l>
+<l>    que un petit sont arresté.</l>
+<l>    « Sire » dist il « Veez la tor</l>
+<l>    ainz tel ne vi d'empereor</l>
+<l>    faites le bien, si me creez</l>
+<l>    vostre saoul la regardez</l>
+<l>    ensanble o vos retornerons »</l>
+<l>    « Amis » dist Floire « Non ferons</l>
+<l>    alez vos an gel vos comant ».</l>
+<l>    Iluec departent emplorant </l>
+<l>    Flores a le sentier tenu</l>
+<l>    por autre ne l'a pas perdu</l>
+<l>    ainz ne fina jusqu'a l'entree</l>
+<l>    la porte trova deffermee.</l>
+<l>    Il esgarde sus el portail</l>
+<l>    dont li pilier sont a esmail</l>
+<l>    il vait avant, si a ve&#x00FC;es</l>
+<l>    unes letres ses a leues</l>
+<l>    adonc set bien a escient</l>
+<l>    que nus n'est de si haute gent</l>
+<l>    se il i entre sanz congié</l>
+<l>    que il n'en ait le chief tranchié.</l>
+<l>    Desor le mur a resgardé</l>
+<l>    qui fu de fin marbre listé</l>
+<l>    la letre voit desor assise</l>
+<l>    que li portiers i avoit mise</l>
+<l>    arrieres vait, si resgarda</l>
+<l>    quar a merveilles le douta ;</l>
+<l>    mais Blancheflor le reconforte</l>
+<l>    mais Blancheflor le rasseure</l>
+<l>    dont il sent l'angoisse et l'arsure</l>
+<l>    et cil qui noient ne doutoit</l>
+<l>    por s'amie qui enz estoit</l>
+<l>    molt isnelement i entra</l>
+<l>    onques por paor nel laissa.</l>
+<l>    A la tor est venuz errant</l>
+<l>    de mesurer a fait senblant</l>
+<l>    conbien avoit et haut et bas</l>
+<l>    une ligne i mist a conpas.</l>
+<l>    Li portiers set aperce&#x00FC;z</l>
+<l>    il met sa main au branc molu</l>
+<l>    Floire li joesne s'oublia</l>
+<l>    devant ses piez se presenta</l>
+<l>    ançois qu'il ait a lui josté</l>
+<l>    cil li a avant demandé</l>
+<l>    « Vassal es tu engigneor</l>
+<l>    qui ci mesures nostre tor ?</l>
+<l>    Ce saiches tu veraiement</l>
+<l>    molt as enpris fol hardement.</l>
+<l>    Conment es tu ainsi seurs</l>
+<l>    que tu regardes sor cez murs</l>
+<l>    ou tantes testes sont posees</l>
+<l>    qui çaienz ont esté coupees ?</l>
+<l>    La moie foi vos en plevis</l>
+<l>    qu'avuec les autres seroiz mis ».</l>
+<l>    « Sire » fist ele « Ge l'otroi</l>
+<l>    vostre plaisir faites de moi,</l>
+<l>    mais tant de respit me donez</l>
+<l>    que ge me soie desresniez</l>
+<l>    qui ge sui et de quel pais</l>
+<l>    et quel afaire ja ici quis.</l>
+<l>    Ge sui de molt loingtiegne terre</l>
+<l>    une grant chose venuz querre</l>
+<l>    quar mesurer vueil cele tor</l>
+<l>    la largece et la hautor</l>
+<l>    se m'en pooie repairer</l>
+<l>    g'en ferai une comencier ».</l>
+<l>    Dist li portiers « Gel vos plevis</l>
+<l>    que fol mestier avez empris</l>
+<l>    quant ne querez autre mestier</l>
+<l>    molt vos doit l'en bien espargnier ».</l>
+<l>    Par la mein destre le leva</l>
+<l>    molt le vit bel, si la ama</l>
+<l>    en sa loge le moine o soi</l>
+<l>    sanz le conmandement le roi.</l>
+<l>    « Amis » dist il « Or sachoiz bien</l>
+<l>    se des esches saviez rien</l>
+<l>    et a moi voliez joer</l>
+<l>    molt i porriez conquester ».</l>
+<l>    « Sire » dist Floire « Par ma foi</l>
+<l>    ge sai petit, ce poise moi.</l>
+<l>    Mais toz sui prez del conmencier</l>
+<l>    un jeu ou .ii. por essaier ».</l>
+<l>    Sor jons noveaus se sont assis</l>
+<l>    entr'aus .ii. ont l'eschequier pris</l>
+<l>    cil a assise sa mesniee,</l>
+<l>    et Floire a la soe saisie</l>
+<l>    ses geus assist molt saigement,</l>
+<l>    et li portiers molt lentement</l>
+<l>    .ii. geus joerent conmunaus</l>
+<l>    n'i a mes que les .ii. vassaus</l>
+<l>    onques cil vers li ne sot mot</l>
+<l>    Flores le sorjoa du tout</l>
+<l>    Floire li proz si bien joa</l>
+<l>    .l. onces d'or gaaigna.</l>
+<l>    Cil li a dit « Laissiez m'ester</l>
+<l>    quar ge ne vueil huimais joer ».</l>
+<l>    Tot son avoir li a rendu</l>
+<l>    dels tanz du sien li a tendu</l>
+<l>    « Amis » ce dit li pontonniers</l>
+<l>    « Vos n'estes mie pautoniers »,</l>
+<l>    puis li a la coupee livree.</l>
+<l>    Quant li portiers l'ot esgardee</l>
+<l>    « Amis » dist il « Ce sachiez bien</l>
+<l>    ge ne vos mentirai de rien</l>
+<l>    aucunne chose ai sor moi</l>
+<l>    dont vos faites itel desroi</l>
+<l>    ice ne puis ge pas savoir</l>
+<l>    conquis m'avez par vostre avoir</l>
+<l>    par vostre avoir m'avez conquis</l>
+<l>    la moie foi vos en plevis</l>
+<l>    tote ta volenté ferai</l>
+<l>    ja por mavestié nel lerai ».</l>
+<l>    Quant l'ot ainsi asseuré,</l>
+<l>    lors l'en sot Floire molt bon gré,</l>
+<l>    lors li a conté la doulor</l>
+<l>    que il avoit por Blancheflor.</l>
+<l>    Li portiers l'ot, molt l'en pesa</l>
+<l>    ploreus et tristres l'apela</l>
+<l>    « Amis » dist il « Laissiez ester</l>
+<l>    vos ne la poez recovrer</l>
+<l>    li amiraus l'a achetee</l>
+<l>    qui en sa tor l'a enfermee</l>
+<l>    .x. anz a ja gel plevis</l>
+<l>    qu'a ceste porte fui ci mis</l>
+<l>    ainz puis ne me poi tant pener</l>
+<l>    que ge peusse enz entrer</l>
+<l>    il ni a mais que .ii. serjanz</l>
+<l>    chascun est riche et mananz</l>
+<l>    ne vos i vaudroit riens mesaige</l>
+<l>    quar ge sai bien tot lor coraige</l>
+<l>    nule riens ne prisent avoir</l>
+<l>    quar il ont bien lor estovoir</l>
+<l>    li rois les a faiz si cortois</l>
+<l>    quar il ne portent nus destrois</l>
+<l>    li rois les a si essauciez</l>
+<l>    que as tueaus d'or les fait pissier</l>
+<l>    s'il seulent les dames servir</l>
+<l>    molt richement a lor plaisir ».</l>
+<l>    Floire l'oo&#x00EF;, si se pasma,</l>
+<l>    et li portiers l'en releva</l>
+<l>    ambedui plorent grant duel font</l>
+<l>    sor l'eschequier la ou il sont.</l>
+<l>    Dist li portiers « Or me soffrez</l>
+<l>    or m'escoutez, si me creez</l>
+<l>    le mien par mi te partirai</l>
+<l>    de totes les choses que j'ai ».</l>
+<l>    « Sire » dist Floire « Grant merciz,</l>
+<l>    mais mi termes est molt petiz</l>
+<l>    vostre merci, ociez moi</l>
+<l>    quar de ma vie riens ne voi</l>
+<l>    quant jamais ne querrai m'amie</l>
+<l>    or n'ai ge cure de ma vie ».</l>
+<l>    « Sire » ce a dit le portier</l>
+<l>    « Quant ne vos puis esleescier</l>
+<l>    porchacier m'estuet vostre mort,</l>
+<l>    et si sai bien que ge ai tort ».</l>
+<l>    Li amiraus fait assanbler</l>
+<l>    totes les flors qu'il puet trover</l>
+<l>    quant les flors furent assanblees</l>
+<l>    devant la tor sont aportees.</l>
+<l>    Li rois a mandé le portier</l>
+<l>    por le present apareillier</l>
+<l>    « Amis » fait il « Or en penssez</l>
+<l>    faites le si con vos volez</l>
+<l>    les plus beles me retenez</l>
+<l>    savez por quoi vos le ferez</l>
+<l>    a Claris et a Blancheflor</l>
+<l>    qui ge ai donee m'amor »</l>
+<l>    et s'il dist « Sire, ge l'otroi »</l>
+<l>    atant s'en est partiz du roi</l>
+<l>    quant tuit furent fait li present</l>
+<l>    que de la flor n'i ot noient</l>
+<l>    n'en i ot mais que .ii. a faire,</l>
+<l>    mais ce estoient tuit li maire.</l>
+<l>    Li portiers vit le damoisel</l>
+<l>    plorant prist le par le mantel</l>
+<l>    « Amis » dit il « Velz tu morir ? »</l>
+<l>    « O&#x00EF;l » fist il « Mielz que garir »</l>
+<l>    « Amis, mais remain avuec moi</l>
+<l>    ge te jurerai sor ma loi</l>
+<l>    que jamais jor ne te faudrai</l>
+<l>    tot mon avoir te partirai</l>
+<l>    ge te querrai une pucele</l>
+<l>    clere conme rose novele ».</l>
+<l>    Floire respont « Ce sanble raige</l>
+<l>    fille de roi de haut paraige</l>
+<l>    ou a m'amie me menez</l>
+<l>    ou delivrement m'ociez ».</l>
+<l>    Li portiers l'ot, molt l'enpesa</l>
+<l>    tristes et mornes l'en mena ;</l>
+<l>    puis la en la corbeille assis</l>
+<l>    de flors li a coverz le vis</l>
+<l>    environ l'a bien atorné</l>
+<l>    que ja ne doie estre blasmé.</l>
+<l>    Lors sont venuz li dui serjant,</l>
+<l>    et li portiers li dist itant</l>
+<l>    « Ce me porteroz Blancheflor</l>
+<l>    que li envoie son seignor</l>
+<l>    et li porteroiz cest present</l>
+<l>    en la tor n'ot huimes si grant ».</l>
+<l>    Et cil en sont a tot alé</l>
+<l>    quant li presenz lor fu livré</l>
+<l>    li dui serjant qui les flors portent</l>
+<l>    si sont chargié tuit se detordent</l>
+<l>    sovent ont maudit le potier</l>
+<l>    qui tant lor en a fait chargier</l>
+<l>    trop lor durerent li degré</l>
+<l>    qu'a merveille erent troussé.</l>
+<l>    Oez con grant mesaventure</l>
+<l>    et conme grant desconfiture</l>
+<l>    icele chanbre ont trespassee</l>
+<l>    qui lor ot esté conmandee.</l>
+<l>    Devant Claris le present font</l>
+<l>    iqui le laissent, si sen vont</l>
+<l>    Claris vint le present veoir</l>
+<l>    que les plus beles qui de avoir.</l>
+<l>    Floire cuida trover s'amie</l>
+<l>    giete les mains, si l'a saisie</l>
+<l>    quant Claris voit le damoisel</l>
+<l>    sachiez c'un poine l'en fu bel</l>
+<l>    un cri geta, si s'esvertue</l>
+<l>    aval la tor fu entendue</l>
+<l>    les damoiseles plus prochaines</l>
+<l>    l'en apelerent premeraines</l>
+<l>    « Claris bele que avez vos</l>
+<l>    qui si criez ? Dites le nos</l>
+<l>    savoir l'estuet a l'amiré</l>
+<l>    ne li puet mais estre celé ».</l>
+<l>    Ele respont conme senee</l>
+<l>    que feme est a paine egigniee</l>
+<l>    « Se ge criai grant droit en oi</l>
+<l>    faire l'estut que mais n'en poi</l>
+<l>    des flors issi un papeillon</l>
+<l>    qui me feri en son le front</l>
+<l>    de ce fui molt espoentee,</l>
+<l>    mais auques sui asseuree ».</l>
+<l>    Celes retornerent atant</l>
+<l>    Clari remest en son estant.</l>
+<l>    Quant  Floire vit qui l'ot failli</l>
+<l>    forment se tint a escharni</l>
+<l>    isnelement se trait arriere</l>
+<l>    entre les flors covri sa chiere.</l>
+<l>    Lors vint li presenz Blancheflor</l>
+<l>    ele conmença sa doulor,</l>
+<l>    et quant Claris l'o&#x00EF; plorer</l>
+<l>    si la conmence a apeler</l>
+<l>    « Damoisele venez a moi</l>
+<l>    se soiez pas en tel effroi</l>
+<l>    venez veoir le mien present</l>
+<l>    quar çaienz n'ot huimais si gent »</l>
+<l>    « Ha » fet ele « Claris, Claris !</l>
+<l>    Con fais grant mal qui m'escharniz</l>
+<l>    jamais de flors n'avrai envie</l>
+<l>    quant de mon ami sui partie</l>
+<l>    ne flor ne rose que me vaut</l>
+<l>    quant ge n'ai Floire ne me chaut ».</l>
+<l>    Mais Claris l'a tant conjuree</l>
+<l>    que en la chambre en est entree.</l>
+<l>    Quant Floire ot venir s'amie</l>
+<l>    vers lui ne se celera mie,</l>
+<l>    mais isnelement se leva</l>
+<l>    vers lui corut, si l'enbraça</l>
+<l>    iluec ot grant enbracement</l>
+<l>    et molt merveillous baisement</l>
+<l>    tant con aleine lor dura</l>
+<l>    onques nus d'aus mot ne sona.</l>
+<l>    Quant porent ni s'andurer</l>
+<l>    le baisier et le s[o]upirer</l>
+<l>    Blancheflor parla premeraine</l>
+<l>    qui devant avoit esté vaine</l>
+<l>    « Claris enfin m'avez rendue</l>
+<l>    la flor ainz tel ne fu ve&#x00FC;e</l>
+<l>    ne sai se ja puisse venir</l>
+<l>    en leu ou le puisse merir »</l>
+<l>    et Claris li a dit itant</l>
+<l>    « Alez vos en gel vos comant</l>
+<l>    ne me faite envie avoir</l>
+<l>    de ce que ge ne puis avoir ».</l>
+<l>    Blancheflor s'en part aitant</l>
+<l>    o sa joie qui molt est grant</l>
+<l>    en sa chanbre entre demoine</l>
+<l>    de son ami grant joie moine.</l>
+<l>    Li amiraus les fait servir</l>
+<l>    molt richement a lor plaisir</l>
+<l>    de Blancheflor pas ne savoit</l>
+<l>    de quel mestier ele servoit</l>
+<l>    s'il en seust la verité</l>
+<l>    lor afaire eust petit duré.</l>
+<l>    Or est la termine venue</l>
+<l>    que Blancheflor ot atendue</l>
+<l>    li amiraus la fist garnir</l>
+<l>    que le soit preste du servir</l>
+<l>    en la premiere matinee</l>
+<l>    en fu ele molt mal menee</l>
+<l>    quar la nuit vint a son ami</l>
+<l>    li uns de l'autre l'assasi</l>
+<l>    et de joer et d'envoisier</l>
+<l>    et d'acoler et de baisier</l>
+<l>    quant ce vint que il ajorna</l>
+<l>    li uns et l'autre s'oublia</l>
+<l>    estroit se tienent enbracie</l>
+<l>    molt estoient estroit coschie.</l>
+<l>    Quant l'amiraut se fu levé</l>
+<l>    si a un serjant apelé</l>
+<l>    « Diva » fait il « Vient Blancheflor ? »</l>
+<l>    « N'issi ençor hui de la tor »</l>
+<l>    « Ge croi molt bien » dist l'amiré</l>
+<l>    « Que ge sui trop matin levé</l>
+<l>    lons est li jors corte la nuit</l>
+<l>    respit ait quar achoison truis ».</l>
+<l>    Quant il vit le soleil haucier</l>
+<l>    et le jor crestre et essaucier,</l>
+<l>    lors est uns vallez apelé</l>
+<l>    et puis si li a comandé</l>
+<l>    « Or tost va dire Blancheflor</l>
+<l>    que malement sert son seignor</l>
+<l>    estrangement ont demoré</l>
+<l>    ne l'en savrai huimais bon gré ».</l>
+<l>    Et cil en monte les degrez</l>
+<l>    qui a merveille s'est hastez</l>
+<l>    en la chambre s'en est entrez</l>
+<l>    devant le lit s'est arrestez</l>
+<l>    si regarde les .ii. enfanz</l>
+<l>    « He, Dieus ! Con il sont avenanz »</l>
+<l>    Regarde les, si li est vis</l>
+<l>    que il s'entrebaisent toz dis</l>
+<l>    quida que ce fussent puceles</l>
+<l>    por les coulors qu'avoient beles</l>
+<l>    il ne les osa esveillier</l>
+<l>    a l'amiral le vait noncier.</l>
+<l>    Jus en avale les degrez</l>
+<l>    li amirauz a demandé</l>
+<l>    « Vient Blancheflor ? » « Ge vos plevis</l>
+<l>    qu'eles dorment lui et Claris »</l>
+<l>    « Ge croi molt bien » dist l'amirez</l>
+<l>    « Cel jor fui ge bien asotez</l>
+<l>    que ge lor fis congié doner</l>
+<l>    bien en devroie estre marriz</l>
+<l>    or en sui ge ja pres serviz</l>
+<l>    voir onques mar le se pensa</l>
+<l>    mes cors meismes i era ».</l>
+<l>    S'espee mist soz son mantel</l>
+<l>    par les degrez que molt sont bel</l>
+<l>    s'en est dedenz la chanbre entrez</l>
+<l>    devant le lit s'est arrestez</l>
+<l>    ou se gisoient li enfant</l>
+<l>    He, Dieus, quel duel que l'amirant</l>
+<l>    les a trouvez si endormiz</l>
+<l>    prochainement seront marriz.</l>
+<l>    Desor aus raioit le soleil</l>
+<l>    tant estoient cler et vermeil</l>
+<l>    qui bien les vosist esgarder</l>
+<l>    bien se pooist en aus mirer.</l>
+<l>    Li amiraus se trest arriere</l>
+<l>    molt fu dolenz de grant maniere</l>
+<l>    a soi meisme dist itant</l>
+<l>    « Molt par est mon barnaige grant</l>
+<l>    molt ai ci bele assanblee</l>
+<l>    ainz mais tele ne fu trouvee</l>
+<l>    molt doit icil tenir barnaige</l>
+<l>    qui or ateint cel pucelaige ».</l>
+<l>    Li amiraus s'en volt aler</l>
+<l>    quant il oo&#x00EF; Claris parler</l>
+<l>    « Hai, » fist ele « Blancheflor !</l>
+<l>    trop demorez vostre seignor</l>
+<l>    ge dout que ceste druerie</l>
+<l>    ne vos retort a vilenie ».</l>
+<l>    Li amiraus entent Claris</l>
+<l>    toz corrociez et toz marris</l>
+<l>    s'en est arriers au lit alez</l>
+<l>    a certes les a regardez</l>
+<l>    vit les traianz a la meschine</l>
+<l>    qui gisoient soz la poitrine</l>
+<l>    desor la Floire ne vit rien</l>
+<l>    quar il n'estoit reson ne bien.</l>
+<l>    Un poi leva les dras aval</l>
+<l>    et vit la feme et le vassal</l>
+<l>    le male et la feme connut</l>
+<l>    et si sot bien conment i fut</l>
+<l>    bien set qu'il avoient joé</l>
+<l>    forment se tint a malmené.</l>
+<l>    Li amiraus se trest arriere</l>
+<l>    a ses .ii. poinz debat sa chiere</l>
+<l>    du mal talent que il avoit</l>
+<l>    par un petit ne s'ocioit</l>
+<l>    quant il se fu asseurez</l>
+<l>    arriers au lit s'en est alez</l>
+<l>    la mein destre mist a l'espee</l>
+<l>    si l'a fors du fuerte gitee</l>
+<l>    acesme soi por aus ferir</l>
+<l>    or sont auques pres de morir.</l>
+<l>    Atant s'est Floire esveilliez</l>
+<l>    l'amiral vit molt fu iriez</l>
+<l>    quant il le vi si aprosmé</l>
+<l>    hardiement l'a apelé</l>
+<l>    « Si m'a&#x00EF;st Dieus, sire vassaus,</l>
+<l>    molt par avez fait que cruaus</l>
+<l>    qui ci vos estes enbatuz</l>
+<l>    ovuec m'amie a ses braz nuz ».</l>
+<l>    Dist l'amiralt « Vos dites voir</l>
+<l>    ge nel fis mie par savoir</l>
+<l>    s'en seusse la verité</l>
+<l>    ja cest plait n'eusse trové ».</l>
+<l>    Li amiraus arriers s'en vet</l>
+<l>    les .ii. enfanz ensanble let,</l>
+<l>    mais de ce fist molt aproisier</l>
+<l>    quar il nes volt mesaesier</l>
+<l>    croistre lor fist lor livroison</l>
+<l>    por ce qu'el avoit conpaignon</l>
+<l>    cil sont remes en grant error</l>
+<l>    tenrement plorent nuit et jor</l>
+<l>    forment se doivent esmaier</l>
+<l>    quar lor mort voient aprochier,</l>
+<l>    mais amors les asseuroit</l>
+<l>    qui autre conseil lor donoit</l>
+<l>    il lor disoit « Porquoi plorez ?</l>
+<l>    Baudor et joie demenez</l>
+<l>    vos que chaut se vos i morez</l>
+<l>    quant vos ensanble vos tenez ».</l>
+<l>    Cil ont tot le terme atendu</l>
+<l>    prochainement lor ert venu</l>
+<l>    au terme i ot .l. rois</l>
+<l>    et d'amirauz .lx. et .iii.</l>
+<l>    quant tant princes i a jostez</l>
+<l>    de l'autre gent i a assez.</l>
+<l>    Quant assanblez fu li barnaiges</l>
+<l>    li rois se dresce en son estaige</l>
+<l>    un faudestuel fait aporter</l>
+<l>    desus s'en vait li rois ester.</l>
+<l>    Au pueple dist conmunalment</l>
+<l>    conment il trova cele gent</l>
+<l>    qui en sa tor erent enclos</l>
+<l>    molt li ont abaissie son los</l>
+<l>    il les conmanda a jugier</l>
+<l>    il se voloit menois vengier.</l>
+<l>    Entre les autres ot un roi</l>
+<l>    prodom et sages de sa loi</l>
+<l>    quant les amanz oo&#x00EF; jugier</l>
+<l>    et lor torment apareillier</l>
+<l>    ja puis qu'il puisse ni morront</l>
+<l>    ce poise lui quant mal mis sont</l>
+<l>    a grant merveille fu iriez</l>
+<l>    « Hai, » fait il « Sire amirez !</l>
+<l>    se ge di bien, si m'entendez</l>
+<l>    molt doit l'en bien querre son droit</l>
+<l>    en quel leu que il onques soit</l>
+<l>    se li vallez pot enging querre</l>
+<l>    qui est venuz d'estrange terre</l>
+<l>    conment il pallast a s'amie</l>
+<l>    nel tenez mie a vilenie</l>
+<l>    en ceste cort n'a chevalier</l>
+<l>    s'il me voloit desafier</l>
+<l>    que il ne me trovast armé</l>
+<l>    sor mon cheval enmi cel pré ».</l>
+<l>    Dist l'amirauz « Vos dites bien,</l>
+<l>    mais dolenz sui sor tote rien</l>
+<l>    quant j'ai perdue Blacheflor</l>
+<l>    dont ge quidoie avoir l'amor</l>
+<l>    por tant les covenra morir</l>
+<l>    que nus ne les puet garantir ».</l>
+<l>    Lors apela .iiii. serjanz</l>
+<l>    qui alerent por les enfanz</l>
+<l>    cil devalerent de la tor</l>
+<l>    qui de la mort sont en error</l>
+<l>    li uns vers l'autre est enbrunchiez</l>
+<l>    si regrestent lor amistiez</l>
+<l>    molt se venoient doulosant</l>
+<l>    por aus ploroient mainte gent.</l>
+<l>    Par les rens dient li baron</l>
+<l>    « Veez seignor quar en parlon</l>
+<l>    con par sont ore d'un senblat</l>
+<l>    molt se vienent or dolousant ».</l>
+<l>    « Hai, » fait il « Nobiles ber !</l>
+<l>    quar les nos laissez racheter ? »</l>
+<l>    Dist l'amirauz « Ce ne valt rien</l>
+<l>    une chose sachiez vos bien</l>
+<l>    or ne argent nel puet garir</l>
+<l>    qui ne les coivegne morir ».</l>
+<l>    Il lor a dit « Venez avant</l>
+<l>    por quoi avez demore tant ? »</l>
+<l>    « Sire » dist Floires « Ge l'otroi</l>
+<l>    premierement ferez sor moi</l>
+<l>    vos me trovastes en la tor</l>
+<l>    toz nuz gisant o Blancheflor</l>
+<l>    que molt [l'av]oie desirree</l>
+<l>    ceste m[o]rt mi ert trop savores ».</l>
+<l>    De maintenant la teste a baisse,</l>
+<l>    et Blancheflor la soe baisse</l>
+<l>    si a sa teste presentee</l>
+<l>    la ou li rois tenoit s'espee.</l>
+<l>    « Hai, » fait el « Sire amiran !</l>
+<l>    ferez sor moi gel vos conmant</l>
+<l>    a tort ociez mon ami,</l>
+<l>    mais ge l'ai molt bien deservi,</l>
+<l>    mais ocez moi maintenant »</l>
+<l>    et Floire est sailliz avant</l>
+<l>    « Hai, » fait il « Sire amirez !</l>
+<l>    ne faites pas teus crualtez</l>
+<l>    ge doi molt bien morir premier</l>
+<l>    bien vos devez de moi vengier</l>
+<l>    ge vueil morir davant m'amie</l>
+<l>    de tant l'avrai desavanciee</l>
+<l>    ge li tenrai la conpaignie</l>
+<l>    par foi ge ne li faurai mie ».</l>
+<l>    Li uns por l'autre s'avençoit</l>
+<l>    et sa teste li presentoit</l>
+<l>    tant li dui enfant hasté</l>
+<l>    que de soz l'onbre gité</l>
+<l>    tote la mein ot endolee</l>
+<l>    por l'espee qu'il ot portee.</l>
+<l>    Tuit sont par les rens esbahi</l>
+<l>    tuit estoient remes li cri</l>
+<l>    n'atendoient se la mort non</l>
+<l>    con il erent en tel friçon.</l>
+<l>    Ez vos venu un messagier</l>
+<l>    a esperon sor un destrier</l>
+<l>    la presse ront et vient avant</l>
+<l>    « Hai, » fait il « Sire amirant !</l>
+<l>    vos jostises volez tenir,</l>
+<l>    mais noveles devez oir</l>
+<l>    Jonas de Handres l'aumaçor</l>
+<l>    qui d'Acianon est seignor</l>
+<l>    est arrivez en cel rivaige</l>
+<l>    o soi .m. homes d'un langaige</l>
+<l>    iluec s'est li rois herbergie</l>
+<l>    et si m'a a vos envoie</l>
+<l>    si vos mande que Babiloine</l>
+<l>    li soit rendue sanz essoine</l>
+<l>    alez, si li ren[dez l]es cles</l>
+<l>    ou un hom &#x2020; &#x2020; &#x2020; trametez</l>
+<l>    qui vost ost vers lui desregnier</l>
+<l>    tant est mes sires fort et fier</l>
+<l>    ja ne porroiz home trover</l>
+<l>    qui vers lui ost el chanp entrer ».</l>
+<l>    Li amiraus est enbronchiez</l>
+<l>    et ses homes voit abosmez</l>
+<l>    n'i a cel qui un mot li die</l>
+<l>    molt lor est la vigor faillie.</l>
+<l>    Floire les vit si esbahiz</l>
+<l>    si est desus ses piez sailliz</l>
+<l>    « Hai, » fait il « Sire amiranz !</l>
+<l>    Molt est ceste vergoigne granz</l>
+<l>    quar respoirez a cest messaige</l>
+<l>    qui chalange vostre heritaige</l>
+<l>    quant il n'i a prince ne roi</l>
+<l>    qu'il li die ne ce ne quoi</l>
+<l>    donez respit moi et m'amie</l>
+<l>    que ni perdon menbre ne vie</l>
+<l>    ge conbatrai a l'aumaçor</l>
+<l>    por sauver vos et vostre hennor ».</l>
+<l>    Li amiraus le regarda</l>
+<l>    petite chose li senbla</l>
+<l>    « Diva » fait il « Es tu si proz</l>
+<l>    qui ce velz faire por nos toz ?</l>
+<l>    Molt as moi et ma gent garie</l>
+<l>    ge doig respit t[oi] et t'amie ».</l>
+<l>    Et Floire li a respondu</l>
+<l>    « Des que ge sui a tant venu</l>
+<l>    faites les ar[me]s aporter »</l>
+<l>    Dist l'amiraus « Tu dis que ber ».</l>
+<l>    Trois chanbellans l'envoia</l>
+<l>    et a merveilles les hasta</l>
+<l>    a un perron de soz la tor</l>
+<l>    armerent Floire a grant henor</l>
+<l>    a li armer ot .xxx. rois</l>
+<l>    et amirauz .lx. et .iii.</l>
+<l>    hauberc ot bon et heaume chier</l>
+<l>    meillor n'estut a chevalier.</l>
+<l>    Floire envoia por s'espee</l>
+<l>    que el palais ot aportee</l>
+<l>    li pontoniers li envoia</l>
+<l>    quant il la tint grant joie en a.</l>
+<l>    Blancheflor la li çaint s'amie</l>
+<l>    voiant tote la baronie</l>
+<l>    li anmiraus fait un destrier</l>
+<l>    molt richement apareillier</l>
+<l>    Floire li proz i est montez,</l>
+<l>    et un escu li fu donez</l>
+<l>    hante ot roi de bien tenant.</l>
+<l>    Belement dist a l'amirant</l>
+<l>    « Or sui armez, vostre merci,</l>
+<l>    en cel pré voi vostre ennemi</l>
+<l>    faites amener Blancheflor</l>
+<l>    a cez fenestres de la tor</l>
+<l>    quar tant con ge verrai m'amie</l>
+<l>    ne penserai a coardie ».</l>
+<l>    Dist l'amiraus « Et ge l'otroi</l>
+<l>    ele venra ensanble o moi ».</l>
+<l>    Lors l'a Floire un poi cenee</l>
+<l>    si a la manche desfermee</l>
+<l>    si a tant aouert le braz</l>
+<l>    que il en agite le laz</l>
+<l>    a tot li a sanglent baillié</l>
+<l>    .m. enplorerent de pitié</l>
+<l>    ilueques sot bien l'amiré</l>
+<l>    que li enfant s'orent amé.</l>
+<l>    Tote la gent grant joie font</l>
+<l>    qui laienz en la cité sont</l>
+<l>    quant il voient le chevalier</l>
+<l>    si bien armé sor son destrier</l>
+<l>    la porte li ont desfermee</l>
+<l>    Floire s'en ist lance levee</l>
+<l>    li aumaçors est fors et granz</l>
+<l>    petit est mendre d'un jaiant,</l>
+<l>    et Floire est el pré venu</l>
+<l>    lance levee tint l'escu.</l>
+<l>    Quant l'aumaçor le vit venir</l>
+<l>    et les armes si bien tenir</l>
+<l>    petite chose li sanbla</l>
+<l>    par contraire li demanda</l>
+<l>    « Es tu mesaige ? Di le moi »</l>
+<l>    Floire respont « O&#x00EF;l le roi</l>
+<l>    laisse tes armes met les jus</l>
+<l>    ne vueil que t'en travailliez plus</l>
+<l>    n'ai coraige de toi touchier</l>
+<l>    n'i porroie riens gaaignier</l>
+<l>    se ge t'avoie el chanp vaincu</l>
+<l>    ja n'en seroit mon pris creu ».</l>
+<l>    Et Floire li respont itant</l>
+<l>    « De ce faire n'ai nul talent</l>
+<l>    la joste vueil por mon seignor »</l>
+<l>    « Or l'averas » dit l'aumaçor</l>
+<l>    « Il me doit Babiloine rendre</l>
+<l>    encor la puisse ge atendre</l>
+<l>    si di qu'il en est parjurez ».</l>
+<l>    « Certes » dist Floire « Vos mentez</l>
+<l>    bien l'os de parjure deffendre</l>
+<l>    se vos la bataille ossez prenre »</l>
+<l>    « Conment deable » dist Jonas</l>
+<l>    « dis tu que tu te conbatras</l>
+<l>    font il ainsi en ton pais</l>
+<l>    et el regne dont tu venis ?</l>
+<l>    Que il se conbatent ençois</l>
+<l>    que il soient ne duc ne rois</l>
+<l>    ne d'escu se saiche covrir</l>
+<l>    ne vers preudome en chanp venir ?</l>
+<l>    Certes, mar fu ton vasselaige</l>
+<l>    quant tu ne vienz en ton aage</l>
+<l>    quar le fai bien, si te recroi</l>
+<l>    en cest pais te ferai roi</l>
+<l>    si te querrai une pucele</l>
+<l>    en tot cest siecle n'a tant bele ».</l>
+<l>    « Certes » fait Floire « J'ai amie</l>
+<l>    qui ni ert oan por vos gerpreie</l>
+<l>    vez la la a cez fenestraus</l>
+<l>    ou el estait o ses vassaus</l>
+<l>    ne faison pas lonc pallement</l>
+<l>    que nos esgardent mainte gent ».</l>
+<l>    L'aumaçor voit joster l'estuet</l>
+<l>    que autre chose estre ne puet</l>
+<l>    tant se fia en sa vertu</l>
+<l>    a terre a geté son escu</l>
+<l>    l'espie a tantost recouré</l>
+<l>    le fer en mist lez son costé</l>
+<l>    le cheval point de grant ahir</l>
+<l>    de grant vertu le vait ferir</l>
+<l>    tel cop li done sor l'escu</l>
+<l>    que tot li a frait et fendu</l>
+<l>    desor l'auberc l'a encontré,</l>
+<l>    mais il l'a si serre trouvé</l>
+<l>    que nel pot onques remuer,</l>
+<l>    mais le covint ainsi passer.</l>
+<l>    Et Floire l'a menois feru</l>
+<l>    le blanc hauberc li a ronpu</l>
+<l>    enpoint le bien de sa vertu</l>
+<l>    contre terre l'a abatu.</l>
+<l>    Dist l'amiraus « Or est ainsi</l>
+<l>    veez a pié nostre enemi</l>
+<l>    cist vallez est de grant vertu</l>
+<l>    de haute gent ce croi nez fu</l>
+<l>    ge nel vosisse avoir ocis</l>
+<l>    por trestot lor de cest pais ».</l>
+<l>    Li aumaçors se releva</l>
+<l>    feruz se sent molt li pese</l>
+<l>    quant il vit son costé seigner</l>
+<l>    et son escu el pré entier</l>
+<l>    cele part vait au colle pent</l>
+<l>    el cheval monte maintenant</l>
+<l>    il a le bon espié cuivré,</l>
+<l>    et Floire vint tot abrivé</l>
+<l>    or li estuet joster manois</l>
+<l>    Floire fu saiges et cortois</l>
+<l>    irous estoient li vassal</l>
+<l>    molt estoient bon lor cheval</l>
+<l>    merveillous cous se sont doné</l>
+<l>    que li escu sont estroé</l>
+<l>    des lances volent li troncon</l>
+<l>    du cors se hurtent li baron.</l>
+<l>    Molt forment se sont estoné</l>
+<l>    endui sont a terre versé</l>
+<l>    dist l'amiraus « Ge vos affi</l>
+<l>    onquess meillor joste ne vi</l>
+<l>    bien le fait nostre chanpion</l>
+<l>    molt reçoit bien son conpaignon ».</l>
+<l>    Des que il furent redrecié</l>
+<l>    du fuerre sont li brant sachié</l>
+<l>    et enbracierent les escuz</l>
+<l>    requierent soi par grant vertuz.</l>
+<l>    Dist l'aumaçor « Or est ainsi</l>
+<l>    onques de toi meillor ne vi</l>
+<l>    des que tu es sor ton cheval</l>
+<l>    n'estuet querre meillor vassal</l>
+<l>    or es a l'espee venuz</l>
+<l>    huimais ert foible ta vertuz</l>
+<l>    grant doulors est que tu morras</l>
+<l>    por la proece que tu as</l>
+<l>    quar le fai bien, si te recroi »</l>
+<l>    « Certes » dist Floire « Ge l'otroi,</l>
+<l>    mais recreanz vos clamerez</l>
+<l>    et vostre espee me rendrez »</l>
+<l>    « Ice n'ert hui » ce dit Jonas</l>
+<l>    « Or i parra que tu feras ».</l>
+<l>    Lors s'est coverz ferir le vait</l>
+<l>    Floire si radement s'estet</l>
+<l>    c'onques ne li daigna guenchir,</l>
+<l>    mais il le fiert par te ahir</l>
+<l>    que il le fist ageloignier</l>
+<l>    a la terre l'estut ploier.</l>
+<l>    Grant poor ot li amiré</l>
+<l>    dedenz sont tuit espoanté</l>
+<l>    Floire ot honte, si salt sus</l>
+<l>    a ceste foiz n'i ot il plus</l>
+<l>    ferir le vait isnelement</l>
+<l>    desus le heaume flanboiant</l>
+<l>    grant fu la force du vassal</l>
+<l>    li cous descendi contre val</l>
+<l>    a donc a bien Jonas ve&#x00FC;</l>
+<l>    que Floire ert de grant vertu</l>
+<l>    ferir le vait isnelement</l>
+<l>    a mont el heaume qui resplent</l>
+<l>    li cous est aval descendu</l>
+<l>    coupe la guige de l'escu</l>
+<l>    ele cha&#x00EF; en mi le pré</l>
+<l>    voiant la gent a l'amiré.</l>
+<l>    Li damoiseaus est molt marriz</l>
+<l>    quant de l'escu s'est desgarniz</l>
+<l>    du braz senestre secouri</l>
+<l>    et au destre l'ala ferir</l>
+<l>    li aumaçors l'escu li tent,</l>
+<l>    et cil i fiert tant durement</l>
+<l>    jusqu'an la boucle le trancha</l>
+<l>    forz fu li fuz, si l'empira.</l>
+<l>    Quant il quida s'espee avoir</l>
+<l>    enqui la covint remanoir</l>
+<l>    estez le vos si avenu</l>
+<l>    qu'il n'a ne lance ne escu.</l>
+<l>    Quant l'aumaçor le voit ainsi</l>
+<l>    vers lui se trest, si l'a saisi</l>
+<l>    molt fait g[ran]t joie l'aumaçor</l>
+<l>    petit li &#x2020; &#x2020; &#x2020; &#x2020; &#x2020; sa doulor</l>
+<l>    si soef porte le danzel</l>
+<l>    con fait li lous porter l'aigniel.</l>
+<l>    Quant l'amiraus porter l'en voit</l>
+<l>    que quidez vos que de lui soit ?</l>
+<l>    As fenestres cha&#x00EF; pasmez</l>
+<l>    et quant il se fu relevez</l>
+<l>    si dist as siens « Qu'el la ferons ?</l>
+<l>    Vaincuz est nostre chanpions</l>
+<l>    or ert Babiloine rendue</l>
+<l>    que nos avons tanz jors tenue ».</l>
+<l>    En la vile a criz et grant plor</l>
+<l>    molt sont dolent de lor seignor</l>
+<l>    quant Blancheflor l'en vit porter</l>
+<l>    si li conmence a escrier</l>
+<l>    « Ha, » fait ele « Floire li proz !</l>
+<l>    soviegne vos de voz amors</l>
+<l>    n'obliez mie vostre amie</l>
+<l>    que vos avez çaienz laissie</l>
+<l>    souviegne vos amis du laz</l>
+<l>    qui orainz fu gitez du braz ».</l>
+<l>    Floire a s'amie entendue</l>
+<l>    c'est por noient si sautue</l>
+<l>    li aumaçors a tot s'en vet</l>
+<l>    a une falaise se tret</l>
+<l>    qui molt estoit et haute et granz</l>
+<l>    de de&#x2020; &#x2020; &#x2020; ert li desrubanz</l>
+<l>    se il&#x2020; &#x2020; &#x2020; ait iluec aler</l>
+<l>    james n'en  &#x2020; &#x2020; ra l'en parler</l>
+<l>    iluec le &#x2020; &#x2020; ngeront grifon</l>
+<l>    ou ors ou liepart ou lion.</l>
+<l>    Floire se vit si justisier</l>
+<l>    molt li dut forment ennuier</l>
+<l>    il vit l'espee enmi l'escu</l>
+<l>    ou il avoit le cop feru.</l>
+<l>    Jonas a la soe estoié</l>
+<l>    li damoiseaus l'a fors sachieé</l>
+<l>    encontremont l'en a levee</l>
+<l>    sel fiert du poig et de l'espee</l>
+<l>    si que le fist ageloignier,</l>
+<l>    lors li estut le braz laschier.</l>
+<l>    Floire eschape, si saut sus</l>
+<l>    et dist itant or ni a plus</l>
+<l>    outre moi &#x2020; &#x2020; &#x2020; n m'avez porté</l>
+<l>    si ne vos  &#x2020; &#x2020; &#x2020; &#x2020; &#x2020; oint de gré</l>
+<l>    or en avrez le gerredon</l>
+<l>    jusqu'a petit departiron.</l>
+<l>    Li aumaçors set bien et voit</l>
+<l>    que il foo&#x00EF;r ne se pooit</l>
+<l>    Floire tenoit sa grant espe[e]</l>
+<l>    molt l'en dona pesant colee</l>
+<l>    amont el heaume reluis[an]t</l>
+<l>    merveilles i ot cop pes[ant]</l>
+<l>    la destre espaule li trancha</l>
+<l>    a la terre le trebus[ch]a.</l>
+<l>    Dist l'aumaçor « Ge sui vaincuz »</l>
+<l>    Respont Floire « Bien est veuz</l>
+<l>    forment m'avez hui menacié</l>
+<l>    un poi vos ai or souploié »</l>
+<l>    Ni us hom venter ne se devroit</l>
+<l>    por sa force se il l'avoit</l>
+<l>    devant qu'il venist au torner,</l>
+<l>    lors porroit il son pris monstrer.</l>
+<l>    Ferir le vait molt se hasta</l>
+<l>    por le pueple qui l'esgarda</l>
+<l>    a tot l'eaume la teste en prent</l>
+<l>    li cors a la terre s'estent</l>
+<l>    il trait l'espee de l'escu</l>
+<l>    ou il avoit le cop feru</l>
+<l>    la teste prent de l'aversier</l>
+<l>    le grant [e]spie et [le] destrier</l>
+<l>    &#x2020; oignan &#x2020; &#x2020; &#x2020; &#x2020; &#x2020; &#x2020; &#x2020; vers la cité</l>
+<l>    &#x2020; molt bien a le chanp finé.</l>
+<l>    [L] i amiraus s'en esjoi</l>
+<l>    si home sont tuit esbau&#x2020; &#x2020;</l>
+<l>    il se devalent du donjon</l>
+<l>    l'amiraut et si conpaignon</l>
+<l>    s'en issirent o Blancheflor</l>
+<l>    receu l'ont a grant henor.</l>
+<l>    Floire lor fist riche present</l>
+<l>    le chief de l'aumacçr lor rent</l>
+<l>    le grant espie et le destrier</l>
+<l>    li amiranz que molt l'ot chier</l>
+<l>    le conmande a desarmer,</l>
+<l>    et cil respondi conme ber</l>
+<l>    « S'en iront ainsi cele gent</l>
+<l>    de vos ne se gardent noient</l>
+<l>    vos en seroiz deshennorez »</l>
+<l>    « Il se dist voir » dist l'amirez</l>
+<l>    « Armez vos tost gel vos comant</l>
+<l>    et il ne tarderent noiant ».</l>
+<l>    Lors ont les garnemenz vestiz</l>
+<l>    il nel firent mie a enviz</l>
+<l>    molt veissiez as escuiers</l>
+<l>    armes traire fors et destriers</l>
+<l>    et porter lances et escuz,</l>
+<l>    et il en sont menois issuz.</l>
+<l>    L'amiraus a Blancheflor prise</l>
+<l>    a Floire l'a en la mein mise</l>
+<l>    si li a dit « Or en penssez</l>
+<l>    que l'aumaçor vaincu avez</l>
+<l>    ge vueil que vostre en soit l'enor</l>
+<l>    quar molt estes de grant valor</l>
+<l>    molt estoit bele la conpaigne</l>
+<l>    qui alee ere a l'ensaigne »</l>
+<l>    et li vallez les maine [et] g&#x2020; &#x2020;</l>
+<l>    qui molt aime chevalerie</l>
+<l>    toz les galoz seurement</l>
+<l>    cil ne se gardoient noient</l>
+<l>    quar molt erent en grant tristor</l>
+<l>    et grant duel font de lor seignor</l>
+<l>    [et] cil les ont manois [feruz]</l>
+<l>    toz enbrunchiez sor les escuz</l>
+<l>    plus [en] ot [m]ort de .ii. milliers</l>
+<l>    a l&#x2020; &#x2020; anbler des chevaliers</l>
+<l>    cil se corent sempres armer,</l>
+<l>    mais il ne pueent recourer</l>
+<l>    vueillent ou non se laissent prenre</l>
+<l>    quar il ne se pueent deffendre</l>
+<l>    quant cil les ont desbaretez</l>
+<l>    ses ont liez et encouplez.</l>
+<l>    En la cité les en menerent</l>
+<l>    a grant joie s'en retornerent</l>
+<l>    coillir firent les paveillons</l>
+<l>    et la richece des barons</l>
+<l>    d'argent et d'or et de vaisse&#x2020; &#x2020;</l>
+<l>    onques nus hom ne vit tant beaus</l>
+<l>    de riches pailes de deniers</l>
+<l>    firent chargier .ii. .c. somiers</l>
+<l>    nus hom ne set l'avoir esmer</l>
+<l>    que il en firent aporter.</l>
+<l>    Cel jor fu Babiloine emplie</l>
+<l>    quar molt fu grant la baronie</l>
+<l>    quant l'amiraut vit les prisons</l>
+<l>    et les princes et les barons</l>
+<l>    que Floire li fist amener</l>
+<l>    en sa chartre les fist giter</l>
+<l>    tant en i fist icel jor metre</l>
+<l>    si con el livre dit la letre</l>
+<l>    que il n'en i pot plus entrer</l>
+<l>    li amirauz les fist doner</l>
+<l>    ainz n'ot en la vile borjois</l>
+<l>    ne si vilain ne si cortois</l>
+<l>    se il volt demander prison</l>
+<l>    qu'il n'en ait un de livroison</l>
+<l>    l'avoir et la grant manantie</l>
+<l>    el pris en la herbergerie.</l>
+<l>    Devant la tor l'ont aportee</l>
+<l>    en la place l'ont assenblee</l>
+<l>    prodom et sage ert l'amirant</l>
+<l>    Floire apela et dist itant</l>
+<l>    « &#x2020; ailes prisons et vos l'avoir</l>
+<l>    si en faites vostre voloir »</l>
+<l>    « Sire » dist Floire « Grant merciz ».</l>
+<l>    Lors fist venir granz et  p[e]t[iz]</l>
+<l>    si lor a maintenant doné</l>
+<l>    l'avoir et la grant [r]icheté</l>
+<l>    molt lor &#x2020; &#x2020; &#x2020; &#x2020; &#x2020; saigement</l>
+<l>    les pailes et l'or et l'argent</l>
+<l>    onques nus plaindre ne s'en pot</l>
+<l>    ne nus si povre n'en i ot</l>
+<l>    qui n'en eust en son endroit</l>
+<l>    selonc le pris qu'il en avoit</l>
+
+
+  </body>
+  <back>
+
+  </back>
+</text>
+</TEI>

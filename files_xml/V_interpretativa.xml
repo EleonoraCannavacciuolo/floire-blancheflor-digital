@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../transformation_scripts/diplomatic-to-html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  
+
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Edition of "Floire et Blancheflor" in Biblioteca Apostolica Vaticana, pal. lat. 1971</title>
+      <editor>Eleonora Cannavacciuolo</editor>
+    </titleStmt>
+    <publicationStmt>
+      <p>Unpublished TEI encoding for scholarly use.</p>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Roma, BAV, Pal. lat. 1971</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+
+<text>
+  <body>
+
+    
+<l>    Et pur la part de la re&#x00EF;ne</l>
+<l>    De reguart dune la meschine</l>
+<l>    La reine mult se fait lee</l>
+<l>    En ses chambres l'ad menee</l>
+<l>    Sa lai li laisse bien guarder</l>
+<l>    Servir la fait et honureer</l>
+<l>    Od li suvent giue et parole</l>
+<l>    Et franceis aprent de sa scole</l>
+<l>    La meschine ert curteis et pruz</l>
+<l>    Mult se feseit amer a tuz</l>
+<l>    La reine forment serveit</l>
+<l>    Cume cele ki os asteit</l>
+<l>    Un jur avint que la christine</l>
+<l>    Uverot as cambres la reine</l>
+<l>    Un gunfanun a os le rei</l>
+<l>    U ele peinst et lu et sei</l>
+<l>    La reine la vit suvent palir</l>
+<l>    Culur muer et tressaillir</l>
+<l>    Et a ses flancs sa main geter</l>
+<l>    Suvent frunchir et suspirer</l>
+<l>    Dunc sot bien qu'ele aveit</l>
+<l>    A son semblant que grosse asteit</l>
+<l>    E li demande cumben il l'ad</l>
+<l>    Qu'ele receut ço dunt mal ad</l>
+<l>    Cele li ad lu terme dit</l>
+<l>    Et la reine li respundit</l>
+<l>    Que de cel fine rert preinz</l>
+<l>    Et en cel jur et nent einz</l>
+<l>    Lu jur de la Pasche Flurie</l>
+<l>    Si cume nun cunte de lur vie</l>
+<l>    Dunc sorent ben senz diviner</l>
+<l>    Lur dreit terme de l'enfanter</l>
+<l>    Vint li termes qu'eles deveient</l>
+<l>    Enfanter ço dunt grosses esteient</l>
+<l>    Travauz ourent et dolur granz</l>
+<l>    Tant que furent nez li enfanz</l>
+<l>    Vallez fut nez de la paene</l>
+<l>    Et meschine out la christiene</l>
+<l>    Li dui enfant quant furent né</l>
+<l>    De la feste furent apelé</l>
+<l>    La christiene pur l'onur</l>
+<l>    De la feste mist Blancheflur</l>
+<l>    Num a sa fille et li reis Floire</l>
+<l>    A sun filz quant sot la stoire</l>
+<l>    Li reis amat mult sun effant </l>
+<l>    La mere plus u autretant</l>
+<l>    Cumandé l'unt a la ravie</l>
+<l>    Pur ço qu'el ert de suen guarnie</l>
+<l>    A nurir e a meistrer</l>
+<l>    Del tut fors de l'aleter</l>
+<l>    Une paene le leiteit</l>
+<l>    Char lur lei de autre ne cunsenteit</l>
+<l>    Ele le nurist dulcement </l>
+<l>    E guarde ententivement </l>
+<l>    Plus que sa fille ele ne saveit</l>
+<l>    Luquel des dous plus cher aveit</l>
+<l>    Ensemble nurri les enfanz</l>
+<l>    Tant que chescun ot .iii. anz</l>
+<l>    Unches ne lur sevrat manger</l>
+<l>    Fors solement li leiter</l>
+<l>    La nuit ensemble les cuchot</l>
+<l>    Amdous pesseit et embevrot</l>
+<l>    Quant cinc anz ourent li enfant</l>
+<l>    Bien furent nurri et bien grant</l>
+<l>    De lur eé en nule terre</l>
+<l>    Plus beaus enfanz n'estuvereit quere</l>
+<l>    Quant li reis vit sun filz si bel</l>
+<l>    De sun aage lu damoisel</l>
+<l>    Et s'aperceit que il pot entendre</l>
+<l>    A letres se volt fere aprendre</l>
+<l>    Gaisdun le cumande un maistre</l>
+<l>    Meudre de lui ne poet nul estre</l>
+<l>    Sis parenz ert de sa maisun</l>
+<l>    Fundez de arz Gandes out nun</l>
+<l>    Li reis cumande dunc a l'afant </l>
+<l>    Qu'il aprenge et il en plurant</l>
+<l>    Li respunt sire que ferat</l>
+<l>    Blancheflur dun n'aprendrat</l>
+<l>    Senz li ne sai jo pas aprendre</l>
+<l>    Ne ja ne savrai leçun rendre</l>
+<l>    Li rei li dit fllz pur vostre amur</l>
+<l>    Voill que aprenge Blancheflur</l>
+<l>    Es les amdous a la scole</l>
+<l>    Mult delivre ourent parole</l>
+<l>    Chescun d'ous tant aperneit</l>
+<l>    Pur l'autre que merveille esteit</l>
+<l>    Li dui enfant mult s'entreamount</l>
+<l>    Et de beauté s'entresemblount</l>
+<l>    Nul d'ous conseill ne saveit</l>
+<l>    De sai quant l'autre n'aveit</l>
+<l>    Al plus tost que suffri nature</l>
+<l>    En eus amer mistrent grant cure</l>
+<l>    En aprendre ourent bons sens</l>
+<l>    En retenir meillur purpens</l>
+<l>    Livres savent paenurs</l>
+<l>    U aperneit parler d'amurs</l>
+<l>    En ço grantment se delitount</l>
+<l>    En cel livre ki il apernount</l>
+<l>    Cel lire les fist plus haster</l>
+<l>    En autre sens de eus entramer</l>
+<l>    Char d'amur de nurreture</l>
+<l>    Mult l[...]ur aveit asté a cure</l>
+<l>    En sul cinc anz et quince dis</l>
+<l>    Furent amdui si bien apris</l>
+<l>    Que bien surent parler latin</l>
+<l>    Et bien escrivre en parchemin </l>
+<l>    Et conseiller oant la gent</l>
+<l>    En latin que nus nes atent</l>
+<l>    Li reis aperceit bien l'amur</l>
+<l>    Que sis filz ad a Blancheflur</l>
+<l>    [G]rantment crent en sun curage</l>
+<l>    Que quant sis ert de l'aage</l>
+<l>    Que fenme deive espuser</l>
+<l>    Que de li nel pouse turner</l>
+<l>    As chambres vent a la reine</l>
+<l>    Cunseil prendre de la meschine</l>
+<l>    Si ele ne li dune a sun talent </l>
+<l>    [O]ccira la hastivement</l>
+<l>    Pus querrat sulunc sun lingnage</l>
+<l>    A sun filz fenme de parage</l>
+<l>    La reine veit bien sun seingnur</l>
+<l>    Iré bien pert en sa culur</l>
+<l>    Kar de sanc ot lu frunt vermeill</l>
+<l>    Il l'apele par grant cunseill</l>
+<l>    Dam[e] fait il malement vait</l>
+<l>    De nostre filz est mult mal plait</l>
+<l>    Saches que astrus le perdun</l>
+<l>    Si hastif cunseill ne pernun</l>
+<l>    Ele dit cument kar tel amur</l>
+<l>    Ad nostre filz a Blancheflur</l>
+<l>    Cele fille nostre caitive</l>
+<l>    Ço dient tant tut cum ele ert vive</l>
+<l>    L'amur de li ne changerat</l>
+<l>    Ne autre fenme n'esposerat</l>
+<l>    Atant ment ert avilé</l>
+<l>    Pur li tut nostre parenté</l>
+<l>    Certes fait il senz demurer</l>
+<l>    Li voill fere lu chef coper</l>
+<l>    Puis durrai a mun filz oissur</l>
+<l>    Fille de rei u de almaçur</l>
+<l>    La reine s'est purpensee</l>
+<l>    Puis ad parlé cum senee</l>
+<l>    A la pulcele volt si aider</l>
+<l>    Et sun seingnur si cunseiller</l>
+<l>    Qu'a sun seignur puisse pleisir</l>
+<l>    Et Blancheflur de mort guarir</l>
+<l>    Sire fait ele bien devum querre</l>
+<l>    Que nostre filz remaine en terre</l>
+<l>    Et que il ne perde pas s'onur</l>
+<l>    Pur l'amur de Blancheflur</l>
+<l>    Mes ki si li purreit tolir</l>
+<l>    Que ne li n'estust pas murir</l>
+<l>    Ço m'est avis plus bel serreit</l>
+<l>    Li reis respunt la dame ad dreit</l>
+<l>    Dame fait il et jol te otrei</l>
+<l>    Cunseillez et vus et mei</l>
+<l>    Sire fait ele enveum Florie</l>
+<l>    Nostre filz aprendre a Muntorie</l>
+<l>    Lee en ert mult dame Sibile</l>
+<l>    Ma surur ki dame est de la vile</l>
+<l>    Des qu'ele l'acheisun savrat</l>
+<l>    Par li si ele pout l'ublirat</l>
+<l>    La christiene Blancheflur</l>
+<l>    Se purchat acun autre amur</l>
+<l>    Malada se feindrat Gaidun</l>
+<l>    Ne li purrat livrer lençun</l>
+<l>    E nus li façun bien entendre</l>
+<l>    Que l'enveum pur aprendre</l>
+<l>    Se sis maistres seinz remaint</l>
+<l>    Florres bien tost le savreit</l>
+<l>    Char mult sunt veir de amur</l>
+<l>    Tul cil ki se crement d'amur</l>
+<l>    Il ert dolent de la nuvele</l>
+<l>    S'en vudrat meuz la pulcele</l>
+<l>    Sa mere malada se refeingne</l>
+<l>    Et ele pur li guarder remeingne</l>
+<l>    Et vus bien l'en ferez</l>
+<l>    Que einz quince dis la trametrez</l>
+<l>    Atant sunt del cunseill turné</l>
+<l>    Li reis ad sun filz demandé</l>
+<l>    Mes primes ot apareillé</l>
+<l>    Si cum il orent cunseillé</l>
+<l>    Et puis li cumande et ad dit</l>
+<l>    Floires lu rei respundit</l>
+<l>    Sire fait il cum pout ço estre</l>
+<l>    Que Blancheflur lais et mun maistre</l>
+<l>    Blancheflur prie qu'ele aud od sei</l>
+<l>    Dunc ben aseure le li rei</l>
+<l>    Que u ele murge u ele vive</l>
+<l>    Al terme l'avrat senz eschive</l>
+<l>    Il lur otrei a quelque peine</l>
+<l>    Li reis sun chamberlanc demeine</l>
+<l>    Li ad chargé et grant cunrei</l>
+<l>    Tel cum astut a filz de rei</l>
+<l>    Est le vus venuz al chastel</l>
+<l>    De Muntorie ki mult est bel</l>
+<l>    Li dux Goias mult lez en fut</l>
+<l>    E a grant joie l'ad receut</l>
+<l>    Et sante si refait grant joie</l>
+<l>    Mes lui ne chaut de quant qu'il oie</l>
+<l>    Pur Blancheflur qu'il n'at s'amie</l>
+<l>    En tristur ad turné sa vie</l>
+<l>    Aprendre l'ad mené Dame Sibile</l>
+<l>    Od les pulceles de la vile</l>
+<l>    Saveir se li ublireit</l>
+<l>    Ne en la scole autre amereit</l>
+<l>    Meis nul oir ne nul veer</l>
+<l>    Ne li pout faire joie aveir</l>
+<l>    Il oit asez mes rien ne prent</l>
+<l>    Char grant dol a li s'entent</l>
+<l>    Amur li ad livré entente</l>
+<l>    Al qu&#x2020;&#x2020; li ad planté un ente</l>
+<l>    Ki en tuz tens flurie esteit</l>
+<l>    Et tant dulcement li uleit</l>
+<l>    Que ne encenzs ne zodoal</l>
+<l>    Ne girofre ne galengal</l>
+<l>    Icel odor rien ne preissout</l>
+<l>    Tut autre joie ubliout</l>
+<l>    Le fruit de cel ente entendeit</l>
+<l>    Meis li terme mult lung asteit</l>
+<l>    Co li ert vis del fruit quillir</l>
+<l>    Quant Blancheflur verrat gesir</l>
+<l>    Juste sai et la beiserat</l>
+<l>    Lu fruit del ente dunc cuildrat</l>
+<l>    Floires atent a quelque peine</l>
+<l>    Tut le terme de la quintanie</l>
+<l>    Mais quant il vit qu'ele vient </l>
+<l>    Dunc sot ben que gabé esteit</l>
+<l>    Et si redute forment et crent</l>
+<l>    Que mort seit quant ele ne vent</l>
+<l>    Atant lait lu manger ester</l>
+<l>    Lu rire ad turné al plurer</l>
+<l>    Le beivre lait et le dormir</l>
+<l>    Cil se crement mult del murir</l>
+<l>    Li chambrelans al rei le mande</l>
+<l>    Cil en ad dol et ire grande</l>
+<l>    De venir li dune cungé</l>
+<l>    La reine apele tut iré</l>
+<l>    Certes fait il ço est nuvele</l>
+<l>    Mar acuintai la damaisele</l>
+<l>    Pot cel estre par sorcerie</l>
+<l>    Ad de mun filz la druerie</l>
+<l>    Faites le mai tost demander</l>
+<l>    Si li ferai lu chef coper</l>
+<l>    Quant mi filz mort la savrat</l>
+<l>    En poi de tens l'ublirat</l>
+<l>    Quant la reine co ad oi</l>
+<l>    Poez saver mult est marri</l>
+<l>    Lasse fait ele cumfait damage</l>
+<l>    Si cist hom siut sun curage</l>
+<l>    Grant dolur et grant peché</l>
+<l>    Se si en siut sa volunté</l>
+<l>    Purpensé s'ad mult franchement</l>
+<l>    Cum li toudra cest mautalent</l>
+<l>    Sire fait ele cha entendez</l>
+<l>    Si jo di sens si l'ascultez</l>
+<l>    En repruver dit hun beau sire</l>
+<l>    Que chi la oite mal venge sa ire</l>
+<l>    Mult dut que si vus l'occiez</l>
+<l>    Ne nus toille plus li pechez</l>
+<l>    Char co dient rei et cunte</l>
+<l>    Que veuz peché fait nuvele hunte</l>
+<l>    Beaus sire reis ele ne pot meis</l>
+<l>    Ne pernez pas sur vus le feis</l>
+<l>    De co ne pot ele pas guarder</l>
+<l>    Que il ne aint ne esforcer</l>
+<l>    Destreinnez vostre mautalent</l>
+<l>    En choiez si jo ne ment </l>
+<l>    Quant en averat eu ses aises asez</l>
+<l>    Et acompli ses voluntez</l>
+<l>    Qu'il larrat jol vus afi</l>
+<l>    Tut senz esforz et senz chasti</l>
+<l>    Nel chastier unques d'amer</l>
+<l>    Kar tant se verrez plus anguisser</l>
+<l>    Destrez ce esforz chastiement</l>
+<l>    Cho sunt d'amur enticement</l>
+<l>    Suffrez qu'il en ait vantage</l>
+<l>    En cest sun primerain aage</l>
+<l>    Puis larrat vus le verrez</l>
+<l>    Quant il l'avrat ou asez</l>
+<l>    E si vus ço ne volez faire</l>
+<l>    Ja n'en serrai a vus cuntraire</l>
+<l>    Enveiet la vendre ultre mer</l>
+<l>    Ja n'orrez mais de li parler</l>
+<l>    A cel port ad mult marchant</l>
+<l>    De Babilonie bien manant</l>
+<l>    La la faites mener et vendre</l>
+<l>    Grant aveir en purra hun prendre</l>
+<l>    Cil l'en menerent kar mult est bele</l>
+<l>    Ja n'orrent mais de li nuvele</l>
+<l>    Issi en serrum ben delivres</l>
+<l>    Si ne serrum pas homicides</l>
+<l>    A cest cunseill so tent li reis</l>
+<l>    Si l'ad livré a un burgeis</l>
+<l>    Purquant enviz le otraie</l>
+<l>    Par un burgeis la enveie</l>
+<l>    Al port ki de marché fud sage</l>
+<l>    Et sout parler de meit language</l>
+<l>    Ne la fait pas par cuveitise</l>
+<l>    Vendre li reis en nule wise</l>
+<l>    Meusz amast sa mor avair</l>
+<l>    Que cent mars d'or pur li avair</l>
+<l>    Mais les peches crent pur ce le lait</l>
+<l>    Li marchant al port s'en vait</l>
+<l>    A u tens vent la pulcele</l>
+<l>    Ki l'achatant kar mult est bele</l>
+<l>    Trente mars d'or et vint de argent</l>
+<l>    E .xx. palies de Bonevent</l>
+<l>    Et dis mantauls veirs osterins</l>
+<l>    Et dis blians nide purprins</l>
+<l>    Et une chere cupe de fin or</l>
+<l>    Ki fu emblé del tresor</l>
+<l>    Al riche empereur de Rume</l>
+<l>    Unc de plus chere ne but hume</l>
+<l>    A grant mervelle fud bien faite</l>
+<l>    Et mult fut subtillement purtraite</l>
+<l>    Par [m]enue neilure</l>
+<l>    Vulcan la fist si mist grant cure</l>
+<l>    De l'hanap peinst tut envirum</l>
+<l>    Troie et le reial dunjun</l>
+<l>    Et cum li griu de hors l'asaillerent</l>
+<l>    Et cunme al mur pichent et maillent</l>
+<l>    Et cum cil dedenz ben se defendent</l>
+<l>    Cailluns et peuz aguz lur rendent</l>
+<l>    En l'urle apres fut peinte Heleine</l>
+<l>    Et cum Paris li dux la meine</l>
+<l>    D'une blanc esmal out fait l'amagine</l>
+<l>    Plus fut chere que tute Kartagine</l>
+<l>    Apres i est cum sis marriz</l>
+<l>    La siut par mer d'ire farsiz</l>
+<l>    Et l'ost des Grius cume noiot</l>
+<l>    Et Agamennon ki amenot</l>
+<l>    Et al cuvercle de desus</l>
+<l>    La ert depeint cume Venus</l>
+<l>    Pallas et Juno ensement</l>
+<l>    Vindrent oir le jugement</l>
+<l>    De Paris char estrif erent</l>
+<l>    De la pome qu'eles ourent</l>
+<l>    De fin or u ascrit esteit</l>
+<l>    Que la bele d'eles l'avreit</l>
+<l>    Et puis sur fei lui ruvent</l>
+<l>    Que a la plus bele le dunast</l>
+<l>    Et cele qu'il meuz preisast</l>
+<l>    Chescune li promet grantment</l>
+<l>    Que veirs lui seit al jugement</l>
+<l>    Juno plenté de grant aveir</l>
+<l>    Pallas prouese et saveir</l>
+<l>    Et Venus lui promet la fenme</l>
+<l>    Que de tutes autres est gemme</l>
+<l>    Paris la pume li dunat</l>
+<l>    Et de sa fenme mult l'astat</l>
+<l>    Asez la voleit meuz aveir</l>
+<l>    Que grant proesce ne saveir</l>
+<l>    Et tres bien mustrot la peinture</l>
+<l>    L'amur Paris et sa grant cure</l>
+<l>    Et cum ses nefs aparaillot</l>
+<l>    Et cum pur lui par mer nai[o]t</l>
+<l>    Li pomeaus ert riche et vaillant</l>
+<l>    De une scarbuncle relusant</l>
+<l>    N'ad suz cel tant orbe celer</l>
+<l>    Se lui aveit le butillier</l>
+<l>    Ne puist senz autre clarté</l>
+<l>    Cunustre vin et fort herbé</l>
+<l>    De or aveit desus un oisel</l>
+<l>    Triforie chi mult par ert bel</l>
+<l>    En sez peiz teneit une genme</l>
+<l>    Plus bele ne vit filz de femme</l>
+<l>    Ço ert vis chi la guardout</l>
+<l>    Que vis esteit si voletout</l>
+<l>    Li reis Eneas l'enportat</l>
+<l>    De Troie quant il s'en alat</l>
+<l>    Si la dunat en Lunbardie</l>
+<l>    Lavine qui fut s'amie</l>
+<l>    Puis l'orent &#x2020; ut li ancheisur</l>
+<l>    Qui furent de Rume seignur</l>
+<l>    Des que Cesar a qui l'emblat</l>
+<l>    Li leres qui la portat</l>
+<l>    U li marchant l'achaterent</l>
+<l>    Ki pur Blancheflur la dunerent</l>
+<l>    Ço l'en dunent par dreit marchez</l>
+<l>    Et si s'en funt joiant et lez </l>
+<l>    Char a duble quident guainner</l>
+<l>    Si sen pount ben repeirer</l>
+<l>    Li marchant out bon oré</l>
+<l>    En lur pais s'en sunt alé</l>
+<l>    Et il l'at tant bien achatee</l>
+<l>    A fin or dis feiz pesee</l>
+<l>    El ad gent cors et cler visage</l>
+<l>    Bien pert qu'ele est de grant parage</l>
+<l>    Pur sa beautet mult l'amat</l>
+<l>    Et bien guarder la cumandat</l>
+<l>    Li marchant en sunt tut lé</l>
+<l>    Char asez i unt guainné</l>
+<l>    Et li burgeis est revenu</l>
+<l>    Al rei ad tut l'aver rendu</l>
+<l>    Et li reis fait aparailler</l>
+<l>    Une tumbe al muster</l>
+<l>    Et desus une pere mist</l>
+<l>    En qui un epitaffe escrist</l>
+<l>    Ci est la bele Blancheflur</l>
+<l>    A qui Floires ot grant amur</l>
+<l>    Atant est Floires repeiré</l>
+<l>    Quant de sun pere en ot cungé</l>
+<l>    Il decent jus del palefrai</l>
+<l>    En la sale devant lu rei</l>
+<l>    Lu rei et sa mere salue</l>
+<l>    Puis lur demande de sa drue</l>
+<l>    Cil se targent de respuns rendre</l>
+<l>    Il va avant as chambres entre</l>
+<l>    La mere a la pulcele trove</l>
+<l>    A chi sun curage descovre</l>
+<l>    A dame fait il u est ma drue</l>
+<l>    Qui tant ai amé en tute ma vie</l>
+<l>    U est ne sai vus l'apelez</l>
+<l>    Ne sai quel part vus me gabez</l>
+<l>    Celez la vus sire nanal</l>
+<l>    Par Deu fist il cist gas est mal</l>
+<l>    Quant ele mais nel puet celer</l>
+<l>    De grant pité l'estuet plurer</l>
+<l>    De tort ses puinz plure guaimente</l>
+<l>    Et en plurant mult se demente</l>
+<l>    Laisse fait ele triste e pensive</l>
+<l>    A bon dreit me claime l'um chaitive</l>
+<l>    En mult mal ure fu jo nee</l>
+<l>    Et mult oi dure destinee</l>
+<l>    Mult ai plus mal que jo ne di</l>
+<l>    Dame fait il pur Deu merci</l>
+<l>    Purquei est ço que vus plurez</l>
+<l>    Sire fait ele vus le savrez</l>
+<l>    Ja ni ad nient de vostre drue</l>
+<l>    Et u est dunc ja est perdu</l>
+<l>    Pur Deu cheles cument</l>
+<l>    Est ele emblé nenil nent</l>
+<l>    En plurant dit lui morte est</l>
+<l>    Que dite vus sire issi est</l>
+<l>    U est li cors u al muster</l>
+<l>    Et quant fut morte .viij. jurz ot er</l>
+<l>    Que si est morte Blancheflur</l>
+<l>    Sire veire pur vostre amur</l>
+<l>    Ele lui ment tut ascient</l>
+<l>    Char al rei out fait serement</l>
+<l>    Quant Floires ot que ele est morte</l>
+<l>    Eissi forment se descunforte</l>
+<l>    La culur pert li quor li ment</l>
+<l>    Tut pasmé chet al pavement</l>
+<l>    La christiene s'esbahi</l>
+<l>    De pour getat un cri</l>
+<l>    Li criz fut haut que li reis l'ot</l>
+<l>    Curant i vint cum plus tost pot</l>
+<l>    Et la mere i vint ensement</l>
+<l>    Grant dul un fait de lur enfant</l>
+<l>    Il se est pasmé e mult poi d'ure</l>
+<l>    Treis feiz quant revent mult demure</l>
+<l>    Quant ele n'ad mené m'amie</l>
+<l>    Cheles fait il kar me menez</l>
+<l>    La mort fait il a quei demure</l>
+<l>    A sa tumbe si la savez</l>
+<l>    Li reis a la tumbe le meine</l>
+<l>    Floires i vait a quelque peine</l>
+<l>    Il vit l'escrit ço est Blancheflur</l>
+<l>    A qui Floires out grant amur</l>
+<l>    Dunc le restut tres feiz pasmer</l>
+<l>    Ainz qu'il sul mot pout parler</l>
+<l>    Apres s'aset li juvencel</l>
+<l>    Sur la pere del tumbel</l>
+<l>    Tendrement cumence a plurer</l>
+<l>    Et Blancheflur a regreter</l>
+<l>    Hoi bele Blancheflur</l>
+<l>    Ja fumes nez en un jur</l>
+<l>    Et en un nuit engendré</l>
+<l>    Si cume nos meres unt acunté</l>
+<l>    Nurri avun esté ensemble</l>
+<l>    Bien deussun sicum me semble</l>
+<l>    En un jur issir de vie</l>
+<l>    Si la mort fust par dreit partie</l>
+<l>    Hoi Blancheflur cler visage</l>
+<l>    De quel que vus fuissez  parage</l>
+<l>    Unches dame de nul aage</l>
+<l>    Ne fud plus bele ne plus sage</l>
+<l>    Mort est preciose gemme</l>
+<l>    Jamais nen ert plus bele fenme</l>
+<l>    Bele nus ne purrat ascriure</l>
+<l>    Vostre beauté ne buche dire</l>
+<l>    Char la materie tele astreit</l>
+<l>    Que nus a chef ne la trarreit</l>
+<l>    Sun chef sun crin sun visage</l>
+<l>    Kil delscrivereit trop sereit sage</l>
+<l>    Ha tendre face culuree</l>
+<l>    Meudre de vus ne fut unches nee</l>
+<l>    Lu pris purrez estre de beauté</l>
+<l>    E l'enseigne de casté</l>
+<l>    Humble estiez et honurable</l>
+<l>    Et a busuig succurable</l>
+<l>    Petit et grant tut vus amount</l>
+<l>    Pur la bunté qu'en vus truvount</l>
+<l>    Bele nus nus entreamium</l>
+<l>    Et en escrivant cunseillum</l>
+<l>    Li uns al autre sen bon diseit</l>
+<l>    En latin nuls n'entendeit</l>
+<l>    Hoi morte enviuse</l>
+<l>    De pute part cuntrariuse</l>
+<l>    Ja apelee ne vendras</l>
+<l>    Ne ceus ki t'ameint ne amaras</l>
+<l>    Ces ki plus te heent plus aimes</l>
+<l>    E ultre lur voill les ememes</l>
+<l>    Ne se pot defendre saveir</l>
+<l>    De tei pruez ne aveir</l>
+<l>    Quant hom plus vaut et menz deit vivre</l>
+<l>    Dunc t'entremez de lui occire</l>
+<l>    Quant hom deit joje en sun vivant</l>
+<l>    Avair tu li tous sudainement</l>
+<l>    Mais quant vus aucun mendiant</l>
+<l>    Chi de vielleté vait tremblant</l>
+<l>    Et il t'apele par grant tristece</l>
+<l>    Ne vous oir sa grant voillece</l>
+<l>    Quant tu m'amie me tollis</l>
+<l>    Que viure voleit tort me fesis</l>
+<l>    Or refeis tort quant voil murir</l>
+<l>    Et jo t'apel ne vus venir</l>
+<l>    Mort tu me fuis jo te sivrai</l>
+<l>    Tu repuns io te querrai</l>
+<l>    A fai que de quor vout murir</l>
+<l>    Ne li poes guaires guandir</l>
+<l>    Quant aucun dolurs t'apele</l>
+<l>    Dunc turnez bien ta ruele</l>
+<l>    Tu voirz aver regrez et preiez</l>
+<l>    Idunt te cheent ben tes dez</l>
+<l>    Par fai mais ne te preirai</l>
+<l>    Ainz qu'il seit vespre io murrai</l>
+<l>    Char des ur main chaste vie</l>
+<l>    Quant perdu ai ma cunpaingnie</l>
+<l>    M'alme la su alme sivrat</l>
+<l>    En Chanp Fluri la truverat</l>
+<l>    U ele cuntre cuilt flurs</l>
+<l>    Char mult sa fie en noz amurs</l>
+<l>    Senz demurer jo la sivrai</l>
+<l>    Et ço ert cum einz purrai</l>
+<l>    Encui me verrat certeinnement</l>
+<l>    En Chanp Fluri u ele m'etent</l>
+<l>    Atant s'est drecé en astant</l>
+<l>    Devant le pere li anfant</l>
+<l>    Un gref treist de sun greffer</l>
+<l>    D'argent ki mult aveit cher</l>
+<l>    Pur Blancheflur ki li dunat</l>
+<l>    Derainement quant od lui parlat</l>
+<l>    Quant il alat a Muntorie</l>
+<l>    Dunc ad parlé al gref Florie</l>
+<l>    Gref fait il a ço fus f[ei]t</l>
+<l>    Que fin meisses a cest pleit</l>
+<l>    Mei te dunad pur remembrer</l>
+<l>    De sei et a sun ous guarder</l>
+<l>    Blancheflur mes ore fei que deiz</l>
+<l>    Mai li enveie kar ço est dreiz</l>
+<l>    Mult me chalange Blancheflur</l>
+<l>    En ma vie trop i demur</l>
+<l>    En sun quor buter le voleit</l>
+<l>    Quant sa mere le aperceveit</l>
+<l>    Sur lui curt le gref prent</l>
+<l>    Puis le chastia dulcement</l>
+<l>    Mere fait il ja pur murir</l>
+<l>    Ne purrai meis cest dol suffrir</l>
+<l>    Beau filz fait ele mult es enfanz</l>
+<l>    Quant ta mort es desiranz</l>
+<l>    N'ad su cel si hom a murir</l>
+<l>    De la mort poust resortir</l>
+<l>    Meuz ne vousist estre mesanz</l>
+<l>    Et od lazeres viure en bordanz</l>
+<l>    Char trespasser de mort le pas</l>
+<l>    Filz de mort suffrir n'est mie gas</l>
+<l>    Et si vus vus occiez</l>
+<l>    En Chanp Fluri pas ne vendrez</l>
+<l>    Ne ne verrez Blancheflur</l>
+<l>    Cel chanp ne receit pecheur</l>
+<l>    Enfer senz chalange i metreit</l>
+<l>    La en irrez beau filz tut dreit</l>
+<l>    Minos Thoas Adamantus</l>
+<l>    Cil sunt jugeur de la jus</l>
+<l>    En enfern funt les jugemenz</l>
+<l>    Cil vus metreient en turmenz</l>
+<l>    La u est Dido et Biblis</l>
+<l>    Chi pur amur furent occis</l>
+<l>    Pur amur en ennfern dol fesanz</l>
+<l>    Lur druz en dulur queranz</l>
+<l>    Mes il les querent et querrunt</l>
+<l>    Tuz jurz et ja nes truverrunt</l>
+<l>    Meis cher filz or te recunforte</l>
+<l>    Ainz l'avras vive que morte</l>
+<l>    Jo qui trover ta medicine</l>
+<l>    Parque revivrat la meschine</l>
+<l>    Ele est venue plurante al rei</l>
+<l>    Sire fait ele entent a mai</l>
+<l>    Jo te requer pur Deu le grant</l>
+<l>    Que aies merci de tun enfant</l>
+<l>    La se fust occis quant le parchui</l>
+<l>    Od un greffe mais tant pres fui</l>
+<l>    Que ainz qu'il fust guarni</l>
+<l>    Des mains lu greffe li toli</l>
+<l>    Dame fait il encore suffrez</l>
+<l>    Cest doil l'airrat vus le verrez</l>
+<l>    A fai fait ele vaire pur murir</l>
+<l>    Kar il murrat par ço suffrir</l>
+<l>    De tuz enfanz mais nul n'avum</l>
+<l>    Et cestui de gré occium</l>
+<l>    Que dirrat l'un par le pais</l>
+<l>    Que nus l'avrum de gré occis</l>
+<l>    Dame fait il qu'en volez vus</l>
+<l>    Dirum li dunc beau sire e vus</l>
+<l>    Char u ensemble les averez</l>
+<l>    U ambedous par l'un perdrez</l>
+<l>    Beau filz fait ele par engeien</l>
+<l>    Par le tum pere et par le men</l>
+<l>    Feimes cest tumbe ici</l>
+<l>    Ele m'est pas mais tut issi</l>
+<l>    Vulium que tu l'ubliasses</l>
+<l>    Et de tun parage espussasses</l>
+<l>    Femme fille de alcun rai</l>
+<l>    Ki onurast et nus et tai</l>
+<l>    Ne vuliums que Blancheflur</l>
+<l>    En avant eust t'amur</l>
+<l>    Pur ço que christiene esteit</l>
+<l>    Poure chose de bas en dreit</l>
+<l>    Marchant l'unt achatee</l>
+<l>    Et l'autre l'en unt menee</l>
+<l>    Beau filz dit ele pur Deu merci</l>
+<l>    Char tut est veirs sicum jo di</l>
+<l>    Que tu cest dol ne mener mais</l>
+<l>    En cest pais remeing en pais</l>
+<l>    Dame fait il dites vus veir</l>
+<l>    Beaus fait ele tul poz veir</l>
+<l>    Atant la pere unt remué</l>
+<l>    Quant il desuz nent n'ad truvé</l>
+<l>    Deu rent graces si l'en mercie</l>
+<l>    Quant sot que vive ert s'amie</l>
+<l>    Quant ço veit dit qu'il la querra</l>
+<l>    Et si Deu pleist enchore l'avra</l>
+<l>    De ço se vante qu'il l'irrat querre</l>
+<l>    Ja n'ert en si estrage terre</l>
+<l>    Quant l'avra truvé puis revendra</l>
+<l>    A a grant joje la remerra</l>
+<l>    La joje li fait oblier</l>
+<l>    Tut le travaill de li truver</l>
+<l>    Seingnurs ne vus esmerveillez</l>
+<l>    Char si d'amur est justisiez</l>
+<l>    Ço qui de faire certainnement</l>
+<l>    Dunt se merveillent tute gent</l>
+<l>    Ço dist Caldes et Platun</l>
+<l>    Que pas ne qui dereit nus hom</l>
+<l>    Questre poust ço que fera</l>
+<l>    Cil ki d'amur destreit serra</l>
+<l>    De ço que vive est feit grant joie</l>
+<l>    Et dit que lui ne chaut qu'il oie</l>
+<l>    Li reis pur nient se penereit</l>
+<l>    Ja autre fenme ne espusereit</l>
+<l>    Atant en est al rei venu</l>
+<l>    Li reis lez et joiant en fu</l>
+<l>    Quant il le vit et puis iré</l>
+<l>    Quant il li demande cungé</l>
+<l>    D'aler querre la damoissele</l>
+<l>    Char il de li ne set nuvele</l>
+<l>    Ne ne set dire en quele terre</l>
+<l>    Il la devie aler querre</l>
+<l>    Le cunseill blasme a la reine</l>
+<l>    Par chi il vendi la meschine</l>
+<l>    Lu &#x2020;&#x2020;&#x2020; maudit k'ele fud vendue</l>
+<l>    Char sun filz perrt quant l'ad perdue</l>
+<l>    Mil mars d'argent pur li durreit</l>
+<l>    Et quant qu'il il prist ovoc granterereit</l>
+<l>    S'il la trovast mais ne fra</l>
+<l>    Voille un nun s'en cunsiura</l>
+<l>    Filz fait li reis char remanez</l>
+<l>    Sire fait il peché avez</l>
+<l>    Cum mun aler plus hasterez</l>
+<l>    Et mei et li plus tost reverrez</l>
+<l>    Filz quant remeindre ne vulez</l>
+<l>    Dites cum errer vuldrez</l>
+<l>    Char vostre volunté ferai</l>
+<l>    Quant que ous vus ert vus truverai</l>
+<l>    Cheres palies et or  et argent</l>
+<l>    Bons dras chevaus et bele gent</l>
+<l>    Sire dit Floires or oiez</l>
+<l>    Et si vus plaist si m'escutez</l>
+<l>    Oume marchant la querrai</l>
+<l>    Char set sumers od mai merrai</l>
+<l>    Les dous chargiez de or et de argent</l>
+<l>    Et de veissele a mun talent</l>
+<l>    Le terz de deners munaiez</l>
+<l>    Atant en averum nus asez</l>
+<l>    Les dous puis de chers dras</l>
+<l>    Les meillurs que tu averas</l>
+<l>    De beivres et de marterins</l>
+<l>    Set humes ait od les .vii. sumers</l>
+<l>    Et jo ot mai tres esquers</l>
+<l>    Chi nostre manger purquerrunt</l>
+<l>    Et nos chevaus guarderunt</l>
+<l>    Vostre chamberlanc sire rei</l>
+<l>    Vus pri que enveiez od mai</l>
+<l>    Char ben set vendre et achater</l>
+<l>    Et a busiung cunseill duner</l>
+<l>    Pur tut serra nostre achaisun</l>
+<l>    Et nostre escu a tut busuingnun</l>
+<l>    Et si la poums revair</l>
+<l>    Par aucun marché de nostre avair</l>
+<l>    Nus en durrum largement</l>
+<l>    Puis revendrum leement</l>
+<l>    Li emphes fine sa reisun</l>
+<l>    Et li sire cum prudum</l>
+<l>    Trestut li ad apparaillé</l>
+<l>    Quant vendrat prendre le congé</l>
+<l>    Ad li reis la cupe demandee</l>
+<l>    Ki pur Blancheflur fud dunee</l>
+<l>    Ceste fait il emporteras</l>
+<l>    Poet cel estre par li ravras</l>
+<l>    Sele chi pur li fud vendue</l>
+<l>    Sire chi Blancheflur ta drue</l>
+<l>    Et sen demaine palefrai</l>
+<l>    Li ad feit en seler li rei</l>
+<l>    Chi del une part fud tut blanc</l>
+<l>    Del autre ruge cume sanc</l>
+<l>    La susceles ert de palies cheres</l>
+<l>    Si ert urlee tut a schecchers</l>
+<l>    Tute la sele e li arcun</l>
+<l>    Sunt de la cost de un peissun</l>
+<l>    La culur est inde merveille</l>
+<l>    Nauturaument a grant merveille</l>
+<l>    En est faite la taillure</l>
+<l>    Et li or asis par grant cure</l>
+<l>    La cuverture de la sele</l>
+<l>    Est de un brun palie de Castele</l>
+<l>    Tute flocchee a fil d'orfrais</l>
+<l>    Kar tele la vuleit li reis</l>
+<l>    Les estrives et les cengles</l>
+<l>    De sei neis les cuntrecengles</l>
+<l>    Laceos merveillusement</l>
+<l>    Tutes les bucles sunt d'argent</l>
+<l>    Li estriu valent un chastel</l>
+<l>    D'or fin sunt uvree a neel</l>
+<l>    Li freins est mult ben fait et chers</l>
+<l>    Unc ne vit plus bel chevalers</l>
+<l>    Le chevechal est de fin or</l>
+<l>    Les peres valent un tresor</l>
+<l>    Chi al blanc esmal sont assis</l>
+<l>    Esmal en lor par entremis</l>
+<l>    Li frains fut tut de l'or d'Espaingne</l>
+<l>    Et sacez meuz en vaut lu fraigne</l>
+<l>    Que l'or ne les peres ne funt</l>
+<l>    Que tutes precioses sunt</l>
+<l>    Les reingnes de fil d'or esteient</l>
+<l>    D'issi la u del frein parteient</l>
+<l>    Trestut eissi aparaillé</l>
+<l>    L'ad li reis a sun filz baillé</l>
+<l>    E la reine sun anel</l>
+<l>    Al deit ad mis al juvencel</l>
+<l>    Filz fait ele cest guardez ben</l>
+<l>    Tant cum l'avrez mar crendrez ren</l>
+<l>    Fer ne vus pot entamer</l>
+<l>    Ne fou ardeir ne ewe naer</l>
+<l>    Filz cest anel grant ad puissance</l>
+<l>    Si en poez avoir fiance</l>
+<l>    Que vus la rien que querriez</l>
+<l>    Que tost u tart tut nel aiez</l>
+<l>    Il prent l'anel si l'en mercie</l>
+<l>    Et dit que u[n]core l'avrat s'amie</l>
+<l>    Atant lur demande cungé</l>
+<l>    Li reis li ad plurant duné</l>
+<l>    A sa mere i ad cungé pris</l>
+<l>    Ele plure et dit mis chers amis</l>
+<l>    A Deu vus seiez cumandé</l>
+<l>    Prist l'en si l'ad seit feiz beisé</l>
+<l>    Et fesist plus s'en fust aise</l>
+<l>    Li reis li tout treis feiz le beise</l>
+<l>    La les verrez amdous plurer</l>
+<l>    Tortre les puinz lur crins tirer</l>
+<l>    Et tel dol faire al partir</l>
+<l>    Cume si le veissent idunc murir</l>
+<l>    Char il dutount ço qu'il en virent</l>
+<l>    Mais ne verrunt ne il nel firent</l>
+<l>    Atant lur ad dit en plurant</l>
+<l>    Si cume cil qui pité rad grant</l>
+<l>    Li damoiseaus lur dit valé</l>
+<l>    Et il l'unt a Deu cumandé</l>
+<l>    Es le vus fors de la cité</l>
+<l>    Od lur sumers ben aruté</l>
+<l>    Il et sis chamberlans cunseillant</l>
+<l>    Et lur jurnéés apparaillent</l>
+<l>    Al port volent primes aler</l>
+<l>    U Blancheflur entrat en mer</l>
+<l>    Tant sunt erré la sunt venu</l>
+<l>    Ches un burgeis sunt descendu</l>
+<l>    Chi maisuns out larges et granz</l>
+<l>    Kar herberger soleint marchanz</l>
+<l>    Quant li cheval sunt astablé</l>
+<l>    Fein et aveine unt a plenté</l>
+<l>    Et cil qui fu cumandé</l>
+<l>    As astaus al burc sunt alé</l>
+<l>    Chars achatent des plus cheres</l>
+<l>    Char il eu trovent de maneres</l>
+<l>    Et li sires l'ad ben cumandé</l>
+<l>    Que il en aient a plenté</l>
+<l>    Pain et vin funt aporter</l>
+<l>    Mult aprestent cher super</l>
+<l>    Marchant dient qu'il sunt</l>
+<l>    Pur cel mester mer passerunt</l>
+<l>    Floires dient qu'est lur seingnur</l>
+<l>    Sons est li aveirs n'est meillur</l>
+<l>    Quant il furent aseuré</l>
+<l>    Et lur marger fut apresté</l>
+<l>    Napes funt metre et vunt laver</l>
+<l>    Puis s'aststrent al manger</l>
+<l>    Li ostes est pruz et vaillanz</l>
+<l>    Dejuste sei aseit l'enfanz</l>
+<l>    Mult l'onure et tient cher</l>
+<l>    Et sumunt le mult del manger</l>
+<l>    La table fu mult marcheande</l>
+<l>    Grant plent unt de viande</l>
+<l>    Tres ben le servent li sergant</l>
+<l>    Vin lur muissent a espandant</l>
+<l>    En cupes d'or hanaps d'argent</l>
+<l>    Muissent cher vin herbe piment</l>
+<l>    Li marchant travaillé furent</l>
+<l>    Aseiz mangerent et ben burent</l>
+<l>    Suvent dient pur le bon vin</l>
+<l>    Qu'il unt l'ostel Sein Martin</l>
+<l>    Cil se deduent leement</l>
+<l>    Floire a Blancheflur ad sunt talent</l>
+<l>    Pur bon vin pas ne l'ublie</l>
+<l>    Mult prise poi senz li sa vie</l>
+<l>    Pur li suvent s'entreubliot</l>
+<l>    Et par fundement suspirot</l>
+<l>    Et ne dunot guarde a sa main</l>
+<l>    Se il perveit u char u pain</l>
+<l>    La ostese ad bien tut asguardé</l>
+<l>    Del cute ad sun seinuur buté</l>
+<l>    Sire fait ele avez vou</l>
+<l>    Cum cist enfes s'est cuntenu</l>
+<l>    Sun mainger lait pur le penser</l>
+<l>    Suvent lui vei mult suspirer</l>
+<l>    Par mun chef n'est pas marchant</l>
+<l>    Gentiz hum est el vait querant</l>
+<l>    Dunc ad l'enfant a reisun mis</l>
+<l>    Sire fait ele mult es pensis</l>
+<l>    A cest mangerg t'ai aguardé</l>
+<l>    Poi as mangé mult as pensé</l>
+<l>    Ço qu'en as pris serreit leger</l>
+<l>    A aquiter de cest manger</l>
+<l>    Autel vi jo l'autre jur</l>
+<l>    Da damoisele Blancheflur</l>
+<l>    Eissi se numa ele a mai</l>
+<l>    Ele te resemble par ma fai</l>
+<l>    Bien poez estre d'un aage</l>
+<l>    Vus resemblez de visage</l>
+<l>    Ensement al manger pensot</l>
+<l>    Et un sun ami regretout</l>
+<l>    Floire qui amie ele asteit</l>
+<l>    Pur qui tolir l'um la vuleit</l>
+<l>    Cil chi l'acaterent diseient</l>
+<l>    Qu'en Babilonie la merreient</l>
+<l>    Al amirall tant la vendreient</l>
+<l>    Que a duble in guanereient</l>
+<l>    De la joie si s'esbahi</l>
+<l>    Q'unc ne sot si abati</l>
+<l>    Lu vin que devant lui esteit</l>
+<l>    Od sun cutel qu'il teneit</l>
+<l>    Li ostes si crie il est forfeit</l>
+<l>    Amende nus serrat cist plait</l>
+<l>    Et il dient ço est dreit tuit</l>
+<l>    Char lez en sunt pur le deduit</l>
+<l>    Floires une cupe d'or fin</l>
+<l>    Emplir ad fait de bon vin</l>
+<l>    Ad s'oste ad fait le present</l>
+<l>    Puis li dit dame icest vus rent</l>
+<l>    Pur ço que m'aves dit nuvele</l>
+<l>    De Blancheflur la domoisele</l>
+<l>    Pur li ert que pensoue</l>
+<l>    A cest manger et suspiroue</l>
+<l>    Et pur ço que jo ne saveie</l>
+<l>    Quel part querre la deveie</l>
+<l>    Or le sivrai en Babilonie</l>
+<l>    Plui ne vent ne mer essonie</l>
+<l>    Apres dit li vins aspanduz</l>
+<l>    Seignurs est dreiz que seit renduz</l>
+<l>    Tant en faites sur mai venir</l>
+<l>    Cum vus vendrat a plaisir</l>
+<l>    Atant es vus quatre escuers</l>
+<l>    Qui aportent quatre sesters</l>
+<l>    Lui en mist vin primes aamende</l>
+<l>    Puis li dient le hanap rendre</l>
+<l>    Al ost quant l'avrad buu</l>
+<l>    Il beit et puis li ad rendu</l>
+<l>    Et li autre par la maisun</l>
+<l>    Del vin beivent a tençunt</l>
+<l>    Li plus povre se tent a riche</l>
+<l>    Et de hardement mult sa fiche</l>
+<l>    Cil se deduent leement</l>
+<l>    Atant es vus turné li vent</l>
+<l>    Li vespres ert bien a vesprez</l>
+<l>    Et li floz tuit al port muntez</l>
+<l>    Li &#x2020; rs est clers les nues series</l>
+<l>    Al est turnent les wirewites</l>
+<l>    Co dient li meistre des nefs</l>
+<l>    Que vent avrunt pleins lur trefs</l>
+<l>    Lungement surjurné i unt</l>
+<l>    Et del passer desirant sunt</l>
+<l>    Dunc funt crier li notener</l>
+<l>    Par la vile qu'agent charger</l>
+<l>    Tut cil que en Babilonie irrunt</l>
+<l>    U en ces terres qui de la sunt</l>
+<l>    Floires l'oit mult sen fait lé</l>
+<l>    D'errer s'est aparaillee</l>
+<l>    Quant sunt cunrai out aquité</l>
+<l>    A sun ost ad del sun duné</l>
+<l>    Puis prent par bon amur congé</l>
+<l>    Asnes venent si sont chargé</l>
+<l>    Sun asturman ad mult preié</l>
+<l>    Et il li ad ben otrié</l>
+<l>    Qu'a icel port le rivera</l>
+<l>    Dunt il plus tost venir purra</l>
+<l>    En Babilonie la cité</l>
+<l>    Char hum li dit et ad cunté</l>
+<l>    Que di cel jur en un mais</l>
+<l>    L'asemblerunt tut li reis</l>
+<l>    Chi del amirall terres tenent</l>
+<l>    Et a sa curt as festes venent</l>
+<l>    A une feste que il tendra</l>
+<l>    Se dunc fait il esteie la</l>
+<l>    Mes trssaus pot estre i vendraie</l>
+<l>    Et qui que jo i guainnereie</l>
+<l>    Li venz fud bons et li eris cler</l>
+<l>    Atant se sunt entré en mer</l>
+<l>    Al retrait et al vent nort</l>
+<l>    Les nefs tutes eissent del port</l>
+<l>    Lur tref unt tut deshanaches</l>
+<l>    Et sus desques tups saches</l>
+<l>    Sis fert li venz quis fait errer</l>
+<l>    Es vus Florie en haute mer</l>
+<l>    En la nef out tel cunrai</l>
+<l>    Cum il fust u ques u rai</l>
+<l>    Vint jurz pleners par mer erra</l>
+<l>    Que nule terre ne truva</l>
+<l>    Al nofme jur est arivé</l>
+<l>    Suz Baudac une grant cité</l>
+<l>    Chi fut sur une roche bise</l>
+<l>    De sus le port en haut asise</l>
+<l>    De iloc pot hum quant fait cler</l>
+<l>    Cent lius lung veer en mer</l>
+<l>    Bien un tenu li notener</l>
+<l>    A la cite lur dreit senter</l>
+<l>    Çou est porz dunt le requist</l>
+<l>    Li emfes que la le mesist</l>
+<l>    Dei loc purrat a quatre jurz</l>
+<l>    De ices d'ivern et des plus curz</l>
+<l>    En Babilonie od ses sumers</l>
+<l>    Venir s'il n'ad desturbers</l>
+<l>    Sa promesse et sen fret demande</l>
+<l>    Et il li dune et bone et grande</l>
+<l>    Vint mars d'or fin et .xx. d'argent</l>
+<l>    Li fait livrer joiusenment</l>
+<l>    Char vis li ert q'en parais</l>
+<l>    L'ait mis quant ert al pais</l>
+<l>    U s'amie quidot truver</l>
+<l>    Qu'il suit par tere et par mer</l>
+<l>    Atan deschargent les trusseaus</l>
+<l>    Del descharger sont mult igneaus</l>
+<l>    Et sunt venu a la cité</l>
+<l>    Desuz qui il sunt arivé</l>
+<l>    Ches un burgeis sunt herbergé</l>
+<l>    Chi mult ert riches de marché</l>
+<l>    Et par mer sun marché menout</l>
+<l>    Quant charge aveit mer passeout</l>
+<l>    En la sue nef passerent</l>
+<l>    Li marchant qui l'achaterent</l>
+<l>    Floires qui Blancheflur querreit</l>
+<l>    Et pur qui si dolenz esteit</l>
+<l>    Et en sa maisun la nuit virent</l>
+<l>    Quant fors de mer eissu furent</l>
+<l>    Par lui ço quit reorra nuvelle</l>
+<l>    Floires iloc de la pulcele</l>
+<l>    Li chamberlains fait les trusseaus</l>
+<l>    Descharerger et puis les chevaus</l>
+<l>    Bien astabler et afferrer</l>
+<l>    Et de litere et de manger</l>
+<l>    En cel ostel trestut truverent</l>
+<l>    Quanque a l'os [...] [lur] demanderent</l>
+<l>    Fain et aveine et mult bons vins</l>
+<l>    Char [s]alee fresche et poucins</l>
+<l>    Lu manger unt fait mult haster</l>
+<l>    Char travaillé sunt mult par mer</l>
+<l>    Li port esteit al amiraill</l>
+<l>    Meint hom i ad uu travaill</l>
+<l>    U seit a dreit u seit a tort</l>
+<l>    Tut lur estout duner al port</l>
+<l>    La siste part de lur aveir</l>
+<l>    Et puis jurer que il dient veir</l>
+<l>    Et rendre tut a dan Marsile</l>
+<l>    Cil qui maistres est de la vile</l>
+<l>    Quant cel aveir ourent rendu</l>
+<l>    Et lur manger apresté fu</l>
+<l>    Dunc unt lavé et sunt assis</l>
+<l>    El plus bel lui unt Floire mis</l>
+<l>    Il unt a manger richement</l>
+<l>    Et si manjument leement</l>
+<l>    Mais Floires mult poi mangat</l>
+<l>    Pur s'amie dunt il pensat</l>
+<l>    Li ostes s'est aparceut</l>
+<l>    Qu'il n'est pas lez quant l'[a]t veut</l>
+<l>    Sire fait ço m'est avis</l>
+<l>    Pur vostre avair estes pensis</l>
+<l>    Pur la custume que trop est grant</l>
+<l>    Jo pens del sire dist l'enfant</l>
+<l>    Li ostes dit tut autretel</l>
+<l>    Vi jo l'autrer en cest ostel</l>
+<l>    Ci vint l'autrer une conpaigne</l>
+<l>    De marchanz ço quid d'Espaingne</l>
+<l>    Mener par mer ai cest port</l>
+<l>    Ço m'est vis si dreit recort</l>
+<l>    Une pulcele ki si duleit</l>
+<l>    Et ensement se cunteneit</l>
+<l>    Jo l'oi numer Blancheflur</l>
+<l>    Et en ma nef menot grant dolur</l>
+<l>    Yci al manger suspirout</l>
+<l>    Un sun ami regretout</l>
+<l>    Floires est lez de la nuvele</l>
+<l>    U manet fait il la pulcele</l>
+<l>    Cil respunt quant s'en alerent</l>
+<l>    En Babilonie la menerent</l>
+<l>    Floires l'en dune un bon mantel</l>
+<l>    Et un hanap d'argent bel</l>
+<l>    Sire fait il ço voill que aiez</l>
+<l>    Et Blancheflur gré en sacez</l>
+<l>    Kar li sui ci venu querre</l>
+<l>    Que emble me fu de ma terre</l>
+<l>    Quant del manger sunt suffisant</l>
+<l>    Les napes ostent li serjant</l>
+<l>    Dunc funt lur liz aparaillier</l>
+<l>    Las sunt si se vunt cucher</l>
+<l>    Quant Floires dort sun qor veille</l>
+<l>    Od Blancheflur give et cunseille</l>
+<l>    Meis sun dormir en mult petit</l>
+<l>    Al matin quant le jur vint</l>
+<l>    Ses cunpaingnuns ad asveillez</l>
+<l>    Quant il se sunt aparaillez</l>
+<l>    Al dreit chemin sunt alé</l>
+<l>    Vers Babilonie la cité</l>
+<l>    Cele nuit a un chastel vindrent</l>
+<l>    U il mult herbegé furent</l>
+<l>    Et le demain ben par matin</l>
+<l>    Se remetent en lur chemin</l>
+<l>    La nuit se resunt herbegé</l>
+<l>    En un vile que out marché</l>
+<l>    U il reoient de li parler</l>
+<l>    Par iluc la vit hum passer</l>
+<l>    Al terz jur devant vesprer</l>
+<l>    Parvindrent a un braz de mer</l>
+<l>    L'enfer la nument el pais</l>
+<l>    Del autre part est Muntfelis</l>
+<l>    Un chastel riche u cil maneit</l>
+<l>    Ki la gent utre cunueit</l>
+<l>    Char ert reide et parfunt</l>
+<l>    Il ni aveit ne planche ne punt</l>
+<l>    Mais al rivache un corn aveit</l>
+<l>    Ki a un pel pendu asteit</l>
+<l>    Od qui li venant cornouent</l>
+<l>    Ki le notoner apelouent</l>
+<l>    Un d'eus le corne et il les ot</l>
+<l>    A eus vint si tost cum pot</l>
+<l>    Li meistre sist en un batel</l>
+<l>    Od sei qu'il li lu juvencel</l>
+<l>    Et li serjanz les noteners</l>
+<l>    En la nef traient les sumers</l>
+<l>    Atant cumencent a nager</l>
+<l>    Et marcheant et notener</l>
+<l>    Li meistre esguarde vers l'enfant</l>
+<l>    Gentilz hom semble en sun senblant</l>
+<l>    Puis li dit sire cum errez vus</l>
+<l>    Marchant sui ja'l veez vus</l>
+<l>    En Babilonie voill aler</l>
+<l>    Pur vendre et pur achater</l>
+<l>    Si en cest chastel mesun avez</l>
+<l>    A nuit mais nus herbergez</l>
+<l>    Par fei fait il sire si ai</l>
+<l>    Voluntiers vus i herbegerrai</l>
+<l>    Mais fait il baus pur ço le diseie</l>
+<l>    Que murne et pensif vus veie</l>
+<l>    Tut ensement vi jo uan</l>
+<l>    Entur la feste Seint Johan</l>
+<l>    Çeinz une pulcele entrer</l>
+<l>    Et tut ensement fort plurer</l>
+<l>    Mais mult fait il la resemblez</l>
+<l>    Sun frere estre bien purriez</l>
+<l>    Quant il l'oid sun chef drecha</l>
+<l>    Sire fait il u enn ala</l>
+<l>    En Babilonie fud menee</l>
+<l>    L'amiraill l'ad achatee</l>
+<l>    Floires l'ad quant qu'il poet celee</l>
+<l>    Et quant il furent arivé</l>
+<l>    Od lui la nuit sunt herbergé</l>
+<l>    L'endemain quant il prent cungé</l>
+<l>    A sun ost cent souz duna</l>
+<l>    En apres mult li preia</l>
+<l>    Qu'en si Babilonie oust</l>
+<l>    Ami ki aider li poust</l>
+<l>    Ke par enseignes lui mandast</l>
+<l>    Qu'a sun busuing le cunseillast</l>
+<l>    Sire dit il ainz ke vengez</l>
+<l>    En Babilonie si truverez</l>
+<l>    Un flod d'eewe mult parfund</l>
+<l>    Quant en avrez passé le pund</l>
+<l>    Dunc truverez lu pontener</l>
+<l>    Mis cunpaig est si m'ad mult cher</l>
+<l>    En Babilonie est riches hom</l>
+<l>    Grant tur i ad et forte maisun</l>
+<l>    De nos dous porz sumus conpainz</l>
+<l>    Par mi partun tuz nos gainz</l>
+<l>    Cest men anel li porterez</l>
+<l>    De mai part si li dirrez</l>
+<l>    Qu'il vus cunseillt cum meuz purrad</l>
+<l>    Jo quid qu'il vus herbergerrad</l>
+<l>    Aitant s'est de lui parti</l>
+<l>    Al pund est venu ainz midi</l>
+<l>    Le pund passent si vunt avant</l>
+<l>    Le puntener truvent seant</l>
+<l>    Al ped del pund desucz un arbre</l>
+<l>    Sur un perrun ki fud de marbre</l>
+<l>    Il est mult richement vestu</l>
+<l>    Prodom lur parrt quant l'unt veu</l>
+<l>    Ja hum al punt ne passast</l>
+<l>    Quatre deners ne li dunast</l>
+<l>    Et autre tant de cheval</l>
+<l>    Floires salue lu vassal</l>
+<l>    De tut ses deus l'ad salué</l>
+<l>    Et plus li ad l'anel duné</l>
+<l>    En seingnes de sun conpaingniur</l>
+<l>    Qu'il le herberge en sa maisun</l>
+<l>    Et a sun busuing li cunseillt</l>
+<l>    Sicum s'amur aver vuleit</l>
+<l>    Il ad l'anel ben cuneu</l>
+<l>    Reçeu l'ad ben l'en fu</l>
+<l>    Le son anel li ad baillé</l>
+<l>    A sa fenme l'ad envee</l>
+<l>    Que ben le herbeit pur s'amur</l>
+<l>    Et puis li ad mustré sa tur</l>
+<l>    Es le vus al ostel venu</l>
+<l>    Pur anel sunt ben receu</l>
+<l>    Il se herbergent leement</l>
+<l>    Astables truvent a talent</l>
+<l>    Or est Floires en la cité</l>
+<l>    U estre avait tant desiré</l>
+<l>    Herbergé ches le pontener</l>
+<l>    De cunseill ad mult grant mester</l>
+<l>    Char ja seit ço que venu soit</l>
+<l>    La u tant venir desireit</l>
+<l>    Il ne set si cunseill nan ad</l>
+<l>    Confaitement se cuntendrad</l>
+<l>    Saveir se met en sun curage</l>
+<l>    Que lui remembre sun parage</l>
+<l>    Et cum il erre folement</l>
+<l>    Fait ele char t'entent</l>
+
+
+
+
+  </body>
+  <back>
+
+  </back>
+</text>
+</TEI>

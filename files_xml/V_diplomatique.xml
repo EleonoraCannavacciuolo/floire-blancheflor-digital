@@ -1,0 +1,1589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../transformation_scripts/diplomatic-to-html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Diplomatic Edition of "Floire et Blancheflor" in BAV, pal. lat. 1971</title>
+      <editor>Eleonora Cannavacciuolo</editor>
+    </titleStmt>
+    <publicationStmt>
+      <p>Unpublished TEI encoding for scholarly use.</p>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Transcribed from BAV, pal. lat. 1971.</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+
+
+<text>
+  <body>
+	
+<pb n="85r"/>
+<l>		e t pur la part de la rein 	e</l>
+<l>		D e reguart dune la meschin		e</l>
+<l>		L a reine mult se fait l&#x0119;&#x0119;</l>
+<l>		e n ses chambres lad menee</l>
+<l>		S a lai li laisse bien guarder</l>
+<l>		S eruir la fait <g ref="#abbr-et">&#xF158;</g> honureer</l>
+<l>		o d li suuent giue <g ref="#abbr-et">&#xF158;</g> parole</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> franceis aprent de sa scole</l>
+<l>		L a meschine ert curtei<add place="above">s</add> <g ref="#abbr-et">&#xF158;</g> pruz</l>
+<l>		M ult se feseit amer a tuz</l>
+<l>		L a reine forme<g type="ligature-nt">nt</g> serueit</l>
+<l>		c ume cele ki os asteit</l>
+<l>		V n iur auint <g ref="#abbr-que">q&#x0303;</g> la <g ref="#abbr-christi">x&#xA751;i</g><del type="erasure">[...]</del>ne</l>
+<l>		V uerot as cambres la reine</l>
+<l>		V n gunfanun á os le rei</l>
+<l>		V ele peinst <g ref="#abbr-et">&#xF158;</g> lu <g ref="#abbr-et">&#xF158;</g> sei</l>
+<l>		L a reine la uit suue<g type="ligature-nt">nt</g> palir</l>
+<l>		c ulur muer <g ref="#abbr-et">&#xF158;</g> tressaillir</l>
+<l>		e t ase<subst><del>z</del><add place="above">s</add></subst> flan<add place="above">c</add>s sa main geter</l>
+<l>		S uuent frunchir <pc>·</pc> <g ref="#abbr-et">&#xF158;</g> suspirer</l>
+<l>		D unc sot bien quele aueit</l>
+<l>		a son semblant <g ref="#abbr-que">q&#x0303;</g> <g ref="#abbr-gro">g&#x0366;</g>sse asteit</l>
+<l>		e li demande cu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ ben illad</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> le receut co dunt mal ad</l>
+<l>		c ele liad lu t<g ref="#abbr-er">&#x0315;</g>me dit</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> la reine li respundit</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> de cel fine iert preinz</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> en cel iur <g ref="#abbr-et">&#xF158;</g> nent einz</l>
+<l>		L u iur de la pasche flurie</l>
+<l>		S i cume nu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ cunte de lur uie</l>
+<l>		D unc sorent ben senz diuiner</l>
+<l>		L ur dreit t<g ref="#abbr-er">&#x0315;</g>me del enfanter</l>
+<l>		V int li t<g ref="#abbr-er">&#x0315;</g>mes <g ref="#abbr-que2">q&#x0364;</g>eles deueie<g type="ligature-nt">nt</g></l>
+<l>		e nfant<g ref="#abbr-er">&#x0315;</g> có dunt grosses esteie<g type="ligature-nt">nt</g></l>
+<l>		T<g ref="#abbr-ra">&#x1DD3;</g> uauz ourent <g ref="#abbr-et">&#xF158;</g> dolur <g ref="#abbr-gra">g&#x1DD3;</g>nc	z</l>
+<l>		T ant <g ref="#abbr-que">q&#x0303;</g> furent nez li enfanz</l>
+<l>		V allez fut nez de la paene</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> meschine out la <g ref="#abbr-christi">x&#xA751;i</g>ene</l>
+<l>		L i dui enfant <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ furent ne</l>
+<l>		D e la feste furent apele</l>
+<l>		L a <g ref="#abbr-christi">x&#xA751;i</g> ene pur lonur</l>
+<l>		D e la feste mist blancheflur</l>
+<l>		N um á sa fille <g ref="#abbr-et">&#xF158;</g> li reis floire</l>
+<l>		a sun filz <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ sot la stoire</l>
+<l>		L i reis amat mult sun effa<g type="ligature-nt">nt</g> </l>
+<l>		L a mere plus <pc>·</pc> u autre tant</l>
+<l>		c uman<g type="ligature-de">de</g> lunt á la rauie</l>
+<l>		p<g ref="#abbr-or">&#xF1C2;</g> có quel ert <g type="ligature-de">de</g> suen guarnie</l>
+		
+		<cb/>
+		
+<l>		a nurir é a meistrer</l>
+<l>		D el tut fors del aleter</l>
+<l>		V ne paene le leiteit</l>
+<l>		c har lur lei de autre ne cunsenteit</l>
+<l>		e le le nurist dulceme<g type="ligature-nt">nt</g> </l>
+<l>		é guarde ententiueme<g type="ligature-nt">nt</g> </l>
+<l>		p lus <g ref="#abbr-que">q&#x0303;</g> sa fille ele ne saueit</l>
+<l>		L u <g ref="#abbr-que">q&#x0303;</g>l des dous plus cher aueit</l>
+<l>		e n semble nurri les enfanz</l>
+<l>		T ant <g ref="#abbr-que">q&#x0303;</g> chescun ot <pc>·</pc>iii<pc>·</pc> anz</l>
+<l>		V nches ne lur seurat manger</l>
+<l>		F ors solement li le<add place="above">i</add>ter</l>
+<l>		L a nuit ensemble les cuchot</l>
+<l>		A mdous pesseit <g ref="#abbr-et">&#xF158;</g> embeurot</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> cinc anz ourent li enfa<g type="ligature-nt">nt</g> </l>
+<l>		B ien furent nurri <g ref="#abbr-et">&#xF158;</g> bien <g ref="#abbr-gra">g&#x1DD3;</g>nt</l>
+<l>		D e lur ee en nule ter r e</l>
+<l>		p lus beaus enfanz nestuuereit <g ref="#abbr-que">q&#x0303;</g>re</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> li reis uit sun filz si bel</l>
+<l>		D e sun ááge lu damoise l</l>
+<l>		e t sa <g ref="#abbr-per">&#xA751;</g>
+ceit <g ref="#abbr-que">q&#x0303;</g>il pot entendre</l>
+<l>		a letres se uolt fere á prendre</l>
+<l>		G aisdun le cuman<g type="ligature-de">de</g> un maist<g ref="#abbr-re">&#x0364;</g></l>
+<l>		M eudre <g type="ligature-de">de</g> lui ne poet nul es<g ref="#abbr-tre">t&#x0364;</g>
+</l>
+<l>		S is parenz ert de sa maisun</l>
+<l>		F undez de arz gandes out nun</l>
+<l>		L i reis cuman<g type="ligature-de">de</g> <g ref="#abbr-dunc">dc&#x0303;</g>
+ a la fa<g type="ligature-nt">nt</g> </l>
+<l>		<g ref="#abbr-Qui">Q&#x0365;</g> l a <g ref="#abbr-pre">p&#x0305;</g>
+nge <g ref="#abbr-et">&#xF158;</g> il en plura<g type="ligature-nt">nt</g></l>
+<l>		L i respunt sire <g ref="#abbr-que">q&#x0303;</g> ferat</l>
+<l>		B lancheflur <pc>&#xF160;</pc> dun naprendrat</l>
+<l>		S enz li ne sai io pas aprendre</l>
+<l>		N e ia ne saurai lecun <del type="dot-below">a</del>rendre</l>
+<l>		L i rei li dit fllz p<g ref="#abbr-or">&#xF1C2;</g> <g ref="#abbr-vostre">ur&#x0303;e</g>
+ amur</l>
+<l>		V oill <g ref="#abbr-que">q&#x0303;</g> <pc>·</pc> aprenge blancheflur</l>
+<l>		e s les amdous ala scole</l>
+<l>		M ult de liure ourent parole</l>
+<l>		c hescun dous tant aperneit</l>
+<l>		p<g ref="#abbr-or">&#xF1C2;</g> lau<g ref="#abbr-tre">t&#x0364;</g>
+ <pc>·</pc> que merueille esteit</l>
+<l>		L i dui enfant mult sen<g ref="#abbr-tre">t&#x0364;</g>
+ amou<g type="ligature-nt">nt</g> </l>
+<l>		e t de beaute sen<g ref="#abbr-tre">t&#x0364;</g>
+ semblou<g type="ligature-nt">nt</g></l>
+<l>		N ul dous conseill ne saueit</l>
+<l>		D e sai <pc>·</pc> quant lau<g ref="#abbr-tre">t&#x0364;</g>
+ nauei		t</l>
+<l>		a l plus tost <g ref="#abbr-que">q&#x0303;</g> suffri nature</l>
+<l>		e n eus amer mis<g ref="#abbr-tre">t&#x0364;</g>
+nt <g ref="#abbr-grant">gn&#x1DD3;t</g> cure</l>
+<l>		e n aprendre ourent bons sens</l>
+<l>		e n retenir meillur p<g ref="#abbr-or">&#xF1C2;</g> pens</l>
+<l>		L iures sauent páenur 	s</l>
+<l>		&#xE33A; aperneit parler damurs</l>
+
+<pb n="85v"/>
+
+<l>		e n co grantment se delitount</l>
+<l>		e n cel liure ki il apernou<g type="ligature-nt">nt</g></l>
+<l>		c el lire les fist plus hast<g ref="#abbr-er">&#x0315;</g></l>
+<l>		en autre sens de eus en tramer</l>
+<l>		c har damur de nurreture</l>
+<l>		M ult l<del type="erasure">[...]</del>ur aueit aste a cur		e</l>
+<l>		e n sul cinc anz <g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-qui">q&#x0365;</g>nce dis</l>
+<l>		F urent amdui si bien apris</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> bien surent parler latin</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> bien escriure en parchemin </l>
+<l>		e t <g ref="#abbr-con">&#xA76F;</g>
+seiller oant la ge<g type="ligature-nt">nt</g> </l>
+<l>		e n latin <g ref="#abbr-que">q&#x0303;</g> nus nes ate<g type="ligature-nt">nt</g></l>
+<l>		L i reis aperceit bien lamur</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> sis filz ad a blancheflur</l>
+<l>		&#x2020; rantme<g ref="#abbr-nasal-tilde">&#x0303;</g>t crent en sun curage</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> quant sis ert del aáge</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> fe<g ref="#abbr-nasal-tilde">&#x0303;</g>me deiue espuser</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> de li <del type="erasure">[...]</del> nel pouse turner</l>
+<l>		a s chambres uent <del type="erasure" ana="dot-below">[...]</del>a la reine</l>
+<l>		c unseil <g ref="#abbr-pre">p&#x0305;</g>
+ndre de la meschine</l>
+<l>		S i ele ne li dune a sun tale<g type="ligature-nt">nt</g> </l>
+<l>		&#x2020; ccira la hastiuement</l>
+<l>		p us <g ref="#abbr-que">q&#x0303;</g>rrat sulu<g ref="#abbr-nasal-tilde">&#x0303;</g>c sun li<g ref="#abbr-nasal-tilde">&#x0303;</g>gnage</l>
+<l>		a sun filz fe<g ref="#abbr-nasal-tilde">&#x0303;</g>me de parage</l>
+<l>		[<g type="pilcrow">&#x00A7;</g>]L a reine ueit bien sun sei<g ref="#abbr-nasal-tilde">&#x0303;</g>gnur</l>
+<l>		I re bien pert en sa culur</l>
+<l>		K ar de sanc ot lu frunt u<g ref="#abbr-er">&#x0315;</g>meill</l>
+<l>		I lla pele par <g ref="#abbr-grant">gn&#x1DD3;t</g> cunseill</l>
+<l>		[<g type="pilcrow">&#x00A7;</g>] d am[e] fait il maleme<g ref="#abbr-nasal-tilde">&#x0303;</g>t uait</l>
+<l>		D e nos<g ref="#abbr-tre">t&#x0364;</g>
+ filz <g ref="#abbr-est">&#x223B;</g> mult mal plait </l>
+<l>		S aches <g ref="#abbr-que">q&#x0303;</g> astrus le <g ref="#abbr-per">&#xA751;</g>
+dun</l>
+<l>		S i hastif cunseill ne <g ref="#abbr-per">&#xA751;</g>
+nun</l>
+<l>		e le dit cument <pc>&#xF160;</pc> kar tel amur</l>
+<l>		a d <g ref="#abbr-nostre">nr&#x0303;e</g>
+ filz á blancheflur</l>
+<l>		c ele fille <g ref="#abbr-nostre">nr&#x0303;e</g>
+ caitiue</l>
+<l>		c o dient ta<g ref="#abbr-nasal-tilde">&#x0303;</g>t tut c<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ ele ert uiue</l>
+<l>		L am<g ref="#abbr-or">&#xF1C2;</g> de li ne changerat</l>
+<l>		N e au<g ref="#abbr-tre">t&#x0364;</g>
+ fe<g ref="#abbr-nasal-tilde">&#x0303;</g>me nesposerat</l>
+<l>		a ta<g ref="#abbr-nasal-tilde">&#x0303;</g>t<add place="above">ment</add> ert áuile</l>
+<l>		p ur li tut <g ref="#abbr-nostre">nr&#x0303;e</g>
+ parente</l>
+<l>		c ertes fait il senz demurer</l>
+<l>		L i uoill fere lu chef coper</l>
+<l>		p uis durrai amu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ filz oissur</l>
+<l>		F ille de rei ú de almacur</l>
+<l>		L a reine sest purpenséé</l>
+<l>		P uis ad parle cum senee</l>
+<l>		a la pulcele uolt si aider</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> sun sei<g ref="#abbr-nasal-tilde">&#x0303;</g>gnur si cunseiller</l>
+		
+		<cb/>
+		
+<l>		<g ref="#abbr-Qua">Q&#x1DD3;</g> sun seignur puisse pleisir</l>
+<l>		e t <pc>·</pc> b <pc>·</pc> f <pc>·</pc> de mort guarir</l>
+<l>		<g type="pilcrow">&#x00A7;</g> S ire fait ele bien deuum <g ref="#abbr-que">q&#x0303;</g>rre</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> <g ref="#abbr-nostre">nr&#x0303;e</g>
+ filz remaine en t<g ref="#abbr-er">&#x0315;</g>re</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-que">q&#x0303;</g> il ne perde pas sonur</l>
+<l>		P ur lamur de blancheflur</l>
+<l>		M es ki si li purreit tolir</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> ne li nestust pas murir</l>
+<l>		c ó mest auis plus bel serreit</l>
+<l>		L i reis respu<g ref="#abbr-nasal-tilde">&#x0303;</g>t la dame ad dreit</l>
+<l>		<g type="pilcrow">&#x00A7;</g> d ame fait il <g ref="#abbr-et">&#xF158;</g> iol te otrei</l>
+<l>		c unseillez <g ref="#abbr-et">&#xF158;</g> uus <g ref="#abbr-et">&#xF158;</g> me	i</l>
+<l>		<g type="pilcrow">&#x00A7;</g> S ire fait ele en ueu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ florie</l>
+<l>		<del type="erasure">A</del> <g ref="#abbr-nostre">nr&#x0303;e</g>
+ filz á prendre á mu<g ref="#abbr-nasal-tilde">&#x0303;</g>torie</l>
+<l>		L éé en ert mult dame sibile</l>
+<l>		M a surur ki dame <g ref="#abbr-est">&#x223B;</g> de la uile</l>
+<l>		d es <del type="erasure">[...]</del> <g ref="#abbr-que">q&#x0303;</g>le la cheisun saurat</l>
+<l>		p ar li si ele pout l<subst><del type="dot-below">e</del><add place="above">u</add></subst>blirat</l>
+<l>		L a <g ref="#abbr-christi">x&#xA751;i</g>ene blancheflur</l>
+<l>		S e purchat a cun au<g ref="#abbr-tre">t&#x0364;</g>
+ amur</l>
+<l>		M alada se feindrat gaidun</l>
+<l>		N e li purrat liurer le<g ref="#abbr-nasal-tilde">&#x0303;</g>cun</l>
+<l>		e nus li facun bien entendre</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> len ueu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ pur aprendre</l>
+<l>		S e sis maistres seinz remaint</l>
+<l>		F lorres bien tost le saureit</l>
+<l>		c har mult sunt ueir <g type="ligature-de">de</g> am<g ref="#abbr-or">&#xF1C2;</g></l>
+<l>		T ul cil ki se crement dam<g ref="#abbr-or">&#xF1C2;</g></l>
+<l>		I l ert dolent de la nuuele</l>
+<l>		S en uudrat meuz la pulcele</l>
+<l>		S a mere malada se refei<g ref="#abbr-nasal-tilde">&#x0303;</g>gne</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> ele pur li guard<g ref="#abbr-er">&#x0315;</g> remei<g ref="#abbr-nasal-tilde">&#x0303;</g>gne</l>
+<l>		e t uus bien len f<add place="above">e</add>re z</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> einz <g ref="#abbr-qui">q&#x0365;</g>ncedis latrametrez</l>
+<l>		<g type="pilcrow">&#x00A7;</g> a tant su<g ref="#abbr-nasal-tilde">&#x0303;</g>t del cu<g ref="#abbr-nasal-tilde">&#x0303;</g>seill turne</l>
+<l>		L i reis ad sun filz demande</l>
+<l>		M es <g ref="#abbr-pri">p&#x0365;</g>
+mes ot apareille</l>
+<l>		S i cum il orent cunseille</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> puis li cumande <g ref="#abbr-et">&#xF158;</g> ad dit</l>
+<l>		F loires lu rei respundit</l>
+<l>		<g type="pilcrow">&#x00A7;</g> S ire fait il cu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ pout co estr e</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> <pc>·</pc> b <pc>·</pc> f <pc>·</pc> lais <g ref="#abbr-et">&#xF158;</g> mun maistre</l>
+<l>		B <pc>·</pc> f <pc>·</pc> prie <g ref="#abbr-que">q&#x0303;</g>le aud od sei</l>
+<l>		d unc ben a seure le lirei</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> úele murge ú ele uiue</l>
+<l>		A l t<g ref="#abbr-er">&#x0315;</g>me laurat senz eschiue</l>
+<l>		I llur otrei á quel <g ref="#abbr-que">q&#x0303;</g> peine</l>
+<l>		L i reis sun chamb<g ref="#abbr-er">&#x0315;</g>lanc demeine</l>
+	 
+	<pb n="86r"/>
+<l>		L i ad charge <g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-grant">gn&#x1DD3;t</g> cunre		i</l>
+<l>		T el cum astut a filz de re		i </l>
+<l>		<g type="pilcrow">&#x00A7;</g> e st le uus uenuz al chastel</l>
+<l>		d e mu<g ref="#abbr-nasal-tilde">&#x0303;</g>torie ki mult <g ref="#abbr-est">&#x223B;</g> bel</l>
+<l>		L i dux goias <g ref="#abbr-molt">ml&#x02BC;t</g> lez en fu	t</l>
+<l>		e a <g ref="#abbr-grant">gn&#x1DD3;t</g> ioie lad receu	t</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> sante si refait <g ref="#abbr-grant">gn&#x1DD3;t</g> ioie</l>
+<l>		M es lui ne chaut de <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ <g ref="#abbr-qui">q&#x0365;</g>l oie</l>
+<l>		p ur bla<g ref="#abbr-nasal-tilde">&#x0303;</g>cheflur <g ref="#abbr-qui">q&#x0365;</g>l nat samie</l>
+<l>		e n tristur ad turne sa uie</l>
+<l>		<g type="pilcrow">&#x00A7;</g> á prendre lad mene dame sibile</l>
+<l>		o d les pulceles de la uile</l>
+<l>		S aueir se li ublireit</l>
+<l>		N e en la scole au<g ref="#abbr-tre">t&#x0364;</g>
+ amereit</l>
+<l>		M eis nul oir ne nul uéér</l>
+<l>		N e li pout faire ioie aueir</l>
+<l>		<g type="pilcrow">&#x00A7;</g> I l oit asez mes rien ne pre<g type="ligature-nt">nt</g> </l>
+<l>		c har gra<g ref="#abbr-nasal-tilde">&#x0303;</g>t <del type="erasure">[...]</del>dol ali sentent</l>
+<l>		<del type="erasure"><g type="pilcrow">&#x00A7;</g></del> a mur li ad liure entente</l>
+<l>		a l qu&#x2020; li ad plante unente</l>
+<l>		K i en tuz tens flurie esteit</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> ta<g ref="#abbr-nasal-tilde">&#x0303;</g>t dulcement li uleit</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> ne encenzs ne zodoal</l>
+<l>		N e girofre <pc>·</pc> ne galengal</l>
+<l>		I cel odor rien ne <g ref="#abbr-pre">p&#x0305;</g>
+issout</l>
+<l>		T ut au<g ref="#abbr-tre">t&#x0364;</g>
+ ioie ubliout</l>
+<l>		L e fruit decel ente ente<g ref="#abbr-nasal-tilde">&#x0303;</g>deit</l>
+<l>		M eis li t<g ref="#abbr-er">&#x0315;</g>me <g ref="#abbr-molt">ml&#x02BC;t</g> lung asteit</l>
+<l>		c o li ert uis del fruit <g ref="#abbr-qui">q&#x0365;</g>llir</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> <pc>·</pc> B <pc>·</pc> f <pc>·</pc> uerrat gesir</l>
+<l>		I uste sai <g ref="#abbr-et">&#xF158;</g> la beiserat</l>
+<l>		L u fruit del ente <g ref="#abbr-dunc">dc&#x0303;</g>
+ cuildrat</l>
+<l>		<g type="pilcrow">&#x00A7;</g> F loires átent á <g ref="#abbr-que">q&#x0303;</g>l <g ref="#abbr-que">q&#x0303;</g> peine</l>
+<l>		T ut le t<g ref="#abbr-er">&#x0315;</g>me de la <g ref="#abbr-qui">q&#x0365;</g>ntanie</l>
+<l>		M ais <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ il uit <g ref="#abbr-que">q&#x0303;</g> le uie<g type="ligature-nt">nt</g> </l>
+<l>		d u<g ref="#abbr-nasal-tilde">&#x0303;</g>c sot ben <g ref="#abbr-que">q&#x0303;</g> gabe esteit</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> si redute forment <g ref="#abbr-et">&#xF158;</g> crent</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> mort seit <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ ele ne ue<g type="ligature-nt">nt</g></l>
+<l>		a tant lait lu mang<g ref="#abbr-er">&#x0315;</g> est<g ref="#abbr-er">&#x0315;</g></l>
+<l>		L u rire ad turne al plurer</l>
+<l>		L e beiure lait <pc>·</pc> <g ref="#abbr-et">&#xF158;</g> le dormir</l>
+<l>		c il se crement mult del murir</l>
+<l>		L i c<add place="above">h</add>amb<g ref="#abbr-re">&#x0364;</g>lans al rei leman<g type="ligature-de">de</g></l>
+<l>		c il en ad dol <g ref="#abbr-et">&#xF158;</g> ire gn<g ref="#abbr-ra">&#x1DD3;</g>de</l>
+<l>		de uenir li dune cunge</l>
+<l>		L a reine apele tut ire</l>
+<l>		<g type="pilcrow">&#x00A7;</g> certes fait il co <g ref="#abbr-est">&#x223B;</g> nuuele</l>
+<l>		M ar acuintai la damaisele</l>
+		
+		<cb/>
+		
+<l>		p ot cel estre par sorcerie</l>
+<l>		a d demun filz la druerie</l>
+<l>		F aites le mai tost demand<g ref="#abbr-er">&#x0315;</g></l>
+<l>		S ili ferai lu chef coper</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> mi filz mort la saurat</l>
+<l>		e n poi de tens lublirat</l>
+<l>		<g type="pilcrow">&#x00A7;</g> <g ref="#abbr-Quant">Q&#x1DD3; nt</g> la reine co ad oi</l>
+<l>		p oez sauer <g ref="#abbr-molt">ml&#x02BC;t</g> <g ref="#abbr-est">&#x223B;</g> marri</l>
+<l>		L asse fait ele c<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ fait damage</l>
+<l>		S i cist hom siut sun curage</l>
+<l>		G rant dolur <g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-grant">gn&#x1DD3;t</g> peche</l>
+<l>		S e si en siut sa uolunte</l>
+<l>		p<g ref="#abbr-or">&#xF1C2;</g> pense sad <g ref="#abbr-molt">ml&#x02BC;t</g> francheme<g type="ligature-nt">nt</g> </l>
+<l>		c um li toudra cest mautale<g type="ligature-nt">nt</g> </l>
+<l>		<g type="pilcrow">&#x00A7;</g> S ire fait ele cha entendez</l>
+<l>		S i io di sens sil ascultez</l>
+<l>		e n repruu<g ref="#abbr-er">&#x0315;</g> dit hu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ beau sire</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> chi la oite maluenge saire</l>
+<l>		M ult dut <g ref="#abbr-que">q&#x0303;</g>si uus locciez</l>
+<l>		N e nus toille plu<add place="above">s</add> li pechez</l>
+<l>		c har co dient rei <g ref="#abbr-et">&#xF158;</g> cunte</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> ueuz peche fait nuuele hunte</l>
+<l>		B eaus sire reis ele ne pot meis</l>
+<l>		n e <g ref="#abbr-per">&#xA751;</g>
+nez pas sur u<g ref="#abbr-us">&#xA770;</g>
+ le feis</l>
+<l>		d e co ne pot ele pas guard<g ref="#abbr-er">&#x0315;</g></l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> il ne aint <pc>·</pc> ne esforcer</l>
+<l>		D es<g ref="#abbr-tre">t&#x0364;</g>
+innez <g ref="#abbr-vostre">ur&#x0303;e</g>
+ mautale<g type="ligature-nt">nt</g></l>
+<l>		e n choiez si io ne me<g type="ligature-nt">nt</g> </l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> en auerat eu ses aises asez</l>
+<l>		e t á compli ses uoluntez</l>
+<l>		<g ref="#abbr-Qui">Q&#x0365;</g> l larrat iol uus a f 	i</l>
+<l>		T ut senz esforz <g ref="#abbr-et">&#xF158;</g> senz chasti</l>
+<l>		N el chastier un <g ref="#abbr-que">q&#x0303;</g>s damer</l>
+<l>		K ar tant se uerrez pl<g ref="#abbr-us">&#xA770;</g>
+ anguisser</l>
+<l>		d estrez ce esforz chastieme<g type="ligature-nt">nt</g></l>
+<l>		c ho su<g ref="#abbr-nasal-tilde">&#x0303;</g>t damur enticeme<g type="ligature-nt">nt</g></l>
+<l>		S uffrez <g ref="#abbr-qui">q&#x0365;</g>l en ait uantage</l>
+<l>		e n cest sun <g ref="#abbr-pri">p&#x0365;</g>
+merain áá ge</l>
+<l>		p uis larrat u<g ref="#abbr-us">&#xA770;</g>
+ le uerrez</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> il laurat ou asez</l>
+<l>		é si <del type="erasure">[...]</del> uus co<subst><del>m</del><add>n</add></subst>e uolez faire</l>
+<l>		I a ne<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ serrai a u<g ref="#abbr-us">&#xA770;</g>
+ cunt<g ref="#abbr-ra">&#x1DD3;</g>ire</l>
+<l>		è n ueiet la uendre ul<g ref="#abbr-tre">t&#x0364;</g>
+ mer</l>
+<l>		I a norrez mais de li parler</l>
+<l>		á cel port ad <g ref="#abbr-molt">ml&#x02BC;t</g> marchant</l>
+<l>		d e babilonie bien mana<g type="ligature-nt">nt</g></l>
+<l>		L á lá faites mener <pc>·</pc> <g ref="#abbr-et">&#xF158;</g> uendre</l>
+<l>		G rant aueir en p<g ref="#abbr-or">&#xF1C2;</g>ra hu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ <g ref="#abbr-pre">p&#x0305;</g>ndre</l>
+
+	
+<pb n="86v"/>
+<l>		c il len menerent kar <g ref="#abbr-molt">ml&#x02BC;t</g> <g ref="#abbr-est">&#x223B;</g> bele</l>
+<l>		I á norrent <g type="ligature-de">de</g> <seg xml:id="seg7" corresp="#seg8">li</seg> <metamark function="transposition" place="above">&#x2033;</metamark> <seg xml:id="seg8" corresp="#seg7">mais</seg> <metamark function="transposition" place="above">&#x2033;</metamark> nuuele</l>
+<l>		I ssi en serru<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ ben de liures</l>
+<l>		S ine serru<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ pas homicides</l>
+<l>		<g type="pilcrow">&#x00A7;</g> Á cest cunseill so tent li reis</l>
+<l>		S i lad liure a un burgei	s</l>
+<l>		p ur <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ en uiz lé otraie</l>
+<l>		p ar un burgeis la enueie</l>
+<l>		a l port <pc>·</pc> ki demarche fud sage</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> sout parler demeit language</l>
+<l>		N e la fait pas par cuue<add place="above">i</add>tise</l>
+<l>		V endre li reis en nule wise</l>
+<l>		M eusz amast sa mor auair</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> cent mars dor pur li auair</l>
+<l>		M ais les peches crent p<g ref="#abbr-or">&#xF1C2;</g> cele lait</l>
+<l>		L i marcha<g ref="#abbr-nasal-tilde">&#x0303;</g>t al port sen uait</l>
+<l>		á u tens uent la pulcele</l>
+<l>		k i lachatant <del type="erasure">[...]</del> kar <g ref="#abbr-molt">ml&#x02BC;t</g> <g ref="#abbr-est">&#x223B;</g> bele</l>
+<l>		T rente mars dor <g ref="#abbr-et">&#xF158;</g> uínt de arg<g ref="#abbr-nasal-tilde">&#x0303;</g><g type="ligature-nt">nt</g></l>
+<l>		<g ref="#abbr-et">&#xF158;</g> <pc>·</pc>xx palies de boneue<g type="ligature-nt">nt</g></l>
+<l>		<g ref="#abbr-et">&#xF158;</g> dis mantauls ueir<add place="above">s</add> osterins</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> dis <del type="erasure">[...]</del> blians nide pur<g ref="#abbr-pri">p&#x0365;</g>
+ns</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> une chere cupe de <del type="erasure">[...]</del> fin or</l>
+<l>		k i fu emble del tresor</l>
+<l>		a l riche em<g ref="#abbr-per">&#xA751;</g>
+eur de rume</l>
+<l>		V nc de plus chere ne but hume</l>
+<l>		a <g ref="#abbr-grant">gn&#x1DD3;t</g> m<g ref="#abbr-er">&#x0315;</g>uelle fud bien faite</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-molt">ml&#x02BC;t</g> fut subtillement p<g ref="#abbr-or">&#xF1C2;</g> t<g ref="#abbr-ra">&#x1DD3;</g>ite</l>
+<l>		p ar [m]enue neilur	e</l>
+<l>		W lcan la fist si mist <g ref="#abbr-grant">gn&#x1DD3;t</g> cure</l>
+<l>		<g type="ligature-de">de</g> l hanap peinst tut en uirum</l>
+<l>		<g ref="#abbr-Tro">T&#x0366;</g> ie <g ref="#abbr-et">&#xF158;</g> le reial dun iun</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> cu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ li griu de hors lasaille<g ref="#abbr-er">&#x0315;</g>nt</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> c<g ref="#abbr-nasal-tilde">&#x0303;</g> me al mur pichent <g ref="#abbr-et">&#xF158;</g> maillent <pc>·</pc></l>
+<l>		<g ref="#abbr-et">&#xF158;</g> cu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ cil dedenz ben se defende<g type="ligature-nt">nt</g></l>
+<l>		c ailluns <g ref="#abbr-et">&#xF158;</g> peuz águz lur rendent</l>
+<l>		<g type="pilcrow">&#x00A7;</g> E n lurle apre<add place="abovee">s</add> fut peinte heleine</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> cu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ paris li dux la meine</l>
+<l>		D une blanc esmal out fait la magi<g ref="#abbr-nasal-tilde">&#x0303;</g>e</l>
+<l>		p lus fut chere <g ref="#abbr-que">q&#x0303;</g> tute kartagine</l>
+<l>		a pres i<g ref="#abbr-est">&#x223B;</g> cum sis mar	riz</l>
+<l>		L a siut par mer dire farsiz</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> lost desgrius cume noiot</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> agam<g ref="#abbr-nasal-tilde">&#x0303;</g>non ki amenot</l>
+<l>		e t al cuuercle de de sus</l>
+<l>		L a ert depeint cume uenus</l>
+<l>		p allas <g ref="#abbr-et">&#xF158;</g> iuno enseme<g type="ligature-nt">nt</g></l>
+		
+		<cb/>
+		
+<l>		V indrent oir le iugeme<g type="ligature-nt">nt</g></l>
+<l>		d e paris char estrif ere<g type="ligature-nt">nt</g></l>
+<l>		d e la pome <g ref="#abbr-que">q&#x0303;</g> les oure<g type="ligature-nt">nt</g></l>
+<l>		d e fin or <pc>·</pc> ú ascrit estei	t</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> la bele deles laurei	t</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> puis sur fei lui ruue<g type="ligature-nt">nt</g></l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> a la plu<add place="above">s</add> bele le duna<g type="ligature-st">st</g></l>
+<l>		<g ref="#abbr-et">&#xF158;</g> cele quil meuz <g ref="#abbr-pre">p&#x0305;</g>
+isa<g type="ligature-st">st</g></l>
+<l>		C hescune li <g ref="#abbr-pro">&#xA753;</g><g ref="#abbr-er">&#x0315;</g>met <g ref="#abbr-gra">g&#x1DD3;</g>ntment</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> ueirs lui seit al iugement</l>
+<l>		I uno plente de <g ref="#abbr-grant">gn&#x1DD3;t</g> aueir</l>
+<l>		p allas <g ref="#abbr-pro">&#xA753;</g>
+uese <g ref="#abbr-et">&#xF158;</g> saueir</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> uen<g ref="#abbr-us">&#xA770;</g>
+ lui <g ref="#abbr-pro">&#xA753;</g>
+met la fe<g ref="#abbr-nasal-tilde">&#x0303;</g>me</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> de tutes autres <g ref="#abbr-est">&#x223B;</g> gemme</l>
+<l>		<g type="pilcrow">&#x00A7;</g> P aris la pume li dunat</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> de sa fe<g ref="#abbr-nasal-tilde">&#x0303;</g>me <g ref="#abbr-molt">ml&#x02BC;t</g> lastat</l>
+<l>		a sez la uoleit meuz aueir</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> gra<g ref="#abbr-nasal-tilde">&#x0303;</g>t <g ref="#abbr-pro">&#xA753;</g>
+esce ne saueir</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> tres bien mustrot la pei<g ref="#abbr-nasal-tilde">&#x0303;</g>ture</l>
+<l>		L am<g ref="#abbr-or">&#xF1C2;</g> paris <g ref="#abbr-et">&#xF158;</g> sa <g ref="#abbr-grant">gn&#x1DD3;t</g> cure</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> c<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ ses nefs aparaillot</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> c<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ pur lui parmer nai[o]t</l>
+<l>		L i pomeaus ert riche <g ref="#abbr-et">&#xF158;</g> uaillant</l>
+<l>		D e une scarbuncle relu<subst><del>e</del><add place="above">s</add></subst>ant</l>
+<l>		N ad suz cel tant orbe celer</l>
+<l>		S é lui aueit le butillier</l>
+<l>		N é puist senz autre clarte</l>
+<l>		c unustre uin <g ref="#abbr-et">&#xF158;</g> fort herbe</l>
+<l>		d e or aueit de sus un oisel</l>
+<l>		T riforie <pc>·</pc> chi mult par ert bel</l>
+<l>		e n sez peiz tenei<subst><del type="erasure">[...]</del><add place="above">t</add></subst> une ge<g ref="#abbr-nasal-tilde">&#x0303;</g>me</l>
+<l>		p lus bele ne uit filz de femme</l>
+<l>		c o ert uis chi la guardout</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> uis esteit si uoletout</l>
+<l>		L i reis eneas len portat</l>
+<l>		d e <g ref="#abbr-tro">t&#x0366;</g>ie <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ il sen alat</l>
+<l>		S i la dunat en lu<g ref="#abbr-nasal-tilde">&#x0303;</g>bardie</l>
+<l>		L áuine q&#x0365; fut sami	e</l>
+<l>		p uis lorent &#x2020; ut li ancheisur</l>
+<l>		<g ref="#abbr-Qui">Q&#x0365;</g> furent de rume seignur</l>
+<l>		d esque cesar aq&#x0365; lemblat</l>
+<l>		L i leres q&#x0365; la portat</l>
+<l>		&#xE33A; li marchant la chatere<g type="ligature-nt">nt</g></l>
+<l>		k i pur <pc>·</pc> B <pc>·</pc> F <pc>·</pc> la dunerent</l>
+<l>		c o len dunent <g ref="#abbr-per">&#xA751;</g>
+dreit marchez</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> si sen fu<g ref="#abbr-nasal-tilde">&#x0303;</g>t ioiant <g ref="#abbr-et">&#xF158;</g> lez </l>
+<l>		c har a duble <g ref="#abbr-qui">q&#x0365;</g>dent guainn<g ref="#abbr-er">&#x0315;</g></l>
+
+<pb n="87r"/>
+<l>		S i sen pount b<subst><del>o</del><add place="above">e</add></subst>n repeirer</l>
+<l>		L i marcha<g ref="#abbr-nasal-tilde">&#x0303;</g>t out bon ore</l>
+<l>		e n lur pais sen su<g ref="#abbr-nasal-tilde">&#x0303;</g>t ale</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> illat tant bien achatee</l>
+<l>		a fín or dis feiz pese 	e</l>
+<l>		e l ad gent cors <g ref="#abbr-et">&#xF158;</g> cler uisage</l>
+<l>		B ien pert quele <g ref="#abbr-est">&#x223B;</g> de <g ref="#abbr-grant">gn&#x1DD3;t</g> parage</l>
+<l>		p<g ref="#abbr-or">&#xF1C2;</g> sa beautet <g ref="#abbr-molt">ml&#x02BC;t</g> lamat</l>
+<l>		e t bien guarder la cumandat</l>
+<l>		L i marchant en su<g ref="#abbr-nasal-tilde">&#x0303;</g>t tut lé</l>
+<l>		c har á sez íunt guainne</l>
+<l>		<g type="pilcrow">&#x00A7;</g> E t li burgeis <g ref="#abbr-est">&#x223B;</g> reuen	u</l>
+<l>		a l rei ad tut lauer <subst><del>t</del><add place="above">r</add></subst>endu</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> li reis fait áparailler</l>
+<l>		V ne tumbe al muste	r</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> desus une pere mi<g type="ligature-st">st</g></l>
+<l>		e n qui un epitaffe escrist</l>
+<l>		<g type="pilcrow">&#x00A7;</g> C i est la bele <pc>·</pc> B <pc>·</pc> 	F <pc>·</pc></l>
+<l>		a q&#x0365; floires ot <g ref="#abbr-grant">gn&#x1DD3;t</g> amur</l>
+<l>		<g type="pilcrow">&#x00A7;</g> a tant est floires repeire</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> de sun pere en ot <del type="erasure">[...]</del> <g ref="#abbr-con">&#xA76F;</g>
+ge</l>
+<l>		I l decent ius del palefrai</l>
+<l>		e n la s<subst><del>e</del><add place="above">a</add></subst>le deuant lu rei</l>
+<l>		L u rei <g ref="#abbr-et">&#xF158;</g> sa mere sal	ue</l>
+<l>		p uis lur demande <g type="ligature-de">de</g> sa drue</l>
+<l>		c il se targn<g ref="#abbr-nasal-tilde">&#x0303;</g>t de respu<g ref="#abbr-nasal-tilde">&#x0303;</g>s rendre</l>
+<l>		I l ua auant aschambre<add place="above">s</add> en<g ref="#abbr-tre">t&#x0364;</g>
+</l>
+<l>		L a mere á la pulcele troue</l>
+<l>		a chi sun curage descoure</l>
+<l>		á dame fait il ú <g ref="#abbr-est">&#x223B;</g> ma drue</l>
+<l>		<g ref="#abbr-Qui">Q&#x0365;</g> tant ai ame én tute ma uie</l>
+<l>		&#xE33A; <g ref="#abbr-est">&#x223B;</g> <pc>&#xF160;</pc> ne sai <pc>·</pc> uus lapelez</l>
+<l>		N e sai <g ref="#abbr-que">q&#x0303;</g>l part <pc>&#xF160;</pc> uus me gabez</l>
+<l>		c elez la uus <pc>&#xF160;</pc> sire na nal</l>
+<l>		p ar deu fist il cist gas <g ref="#abbr-est">&#x223B;</g> mal</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> ele mais nel puet celer</l>
+<l>		d e <g ref="#abbr-grant">gn&#x1DD3;t</g> pite lestuet plurer</l>
+<l>		d e tort ses puinz plure guaim<g ref="#abbr-nasal-tilde">&#x0303;</g>te</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> en plurant mult se demente</l>
+<l>		L aisse fait ele triste é pensiue</l>
+<l>		a bo<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ dreit me cláime lu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ chaitiue</l>
+<l>		e n <g ref="#abbr-molt">ml&#x02BC;t</g> mal úre fu io ne	e</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-molt">ml&#x02BC;t</g> oi dure destine	e</l>
+<l>		M ult ai plus mal <g ref="#abbr-que">q&#x0303;</g> io ne di</l>
+<l>		d ame fait il pur deu m<g ref="#abbr-er">&#x0315;</g>ci</l>
+<l>		p ur quei <g ref="#abbr-est">&#x223B;</g> có <g ref="#abbr-que">q&#x0303;</g> uus plurez</l>
+<l>		S ire fait ele uus le saure	z</l>
+<l>		I a ni ad nient de <g ref="#abbr-vostre">ur&#x0303;e</g>
+ drue</l>
+		
+		<cb/>
+		
+<l>		<g ref="#abbr-et">&#xF158;</g> ú <g ref="#abbr-est">&#x223B;</g> dunc <pc>&#xF160;</pc> ia est perd	u</l>
+<l>		p ur deu cheles cume<g type="ligature-nt">nt</g></l>
+<l>		e st ele emble <pc>&#xF160;</pc> nenil ne<g type="ligature-nt">nt</g></l>
+<l>		e n plurant dit lui morte est</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> dite u<g ref="#abbr-us">&#xA770;</g>
+ <pc>·</pc> sire issi e<g type="ligature-st">st</g></l>
+<l>		&#xE33A; <g ref="#abbr-est">&#x223B;</g> li cors <pc>·</pc>ú <pc>&#xF160;</pc> al muster</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ fut morte <pc>·</pc>viij<pc>·</pc> iurz oter</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> si <g ref="#abbr-est">&#x223B;</g> morte blancheflur</l>
+<l>		S ire ueire pur <g ref="#abbr-vostre">ur&#x0303;e</g>
+ amur</l>
+<l>		e le lui ment tut ascient</l>
+<l>		c har al rei out fait serement</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> floires ot <g ref="#abbr-que">q&#x0303;</g> ele <g ref="#abbr-est">&#x223B;</g> morte</l>
+<l>		e issi forment se descunforte</l>
+<l>		L a culur pert li quor li ment</l>
+<l>		T ut pasme chet al paueme<g type="ligature-nt">nt</g></l>
+<l>		L a <g ref="#abbr-christi">x&#xA751;i</g>ene ses bah 	i</l>
+<l>		D e pour getat un cri</l>
+<l>		L i criz fut haut <g ref="#abbr-que">q&#x0303;</g> li reis l<del type="erasure">[...]</del>ot</l>
+<l>		c urant íuint c<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ plus tost po	t</l>
+<l>		e t lamere í uint ensement</l>
+<l>		G<g ref="#abbr-ra">&#x1DD3;</g> nt dul un fait delur enfant</l>
+<l>		I l se <g ref="#abbr-est">&#x223B;</g> pasme e mul&#x02BC;t <del type="erasure">[...]</del>poi<del type="erasure">[...]</del>dure</l>
+<l>		T reis feiz <pc>·</pc> <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ reue<g type="ligature-nt">nt</g> <g ref="#abbr-molt">ml&#x02BC;t</g> <g type="ligature-de">de</g>mure</l>
+<l xml:id="A" corresp="#B">		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> ele nad mene mamie</l><metamark function="transposition" place="left">&#x2033;</metamark>
+<l>		c heles fait il kar me menez</l>
+<l xml:id="B" corresp="#A">		L a mort fait il á quei <g type="ligature-de">de</g>mure</l><metamark function="transposition" place="left">&#x2033;</metamark>
+<l>		a sa tumbe si la sauez</l>
+<l>		L i reis ala tumbe le meine</l>
+<l>		F loires í uait á <g ref="#abbr-que">q&#x0303;</g>l <g ref="#abbr-que">q&#x0303;</g> peine</l>
+<l>		I l uit les<g ref="#abbr-cri">c&#x0365;</g>
+t co <g ref="#abbr-est">&#x223B;</g> blanche flur</l>
+<l>		a q&#x0365; floires out <g ref="#abbr-grant">gn&#x1DD3;t</g> amur</l>
+<l>		D unc le restut tres feiz pasmer</l>
+<l>		a ínz <g ref="#abbr-qui">q&#x0365;</g>l sul mot pout parler</l>
+<l>		a pres sa set li iuuencel</l>
+<l>		s ur la pere del tumbel</l>
+<l>		T endreme<g ref="#abbr-nasal-tilde">&#x0303;</g>t cumence a plurer</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> blanche flur a regreter</l>
+<l>		h óí bele <pc>·</pc> B <pc>·</pc>	F</l>
+<l>		I a fumes nez en un iur</l>
+<l>		e t en un nuit en gendre</l>
+<l>		S i cume no<add place="above">s</add> meres unt acu<g ref="#abbr-nasal-tilde">&#x0303;</g>te</l>
+<l>		N urri auu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ este ensemble</l>
+<l>		b ien deussu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ sicu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ mesemble</l>
+<l>		e n un iur issir de	 uie</l>
+<l>		s i la mort fust <g ref="#abbr-per">&#xA751;</g>
+dreit partie</l>
+<l>		h óí blancheflur cler uisage</l>
+<l>		D e <g ref="#abbr-que">q&#x0303;</g>l <g ref="#abbr-que">q&#x0303;</g> <seg xml:id="seg9" corresp="#seg10">fuissez</seg> <metamark function="transposition" place="above">&#x2033;</metamark> <seg xml:id="seg10" corresp="#seg9">u<g ref="#abbr-us">&#xA770;</g></seg> <metamark function="transposition" place="above">&#x2033;</metamark>
+ parage</l>
+<l>		V nches dame <g type="ligature-de">de</g> nul ááge</l>
+
+<pb n="87v"/>
+<l>		N e <seg xml:id="seg11" corresp="#seg12">plus</seg> <metamark function="transposition" place="above">&#x2033;</metamark> <seg xml:id="seg12" corresp="#seg11">fud</seg> <metamark function="transposition" place="above">&#x2033;</metamark> bele ne plus sage</l>
+<l>		M ort <g ref="#abbr-est">&#x223B;</g> <g ref="#abbr-pre">p&#x0305;</g>
+ciose gemme</l>
+<l>		I amais ne nert plus bele fe<g ref="#abbr-nasal-tilde">&#x0303;</g>me</l>
+<l>		B ele <pc>·</pc> nus ne purrat ascriure</l>
+<l>		<g ref="#abbr-Vostre">V r&#x0303;e</g>
+ beaute ne buche dire</l>
+<l>		c har la materie tele astreit</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> nus a chef ne latrarreit</l>
+<l>		S un chef <pc>·</pc> sun crín <pc>·</pc> sun uisage</l>
+<l>		k il dels<g ref="#abbr-cri">c&#x0365;</g>
+uereit <g ref="#abbr-trop">t&#x0366;p</g> sereit sage</l>
+<l>		h á tendre face culuree</l>
+<l>		M eudre de u<g ref="#abbr-us">&#xA770;</g>
+ ne fut unche<add place="above">s</add> néé</l>
+<l>		L u <g ref="#abbr-pri">p&#x0365;</g>
+s p<g ref="#abbr-or">&#xF1C2;</g>rez estre de beaute</l>
+<l>		e len seigne de cast	e</l>
+<l>		h umble estiez <g ref="#abbr-et">&#xF158;</g> honurab le</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> á busuig succurable</l>
+<l>		p etit <g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-grant">gn&#x1DD3;t</g> tut uus amou<g type="ligature-nt">nt</g></l>
+<l>		p ur la bunte <g ref="#abbr-que">q&#x0303;</g>n u<g ref="#abbr-us">&#xA770;</g>
+ truuou<g type="ligature-nt">nt</g></l>
+<l>		B ele nus nus entre amium</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> en es<g ref="#abbr-cri">c&#x0365;</g>
+uant cunseillum</l>
+<l>		L i uns al au<g ref="#abbr-tre">t&#x0364;</g>
+ sen bon diseit</l>
+<l>		e n latin <pc>·</pc> nuls nentendeit</l>
+<l>		h óí morte enuíus	e</l>
+<l>		d e pute part cun<g ref="#abbr-tra">t&#x1DD3;</g>rius	e</l>
+<l>		I a apeléé ne uendra	s</l>
+<l>		N e ceus ki tamei<g ref="#abbr-nasal-tilde">&#x0303;</g>t ne amaras</l>
+<l>		c es ki plus te heent plus aimes</l>
+<l>		e ul<g ref="#abbr-tre">t&#x0364;</g>
+ lur uoill les é meme 	s</l>
+<l>		N e se pot defendre saueir</l>
+<l>		d e [t]ei <pc>·</pc> pruez ne <del type="dot-below">s</del>aueir</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> ho<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ plus uaut <g ref="#abbr-et">&#xF158;</g> menz deit uiu<g ref="#abbr-re">&#x0364;</g></l>
+<l>		D u<g ref="#abbr-nasal-tilde">&#x0303;</g>c tentremez de lui occir	e</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> ho<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ deit ioie en sun uíua<g type="ligature-nt">nt</g></l>
+<l>		a uair <pc>·</pc> tu li tous sudaineme<g type="ligature-nt">nt</g></l>
+<l>		M ais <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ u<g ref="#abbr-us">&#xA770;</g>
+ aucun mendia<g type="ligature-nt">nt</g></l>
+<l>		c hi de uiellete uait trembla<g type="ligature-nt">nt</g></l>
+<l>		<g ref="#abbr-et">&#xF158;</g> il tapele <g ref="#abbr-per">&#xA751;</g>
+ <g ref="#abbr-grant">gn&#x1DD3;t</g> tristece</l>
+<l>		N e uousoir sa <g ref="#abbr-grant">gn&#x1DD3;t</g> uoillece</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> tu mamie me tollis</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> uiure uoleit tort me fesis</l>
+<l>		O r refeis tort <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ uoil murir</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> io tapel ne uus uenir</l>
+<l>		M ort tu me fuis io te siurai</l>
+<l>		T u repuns io te querra i</l>
+<l>		á fai <g ref="#abbr-que">q&#x0303;</g> de quor uout murir</l>
+<l>		N e li poes guaires guandir</l>
+<l>		<g type="pilcrow">&#x00A7;</g> Q ua<g ref="#abbr-nasal-tilde">&#x0303;</g>t aucun dolurs tapele</l>
+<l>		d u<g ref="#abbr-nasal-tilde">&#x0303;</g>c turnez bien ta ruele</l>
+<l>		T u uoirz auer regrez <g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-pre">p&#x0305;</g>
+iez</l>
+		
+		<cb/>
+		
+<l>		I dunt te cheent ben tes de<subst><del type="dot-below">c</del><add place="above">z</add></subst></l>
+<l>		p  arfai mais ne te preirai</l>
+<l>		a inz <g ref="#abbr-qui">q&#x0365;</g>l seit uespre io murrai</l>
+<l>		c har de sur main chaste uie</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> <g ref="#abbr-per">&#xA751;</g>
+du ai ma cu<g ref="#abbr-nasal-tilde">&#x0303;</g>pai<g ref="#abbr-nasal-tilde">&#x0303;</g>gnie</l>
+<l>		M alme la sualme siurat</l>
+<l>		e n cha<g ref="#abbr-nasal-tilde">&#x0303;</g>p fluri la truuerat</l>
+<l>		&#xE33A; ele cuntre cuilt flur	s</l>
+<l>		c har <g ref="#abbr-molt">ml&#x02BC;t</g> sa fie en noz amurs</l>
+<l>		S enz demurer io la siurai</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> co ert cu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ einz purrai</l>
+<l>		e n cui me uerrat c<g ref="#abbr-er">&#x0315;</g>teinnement</l>
+<l>		e n cha<g ref="#abbr-nasal-tilde">&#x0303;</g>p fluri u ele metent</l>
+<l>		<g type="pilcrow">&#x00A7;</g> a tant sest drece en asta<g type="ligature-nt">nt</g></l>
+<l>		d euant le pere li anfa<g type="ligature-nt">nt</g></l>
+<l>		V n gref treist desu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ greffer</l>
+<l>		d argent <pc>·</pc> ki <g ref="#abbr-molt">ml&#x02BC;t</g> aueit cher</l>
+<l>		p ur <pc>·</pc> B <pc>·</pc> F <pc>·</pc> ki li dunat</l>
+<l>		d erainement <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ od lui <g ref="#abbr-per">&#xA751;</g>
+lat</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> il alat á mu<g ref="#abbr-nasal-tilde">&#x0303;</g>torie</l>
+<l>		<subst><del type="erasure"><g ref="#abbr-Qua">Q&#x1DD3;</g></del><add place="left">d</add></subst> unc ad parle al gref florie</l>
+<l>		G ref fait il á co fus f[ei]t</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> fin meisses a cest pleit</l>
+<l>		M ei te dunad p<g ref="#abbr-or">&#xF1C2;</g> remembrer</l>
+<l>		d e sei <pc>·</pc> <g ref="#abbr-et">&#xF158;</g> a sun ous guarder</l>
+<l>		B lancheflur me<add place="above">s</add>ore fei <g ref="#abbr-que">q&#x0303;</g> deiz</l>
+<l>		M ai li en ueie kar co <g ref="#abbr-est">&#x223B;</g> dreiz</l>
+<l>		<g type="pilcrow">&#x00A7;</g> M ult me chalange <pc>·</pc> B <pc>·</pc> F </l>
+<l>		e n ma uie trop í de mur</l>
+<l>		e n sun quor buter le uoleit</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> sa mere le a<g ref="#abbr-per">&#xA751;</g>
+ceueit</l>
+<l>		S ur lúi curt le gref prent</l>
+<l>		P úis le chastia dulceme<g type="ligature-nt">nt</g></l>
+<l>		<g type="pilcrow">&#x00A7;</g> M ere <add place="above">fait il</add> ia pur murir</l>
+<l>		n e purrai meis cest dol suffrir</l>
+<l>		B eau filz fait ele <g ref="#abbr-molt">ml&#x02BC;t</g> <del type="erasure" ana="dot-below">[...]</del> es e<g ref="#abbr-nasal-tilde">&#x0303;</g>fanz</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> <del type="erasure">[...]</del> tamort es desiran	z</l>
+<l>		N ad sucel si <add place="above">hom</add> a murir</l>
+<l>		d e la mort po<add place="above">u</add>st resortir</l>
+<l>		M euz ne uousist estre mesanz</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> od lazeres uiure en b<subst><del type="dot-below">a</del><add place="above">o</add></subst>rdanz</l>
+<l>		c har trespasser de mort le pas</l>
+<l>		F ilz <g type="ligature-de">de</g>mort suffrir nest mie gas</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> si uus uus occie	z</l>
+<l>		e n cha<g ref="#abbr-nasal-tilde">&#x0303;</g>p fluri pas ne uendrez</l>
+<l>		N e ne uerrez <pc>·</pc> B <pc>·</pc> 	<pc>·</pc> F</l>
+<l>		c el cha<g ref="#abbr-nasal-tilde">&#x0303;</g>p ne receit pecheur</l>
+<l>		e n fer senz chala<g ref="#abbr-nasal-tilde">&#x0303;</g>ge í metreit</l>
+
+<pb n="88r"/>
+<l>		L a en irrez beau filz tut dreit</l>
+<l>		<g type="pilcrow">&#x00A7;</g> M inos <pc>·</pc> thoas <pc>·</pc> ad ama<g ref="#abbr-nasal-tilde">&#x0303;</g>t<g ref="#abbr-us">&#xA770;</g></l>
+<l>		c il sunt iugeur de la <subst><del type="erasure" ana="dot-below">s</del><add place="above">i</add></subst>us</l>
+<l>		e n enfern funt les iugemenz</l>
+<l>		c il uus metreient enturmenz</l>
+<l>		L a ú <g ref="#abbr-est">&#x223B;</g> dido <g ref="#abbr-et">&#xF158;</g> bibli	s</l>
+<l>		c hi pur amur furent occis</l>
+<l>		p ur am<g ref="#abbr-or">&#xF1C2;</g> en ennfern dol fesanz</l>
+<l>		L ur druz en dulur <g ref="#abbr-que">q&#x0303;</g>ranz</l>
+<l>		M es il les <g ref="#abbr-que">q&#x0303;</g>rent <g ref="#abbr-et">&#xF158;</g> querrunt</l>
+<l>		T uz iurz <g ref="#abbr-et">&#xF158;</g> ia nes t<add place="above" hand="scribe2">t</add>uerru<g type="ligature-nt">nt</g></l>
+<l>		<g type="pilcrow">&#x00A7;</g> M eis cher filz or te recu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ forte</l>
+<l>		a inz lauras uiue <g ref="#abbr-que">q&#x0303;</g> morte</l>
+<l>		I o q&#x0365; trouer ta<del type="erasure">[...]</del> medicine</l>
+<l>		p ar <g ref="#abbr-que">q&#x0303;</g> re uiurat la meschine</l>
+<l>		<g type="pilcrow">&#x00A7;</g> e le <g ref="#abbr-est">&#x223B;</g> uenue plurante al rei</l>
+<l>		S ire fait ele entent a mai</l>
+<l>		I o te <add place="above">re</add>quer pur deu le <g ref="#abbr-grant">gn&#x1DD3;t</g></l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> aies m<g ref="#abbr-er">&#x0315;</g>ci de tun enfant</l>
+<l>		L a se fust occis <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ le parchui</l>
+<l>		o d un greffe <pc>·</pc> mais tant <g ref="#abbr-pre">p&#x0305;</g>
+s fui</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> ainz <g ref="#abbr-qui">q&#x0365;</g>l fust guarn	i</l>
+<l>		d es mains lu greffe li toli</l>
+<l>		<g type="pilcrow">&#x00A7;</g> D ame fait il encore suffrez</l>
+<l>		c est doil lairrat u<g ref="#abbr-us">&#xA770;</g>
+ le uerre	z</l>
+<l>		á fai fait ele uaire p<g ref="#abbr-or">&#xF1C2;</g> murir</l>
+<l>		k ar il murrat par có suffrir</l>
+<l>		d e tuz enfanz mais nul nauu<g ref="#abbr-nasal-tilde">&#x0303;</g></l>
+<l>		<g ref="#abbr-et">&#xF158;</g> cestui degre occi<del type="erasure" ana="dot-below">[...]</del>um 		<del type="erasure">z</del></l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> dirrat lu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ par le pai	s</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> nus la uru<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ de gre occi s</l>
+<l>		<g type="pilcrow">&#x00A7;</g> D ame fait il <g ref="#abbr-que">q&#x0303;</g>n uolez uus</l>
+<l>		D iru<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ li dunc <pc>·</pc> beau sire é uu<add place="above">s</add></l>
+<l>		c har úen semble les auerez</l>
+<l>		&#xE33A; ambedous <g ref="#abbr-per">&#xA751;</g>
+ lun <g ref="#abbr-per">&#xA751;</g>
+ drez</l>
+<l>		<g type="pilcrow">&#x00A7;</g> B eau filz fait ele <g ref="#abbr-per">&#xA751;</g>
+ engeien</l>
+<l>		p ar le tum pere <g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-per">&#xA751;</g>
+ le men</l>
+<l>		F eímes cest tumbe ici</l>
+<l>		e le mest pas mais tut issi</l>
+<l>		V uliu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ <g ref="#abbr-que">q&#x0303;</g> tu l ubliasses</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> de tun parage espussasses</l>
+<l>		F emme fille de alcun <del type="erasure">[...]</del>rai</l>
+<l>		k i onurast <g ref="#abbr-et">&#xF158;</g> nus <g ref="#abbr-et">&#xF158;</g> tai</l>
+<l>		n e uuliums <g ref="#abbr-que">q&#x0303;</g> blancheflur</l>
+<l>		e n auant eust tamur</l>
+<l>		p<g ref="#abbr-or">&#xF1C2;</g> co que <g ref="#abbr-christi">x&#xA751;i</g>ene esteit</l>
+<l>		p oure chose de bas en dreit</l>
+<l>		M archant lunt achate	e</l>
+<l>		e t <del type="dot-below">l</del>au<g ref="#abbr-tre">t&#x0364;</g><del type="erasure">[...]</del>
+ lenunt mene	e</l>
+		
+		<cb/>
+		
+<l>		<g type="pilcrow">&#x00A7;</g> B eau filz dit ele pur deu merci</l>
+<l>		c har tut <g ref="#abbr-est">&#x223B;</g> ueirs sicu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ io di</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> tu cest dol ne men<g ref="#abbr-er">&#x0315;</g> mais</l>
+<l>		e n cest pais remeing en pais</l>
+<l>		<g type="pilcrow">&#x00A7;</g> D ame fait il dites uus ueir</l>
+<l>		B eaus fait ele tul poz ueir</l>
+<l>		á tant la pere unt remue</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> il desuz ne<add place="above">nt</add>nad <g ref="#abbr-tro">t&#x0366;</g>ue</l>
+<l>		D eu rent <g ref="#abbr-gra">g&#x1DD3;</g>ces silén mercie</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> sot <g ref="#abbr-que">q&#x0303;</g> uiue ert samie</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> co ueit dit <g ref="#abbr-qui">q&#x0365;</g>lla <g ref="#abbr-que">q&#x0303;</g>rra</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> si deu pleist enchore laura</l>
+<l>		D e co seuante <g ref="#abbr-qui">q&#x0365;</g>l lirrat <g ref="#abbr-que">q&#x0303;</g>rre</l>
+<l>		I a nert en si estrage terre</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> laura <g ref="#abbr-tru">t&#x0367;</g>ue puis reuendra</l>
+<l>		á á<g ref="#abbr-grant">gn&#x1DD3;t</g> íoíe la remerra</l>
+<l>		<g type="pilcrow">&#x00A7;</g> L a ioie li fait oblier</l>
+<l>		T ut le t<g ref="#abbr-ra">&#x1DD3;</g>uaill de li <g ref="#abbr-tru">t&#x0367;</g>uer</l>
+<l>		<g type="pilcrow">&#x00A7;</g> S ei<g ref="#abbr-nasal-tilde">&#x0303;</g>gnurs ne u<g ref="#abbr-us">&#xA770;</g>
+ esm<g ref="#abbr-er">&#x0315;</g>ueillez</l>
+<l>		c har si dam<g ref="#abbr-or">&#xF1C2;</g> <g ref="#abbr-est">&#x223B;</g> iustisie	z</l>
+<l>		c o <g ref="#abbr-qui">q&#x0365;</g>de faire c<g ref="#abbr-er">&#x0315;</g>tainneme<g type="ligature-nt">nt</g></l>
+<l>		d unt se m<g ref="#abbr-er">&#x0315;</g>ueille<g ref="#abbr-nasal-tilde">&#x0303;</g>t tute gn<g ref="#abbr-nasal-tilde">&#x0303;</g>t</l>
+<l>		c o dist caldes <g ref="#abbr-et">&#xF158;</g> platun</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> pas ne <g ref="#abbr-qui">q&#x0365;</g>dereit nus hom</l>
+<l>		Q uestre poust co <g ref="#abbr-que">q&#x0303;</g> fer	a</l>
+<l>		c il ki damur destreit serra</l>
+<l>		<g type="pilcrow">&#x00A7;</g> D e co <g ref="#abbr-que">q&#x0303;</g> uiue <g ref="#abbr-est">&#x223B;</g> feit <g ref="#abbr-grant">gn&#x1DD3;t</g> ioie</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> dit <g ref="#abbr-que">q&#x0303;</g> lui nechaut <g ref="#abbr-qui">q&#x0365;</g>l óíe</l>
+<l>		L i reis purnient se penereit</l>
+<l>		I a autre fe<g ref="#abbr-nasal-tilde">&#x0303;</g>me ne espusereit</l>
+<l>		a tant en <g ref="#abbr-est">&#x223B;</g> al rei uenu</l>
+<l>		L i reis lez <g ref="#abbr-et">&#xF158;</g> ioiant en fu</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> il le uit <g ref="#abbr-et">&#xF158;</g> puis ire</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> il li deman<g type="ligature-de">de</g> cunge</l>
+<l>		d aler <g ref="#abbr-que">q&#x0303;</g>rre la damoissele</l>
+<l>		c har il de li ne set nuuele</l>
+<l>		n e ne set dire en <g ref="#abbr-que">q&#x0303;</g>le terre</l>
+<l>		I lla deuie aler querre</l>
+<l>		<g type="pilcrow">&#x00A7;</g> L e cunseill blasme a la reíne</l>
+<l>		p ar chi il uendi la meschine</l>
+<l>		L u <add hand="scribe2">[...]</add> maudit kele fud ue<g ref="#abbr-nasal-tilde">&#x0303;</g>due</l>
+<l>		c har sun filz <g ref="#abbr-per">&#xA751;</g>
+rt <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ lad <g ref="#abbr-per">&#xA751;</g>
+due</l>
+<l>		M il mars dargent p<g ref="#abbr-or">&#xF1C2;</g> li durreit</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ <g ref="#abbr-qui">q&#x0365;</g>l il <g ref="#abbr-pri">p&#x0365;</g>
+st ouoc <g ref="#abbr-grant">gn&#x1DD3;t</g>erere<add place="above">i</add>t</l>
+<l>		S il la trouast mais ne fra</l>
+<l>		V oille u<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ nun sen cu<g ref="#abbr-nasal-tilde">&#x0303;</g>siura</l>
+<l>		<g type="pilcrow">&#x00A7;</g> F ilz fait li reis char remanez</l>
+<l>		S ire fait il peche auez</l>
+<l>		c u<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ mu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ aler plus hasterez</l>
+
+<pb n="88v"/>
+<l>		<g ref="#abbr-et">&#xF158;</g> mei <g ref="#abbr-et">&#xF158;</g> li plus tost reuerrez</l>
+<l>		<g type="pilcrow">&#x00A7;</g> F ilz <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ remeind<g ref="#abbr-re">&#x0364;</g> ne uule	z</l>
+<l>		D ites cu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ errer uuldre	z</l>
+<l>		c har <g ref="#abbr-vostre">ur&#x0303;e</g>
+ uolunte fera	i</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> <g ref="#abbr-que">q&#x0303;</g> ous uus ert u<g ref="#abbr-us">&#xA770;</g>
+ <g ref="#abbr-tru">t&#x0367;</g>uera	i</l>
+<l>		c heres pal<add place="above">i</add>es <pc>·</pc> <g ref="#abbr-et">&#xF158;</g> or <pc>·</pc> <g ref="#abbr-et">&#xF158;</g> argn<g ref="#abbr-nasal-tilde">&#x0303;</g>t</l>
+<l>		B ons dras <pc>·</pc> cheuaus <pc>·</pc> <g ref="#abbr-et">&#xF158;</g> bele gn<g ref="#abbr-nasal-tilde">&#x0303;</g>t</l>
+<l>		<g type="pilcrow">&#x00A7;</g> S ire dit floires or oie	z</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> si u<g ref="#abbr-us">&#xA770;</g>
+ plaist <subst><del type="erasure" ana="dot-below">ore</del><add place="above">si</add></subst> mescute 	z</l>
+<l>		o ume marchant la <g ref="#abbr-que">q&#x0303;</g>rra i</l>
+<l>		c har set sumer<add place="above">s</add> od mai m<g ref="#abbr-er">&#x0315;</g>rai</l>
+<l>		L es dous <del type="erasure">[...]</del> chargiez <g type="ligature-de">de</g>or <g ref="#abbr-et">&#xF158;</g> <g type="ligature-de">de</g>argn<g ref="#abbr-nasal-tilde">&#x0303;</g>t</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> de ueissele a muntale<g type="ligature-nt">nt</g></l>
+<l>		L e terz de<g type="ligature-de">de</g>ners munaie 	z</l>
+<l>		a tant en aueru<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ nus ase	z</l>
+<l>		L es dous puis de chers dra	s</l>
+<l>		L es meillurs <g ref="#abbr-que">q&#x0303;</g> tu auera	s</l>
+<l>		D e beiures <g ref="#abbr-et">&#xF158;</g> de marterin	s</l>
+<l>		S et humes ait od les vii<pc>·</pc> sumers</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> io ot mai tres esquer	s</l>
+<l>		c hi <g ref="#abbr-nostre">nr&#x0303;e</g>
+ mang<g ref="#abbr-er">&#x0315;</g> pur querru<g type="ligature-nt">nt</g></l>
+<l>		e t nos cheuaus guarderu<g type="ligature-nt">nt</g></l>
+<l>		V os<g ref="#abbr-tre">t&#x0364;</g> chamb<g ref="#abbr-er">&#x0315;</g>lanc sire re	i</l>
+<l>		V us pri <g ref="#abbr-que">q&#x0303;</g>en ueiez od ma	i</l>
+<l>		c har ben set uendre <g ref="#abbr-et">&#xF158;</g> achat<g ref="#abbr-er">&#x0315;</g></l>
+<l>		<g ref="#abbr-et">&#xF158;</g> a busiu<g ref="#abbr-nasal-tilde">&#x0303;</g>g cunseill duner</l>
+<l>		p ur tut serra <g ref="#abbr-nostre">nr&#x0303;e</g>
+ achaisun</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-nostre">nr&#x0303;e</g>
+ escu á tut busui<g ref="#abbr-nasal-tilde">&#x0303;</g>gnun</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> si la poums reuai	r</l>
+<l>		p ar aucun marche <g type="ligature-de">de</g> <g ref="#abbr-nostre">nr&#x0303;e</g>
+ auair</l>
+<l>		N us en du<add place="above">r</add>ru<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ largeme<g type="ligature-nt">nt</g></l>
+<l>		p uis reuendru<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ leeme<g type="ligature-nt">nt</g></l>
+<l>		<g type="pilcrow">&#x00A7;</g> L i emphes fine sa rei sun</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> li sire cu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ prudum</l>
+<l>		T restut li ad apparaille</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> uendrat pre<g ref="#abbr-nasal-tilde">&#x0303;</g>dre le conge</l>
+<l>		a d li reis la cupe demandee</l>
+<l>		k i pur <pc>·</pc> B <pc>·</pc> F <pc>·</pc> fud dunee</l>
+<l>		c este fait il emportera 	s</l>
+<l>		p oet cel estre par li raura	s</l>
+<l>		S ele <seg xml:id="seg13" corresp="#seg14">pur</seg> <metamark function="transposition" place="above">&#x2033;</metamark> <seg xml:id="seg14" corresp="#seg13">chi</seg> <metamark function="transposition" place="above">&#x2033;</metamark> li fud uendu	e</l>
+<l>		S ire <pc>·</pc> chi <pc>&#xF160;</pc> B <pc>·</pc> F <pc>·</pc> ta dru	e</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> sen demaine pale fra 	i</l>
+<l>		L i ad feit en seler li re	i</l>
+<l>		c hi del une part fud tut blanc</l>
+<l>		d el au<g ref="#abbr-tre">t&#x0364;</g>
+ ruge cume sanc</l>
+<l>		L a susceles ert de palies cheres</l>
+<l>		S i ert urlee tut ascheccher	s</l>
+<l>		T ute la sele é li arcun</l>
+		
+		<cb/>
+		
+<l>		s unt de la cost de un peissun</l>
+<l>		L a culur est inde m<g ref="#abbr-er">&#x0315;</g>ueille</l>
+<l>		N auturaume<g ref="#abbr-nasal-tilde">&#x0303;</g>t a<g ref="#abbr-grant">gn&#x1DD3;t</g> m<g ref="#abbr-er">&#x0315;</g>ueille</l>
+<l>		e n <g ref="#abbr-est">&#x223B;</g> faite la taillur	e</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> li or asis par <g ref="#abbr-grant">gn&#x1DD3;t</g> cur	e</l>
+<l>		L a cuuerture de la sele</l>
+<l>		e st de un brun palie de castele</l>
+<l>		T ute floccheé a fil dor frai	s</l>
+<l>		k ar tele la uuleit li rei	s</l>
+<l>		L es estriues <pc>·</pc> <g ref="#abbr-et">&#xF158;</g> les cengle 	s</l>
+<l>		D e sei <pc>·</pc> neis les cun<g ref="#abbr-tre">t&#x0364;</g>
+cengle	s</l>
+<l>		L aceos merueillusement</l>
+<l>		T utes les bucles su<g ref="#abbr-nasal-tilde">&#x0303;</g>t dargn<g ref="#abbr-nasal-tilde">&#x0303;</g>t</l>
+<l>		L i estriu ualent un chastel</l>
+<l>		d or fin su<g ref="#abbr-nasal-tilde">&#x0303;</g>t uuree anee	l</l>
+<l>		L i freins <g ref="#abbr-est">&#x223B;</g> <g ref="#abbr-molt">ml&#x02BC;t</g> ben fait <pc>·</pc> <g ref="#abbr-et">&#xF158;</g> chers</l>
+<l>		V nc ne uit plus bel cheualer s</l>
+<l>		L e cheuechal <g ref="#abbr-est">&#x223B;</g> de fin or</l>
+<l>		L es peres ualent un tresor</l>
+<l>		c hi al blanc esmal <g ref="#abbr-sunt">st&#x02BC;</g>
+ assis</l>
+<l>		e smal en lor par en<g ref="#abbr-tre">t&#x0364;</g>
+ mi	s</l>
+<l>		L i frains fut <del type="erasure" ana="dot-below">[...]</del> tut <g type="ligature-de">de</g>lor <g type="ligature-de">de</g>spai<g ref="#abbr-nasal-tilde">&#x0303;</g>gne</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> sacez meuz en uaut lu fraigne</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> lor ne les peres ne fu<g type="ligature-nt">nt</g></l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> tutes <g ref="#abbr-pre">p&#x0305;</g>
+cioses sun	t</l>
+<l>		L es rei<g ref="#abbr-nasal-tilde">&#x0303;</g>gnes de fil dor esteien	t</l>
+<l>		D issi la ú del frein parteie<g type="ligature-nt">nt</g></l>
+<l>		T restut eissi á paraille</l>
+<l>		L ad li reis a sun filz baille</l>
+<l>		e la reíne sun ane	l</l>
+<l>		a l deit ad mis al iuuencel</l>
+<l>		F ilz fait ele cest guardez ben</l>
+<l>		T ant c<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ laurez mar crendrez ren</l>
+<l>		F er ne uus pot entamer</l>
+<l>		n e fou ardeir <pc>·</pc> ne ewe naer</l>
+<l>		F ilz cest <seg xml:id="seg15" corresp="#seg16">gn<g ref="#abbr-ra">&#x1DD3;</g>t</seg> <metamark function="transposition" place="above">&#x2033;</metamark> anel <seg xml:id="seg16" corresp="#seg15">ad</seg> <metamark function="transposition" place="above">&#x2033;</metamark> puissance</l>
+<l>		S ien poez auoir fiance</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> uus larien <g ref="#abbr-que">q&#x0303;</g> querrie	z</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> tost u tart tut nel aie	z</l>
+<l>		<g type="pilcrow">&#x00A7;</g> I l <g ref="#abbr-pre">p&#x0305;</g>
+nt lanel sil en m<g ref="#abbr-er">&#x0315;</g>ci	e</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> dit <g ref="#abbr-que">q&#x0303;</g> u[n]core laurat samie</l>
+<l>		<g type="pilcrow">&#x00A7;</g> a tant lur deman<g type="ligature-de">de</g> cunge</l>
+<l>		L i reis li ad plurant dune</l>
+<l>		a sa mere í ad cunge <g ref="#abbr-pri">p&#x0365;</g>
+ s</l>
+<l>		e le plure <g ref="#abbr-et">&#xF158;</g> dit mis chers amis</l>
+<l>		a deu u<g ref="#abbr-us">&#xA770;</g>
+ seiez cumand	e</l>
+<l>		<g ref="#abbr-pri">p&#x0365;</g>
+ st len sil ad seit feiz beise</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> fesist plus sen fust ais	e</l>
+<l>		L i reis li tout <g ref="#abbr-tre">t&#x0364;</g>
+is feiz le beise</l>
+
+<pb n="89r"/>
+<l>		L a les uerrez amdous plurer</l>
+<l>		T ortre les puinz lur <g ref="#abbr-cri">c&#x0365;</g>
+ns tirer</l>
+<l>		e t tel dol faire al partir</l>
+<l>		c ume sile ueissent idu<g ref="#abbr-nasal-tilde">&#x0303;</g>c murir</l>
+<l>		c har il dutount co <g ref="#abbr-qui">q&#x0365;</g>l en uirent</l>
+<l>		M ais ne uerru<g ref="#abbr-nasal-tilde">&#x0303;</g>t neil nel fire<g type="ligature-nt">nt</g></l>
+<l>		<g type="pilcrow">&#x00A7;</g> a tant lur ad dit en plura<g type="ligature-nt">nt</g></l>
+<l>		S i cume cil q&#x0365; pite rad grant</l>
+<l>		L i damoiseaus lur dit uale</l>
+<l>		e t il lunt á de<add place="above">u</add> cumand	e</l>
+<l>		e s le uus fors de la cit	e</l>
+<l>		o d lur sumer<add place="above">s</add> ben á rute</l>
+<l>		I l <g ref="#abbr-et">&#xF158;</g> sis chamb<g ref="#abbr-er">&#x0315;</g>lans cunseilla<g type="ligature-nt">nt</g></l>
+<l>		<g ref="#abbr-et">&#xF158;</g> lur iurnéés ápparaille<g type="ligature-nt">nt</g></l>
+<l>		a l port uolent <g ref="#abbr-pri">p&#x0365;</g>
+mes aler</l>
+<l>		&#xE33A; <pc>·</pc> B <pc>·</pc> F <pc>·</pc> entrat en me	r</l>
+<l>		T ant sunt erre lá su<g ref="#abbr-nasal-tilde">&#x0303;</g>t uenu</l>
+<l>		C hes un burgeis sunt descendu</l>
+<l>		C hi maisuns out larges <g ref="#abbr-et">&#xF158;</g> gn<g ref="#abbr-ra">&#x1DD3;</g>z</l>
+<l>		k ar herb<g ref="#abbr-er">&#x0315;</g>ger soleint marchanz</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> li cheual su<g ref="#abbr-nasal-tilde">&#x0303;</g>t á stable</l>
+<l>		F ein <g ref="#abbr-et">&#xF158;</g> aueíne unt a plente</l>
+<l>		e t cil q&#x0365; fu cumand	e</l>
+<l>		a s astaus al burc sunt ale</l>
+<l>		c hars achatent des plus cheres</l>
+<l>		c har il eu trouent <g type="ligature-de">de</g>maneres</l>
+<l>		e t li sires lad ben cumand	e</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> il en aient a plent	e</l>
+<l>		p aín <g ref="#abbr-et">&#xF158;</g> uín funt aporter</l>
+<l>		M ult a<g ref="#abbr-pre">p&#x0305;</g>
+stent cher super</l>
+<l>		M archant dient quil sunt</l>
+<l>		p ur cel mest<g ref="#abbr-er">&#x0315;</g> mer passeru<g type="ligature-nt">nt</g></l>
+<l>		F loires dient <g ref="#abbr-que">q&#x0303;</g>st lur sei<g ref="#abbr-nasal-tilde">&#x0303;</g>gnur</l>
+<l>		S ons <g ref="#abbr-est">&#x223B;</g> li aueirs nest meillur</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> il furent ase<del type="erasure">[...]</del>ur 	e</l>
+<l>		e t lur marg<g ref="#abbr-er">&#x0315;</g> fut aprest	e</l>
+<l>		N apes funt metre <g ref="#abbr-et">&#xF158;</g> uunt lauer</l>
+<l>		p uis sastst<add place="above">r</add>ent al manger</l>
+<l>		L iostes <g ref="#abbr-est">&#x223B;</g> pruz <g ref="#abbr-et">&#xF158;</g> uaillan	z</l>
+<l>		d e iuste sei aseit lenfan	z</l>
+<l>		M ult lonure <g ref="#abbr-et">&#xF158;</g> tient che	r</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> sumunt le <g ref="#abbr-molt">ml&#x02BC;t</g> <g type="ligature-de">de</g>l manger</l>
+<l>		L a table fu mult marcheande</l>
+<l>		G<g ref="#abbr-ra">&#x1DD3;</g> nt plent unt de uiand	e</l>
+<l>		T res ben le seruent li serga<g type="ligature-nt">nt</g></l>
+<l>		V ín lur muissent á espandant</l>
+<l>		e n cupes dor hanaps darge<g type="ligature-nt">nt</g></l>
+<l>		M uissent cher uín h<g ref="#abbr-er">&#x0315;</g>be piment</l>
+<l>		L i marchant t<g ref="#abbr-ra">&#x1DD3;</g>uaille fure<g type="ligature-nt">nt</g></l>
+		
+		<cb/>
+		
+<l>		á seiz mangerent <g ref="#abbr-et">&#xF158;</g> ben bure<g type="ligature-nt">nt</g></l>
+<l>		S uuent dient pur le bon uin</l>
+<l>		Q uil <del type="erasure">[...]</del>unt lostel sein martin</l>
+<l>		c il se deduent leement</l>
+<l>		F <pc>·</pc> a <pc>·</pc> b <pc>·</pc> ad sunt tale<g type="ligature-nt">nt</g></l>
+<l>		p ur bon uin pas nel ublie</l>
+<l>		M ult <g ref="#abbr-pri">p&#x0365;</g>
+se poi senz li sauie</l>
+<l>		p ur li suuent sen<g ref="#abbr-tre">t&#x0364;</g>
+ ubliot</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> par fundement suspirot</l>
+<l>		e t ne dunot guarde á sa main</l>
+<l>		S e il <g ref="#abbr-per">&#xA751;</g>
+ueit ú char ú pain</l>
+<l>		L a ostesead bien tut asguarde</l>
+<l>		d el<del type="erasure">[...]</del> cute ad sun <del type="erasure">[...]</del> seinu<g ref="#abbr-or">&#xF1C2;</g> bute</l>
+<l>		S ire fait ele auez uou</l>
+<l>		c um cist enfes sest cuntenu</l>
+<l>		S un maing<g ref="#abbr-er">&#x0315;</g> lait p<g ref="#abbr-or">&#xF1C2;</g> le penser</l>
+<l>		S uuent lui uei mult suspirer</l>
+<l>		p ar mu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ chef nest pas marcha<g ref="#abbr-nasal-tilde">&#x0303;</g>t</l>
+<l>		G entiz hu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ <g ref="#abbr-est">&#x223B;</g> el uait <g ref="#abbr-que">q&#x0303;</g>rant</l>
+<l>		D unc ad lenfant a réisun mis</l>
+<l>		S ire fait ele <g ref="#abbr-molt">ml&#x02BC;t</g> es pensi	s</l>
+<l>		a cest mang<g ref="#abbr-er">&#x0315;</g> tai á guard	e</l>
+<l>		p oi ás mange <g ref="#abbr-molt">ml&#x02BC;t</g> as pens		e</l>
+<l>		c ó <g ref="#abbr-que2">q&#x0364;</g>n aspris serreit leger</l>
+<l>		a aquiter decest manger</l>
+<l>		a utel úi ío lautre iu	r</l>
+<l>		d a damoisele blancheflur</l>
+<l>		e issi se numa ele a mai</l>
+<l>		e le te resemble par ma fai</l>
+<l>		B ien poez estre dun ááge</l>
+<l>		V us resemblez <g type="ligature-de">de</g> uisage</l>
+<l>		e nsement al mang<g ref="#abbr-er">&#x0315;</g> pensot</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> un sun ami regretout</l>
+<l>		F loire q&#x0365; amie ele <del type="erasure">[...]</del>asteit</l>
+<l>		p<g ref="#abbr-or">&#xF1C2;</g> q&#x0365; tolir lum la uuleit</l>
+<l>		c il chi la cat<g ref="#abbr-er">&#x0315;</g>ent diseient</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> n babilonie la m<g ref="#abbr-er">&#x0315;</g>reient</l>
+<l>		a l amirall tant la uend<g ref="#abbr-re">&#x0364;</g>ient</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> a duble i<g ref="#abbr-nasal-tilde">&#x0303;</g> guanereient</l>
+<l>		d e la ioie si ses bah	i</l>
+<l>		Q unc ne sot si a bat	i</l>
+<l>		L u uin <pc>·</pc> <g ref="#abbr-que">q&#x0303;</g> deua<g ref="#abbr-nasal-tilde">&#x0303;</g>t lui esteit</l>
+<l>		o d sun cutel <g ref="#abbr-qui">q&#x0365;</g>l tenei	t</l>
+<l>		L i ostes si crie il <g ref="#abbr-est">&#x223B;</g> forfe<add place="above">i</add>t</l>
+<l>		a mende n<g ref="#abbr-us">&#xA770;</g>
+ serrat cist plait</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> il dient co <g ref="#abbr-est">&#x223B;</g> dreit tuit</l>
+<l>		c har lez en su<g ref="#abbr-nasal-tilde">&#x0303;</g>t p<g ref="#abbr-or">&#xF1C2;</g> le deduit</l>
+<l>		F loires une cupe dor fin</l>
+<l>		e mplir ad fait de bon uín</l>
+
+<pb n="89v"/>
+<l>		a d soste ad fait le prese<g type="ligature-nt">nt</g></l>
+<l>		p uis li dit dame icest u<g ref="#abbr-us">&#xA770;</g>
+ re<del type="erasure">[...]</del>nt</l>
+<l>		p ur co <g ref="#abbr-que">q&#x0303;</g> maues dit nuuele</l>
+<l>		d e blancheflur la domoisele</l>
+<l>		p ur li ert <g ref="#abbr-que">q&#x0303;</g> pensou	e</l>
+<l>		a cest manger <g ref="#abbr-et">&#xF158;</g> suspirou	e</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> p<g ref="#abbr-or">&#xF1C2;</g> co que io ne sauei	e</l>
+<l>		Q uel part <g ref="#abbr-que">q&#x0303;</g>rre la deuei	e</l>
+<l>		o r le siurai en babiloni	e</l>
+<l>		p lui ne uent ne mer essoni	e</l>
+<l>		a <g ref="#abbr-pre">p&#x0305;</g>
+s dit <pc>·</pc> li uins aspandu	z</l>
+<l>		S eignur<add place="above">s</add> <g ref="#abbr-est">&#x223B;</g> dreiz <g ref="#abbr-que">q&#x0303;</g> seit renduz</l>
+<l>		T ant en faites sur mai uenir</l>
+<l>		c u<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ uus uendrat á plaisir</l>
+<l>		a tant es uus quatre escuers</l>
+<l>		<g ref="#abbr-Qui">Q&#x0365;</g> aportent <g ref="#abbr-qua">q&#x1DD3;</g>
+tre sesters</l>
+<l>		L ui en mist uin <g ref="#abbr-pri">p&#x0365;</g>
+mes áámende</l>
+<l>		p uis li dient le hanap rendre</l>
+<l>		a l ost <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ laurad bu	u</l>
+<l>		I l beit <pc>·</pc> <g ref="#abbr-et">&#xF158;</g> puis li ad rendu</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> li au<g ref="#abbr-tre">t&#x0364;</g>
+ par la maisun</l>
+<l>		d el uín beiuent á tencun	t</l>
+<l>		L i plus poure setent á riche</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> de hardement <g ref="#abbr-molt">ml&#x02BC;t</g> sa fiche</l>
+<l>		c il se deduent lééme<g type="ligature-nt">nt</g></l>
+<l>		a tant es u<g ref="#abbr-us">&#xA770;</g>
+ turne li ue<g type="ligature-nt">nt</g></l>
+<l>		L i uespres ert b<add place="above">i</add>en á uesprez</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> li floz tuit al port muntez</l>
+<l>		L i &#x2020; rs est clers les nues series</l>
+<l>		a l est tu<add place="above">r</add>nent les wirewite s</l>
+<l>		c o dient li meistre des nefs</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> uent aurunt pleíns lur trefs</l>
+<l>		L ungement sur iur ne íunt</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> del passer desirant sunt</l>
+<l>		<g type="pilcrow">&#x00A7;</g> D unc funt crier li notener</l>
+<l>		p ar la uile qua gent charger</l>
+<l>		T ut cil <g ref="#abbr-que">q&#x0303;</g> en babilonie irrunt</l>
+<l>		V en ces terres q&#x0365; de la sunt</l>
+<l>		<g type="pilcrow">&#x00A7;</g> F loires loit <g ref="#abbr-molt">ml&#x02BC;t</g> sen fait le</l>
+<l>		d errer sest áparaille	e</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> sunt cunrai out áquite</l>
+<l>		a sun ost ad del sun dun	e</l>
+<l>		p uis prent par bon am<g ref="#abbr-or">&#xF1C2;</g> conge</l>
+<l>		a snes uenent si <g ref="#abbr-sunt">st&#x02BC;</g>
+ charge</l>
+<l>		S un asturman ad <g ref="#abbr-molt">ml&#x02BC;t</g> <g ref="#abbr-pre">p&#x0305;</g>
+ie</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> illi ad ben otri	e</l>
+<l>		<g ref="#abbr-Qua">Q&#x1DD3;</g> ícel port lé riuer	a</l>
+<l>		d unt il plus tost uenir purra</l>
+		
+		<cb/>
+		
+<l>		e n babilonie la cite</l>
+<l>		c har hu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ li dit <g ref="#abbr-et">&#xF158;</g> ad cunte</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> di cel iur en un mais</l>
+<l>		L a sembleru<g ref="#abbr-nasal-tilde">&#x0303;</g>t tut li reis</l>
+<l>		c hi del amirall t<g ref="#abbr-er">&#x0315;</g>res tenent</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> ása curt as festes uene<g type="ligature-nt">nt</g></l>
+<l>		á une feste <g ref="#abbr-que">q&#x0303;</g> il tendra</l>
+<l>		S e du<g ref="#abbr-nasal-tilde">&#x0303;</g>c fait il esteie la</l>
+<l>		M es <g ref="#abbr-tru">t&#x0367;</g>ssaus pot estre í uend<g ref="#abbr-ra">&#x1DD3;</g>ie</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> q&#x0365; que io i guainnerei	e</l>
+<l>		L i uenz fud bons <g ref="#abbr-et">&#xF158;</g> li eris cler</l>
+<l>		a tant se sunt en<g ref="#abbr-tre">t&#x0364;</g>
+ en mer</l>
+<l>		a l ret<g ref="#abbr-ra">&#x1DD3;</g>it <g ref="#abbr-et">&#xF158;</g> al<del type="erasure">[...]</del>uent nor	t</l>
+<l>		L es nefs tutes eissent <g type="ligature-de">de</g>l port</l>
+<l>		L ur tref unt tut deshanaches</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> sus desques tup<add place="above">s</add> sache	s</l>
+<l>		S is fert li uenz <g ref="#abbr-qui">q&#x0365;</g>s fait errer</l>
+<l>		é suus florie en haute mer</l>
+<l>		e n la nef out tel cunra	i</l>
+<l>		c u<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ il fust ú <subst><del type="dot-below" hand="scribe2">cuns</del><add place="above">ques</add></subst> ú ra	i</l>
+<l>		V int iurz plener<add place="add">a</add> <g ref="#abbr-per">&#xA751;</g>
+ mer erra</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> nule t<g ref="#abbr-er">&#x0315;</g>re ne truu	a</l>
+<l>		a l nofme iur <g ref="#abbr-est">&#x223B;</g> ariu	e</l>
+<l>		S uz baudac une <g ref="#abbr-grant">gn&#x1DD3;t</g> cit	e</l>
+<l>		c hi fut sur une roche bise</l>
+<l>		d e sus le port en haut ásise</l>
+<l>		d ei loc pot hu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ fait cler</l>
+<l>		c ent lius lung ueer en mer</l>
+<l>		<g type="pilcrow">&#x00A7;</g> B ien un tenu li notener</l>
+<l>		a la cite lur dreit senter</l>
+<l>		c o ú <g ref="#abbr-est">&#x223B;</g> porz dunt le re<g ref="#abbr-qui">q&#x0365;</g>st</l>
+<l>		L i emfes <g ref="#abbr-que">q&#x0303;</g> la le mesist</l>
+<l>		<g type="pilcrow">&#x00A7;</g> D ei loc purrat a <g ref="#abbr-qua">q&#x1DD3;</g>
+tre iurz</l>
+<l>		d eices diuern <g ref="#abbr-et">&#xF158;</g> des plus curz</l>
+<l>		e n babilonie od ses sumers</l>
+<l>		V enir sil nad desturber	s</l>
+<l>		<g type="pilcrow">&#x00A7;</g> S a <g ref="#abbr-pro">&#xA753;</g>
+messe <g ref="#abbr-et">&#xF158;</g> sen fret demande</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> illi dune <g ref="#abbr-et">&#xF158;</g> bone <g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-gra">g&#x1DD3;</g>nd	e</l>
+<l>		V int mars dor fin <g ref="#abbr-et">&#xF158;</g> xx<pc>·</pc> darge<g type="ligature-nt">nt</g></l>
+<l>		L i fait liurer ioiuse<g ref="#abbr-nasal-tilde">&#x0303;</g>me<g type="ligature-nt">nt</g></l>
+<l>		c har uis li ert <add place="above">q</add>en parai		s</l>
+<l>		L ait mis <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ ert al pai	s</l>
+<l>		&#xE33A; samie quidot truue	r</l>
+<l>		Q uil siut <g ref="#abbr-per">&#xA751;</g>
+ tere <g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-per">&#xA751;</g>
+ mer</l>
+<l>		a tan descharg<g ref="#abbr-nasal-tilde">&#x0303;</g>nt les <g ref="#abbr-tru">t&#x0367;</g>sseaus</l>
+<l>		d el descharg<g ref="#abbr-er">&#x0315;</g> <g ref="#abbr-sunt">st&#x02BC;</g>
+ <g ref="#abbr-molt">ml&#x02BC;t</g> igneaus</l>
+<l>		e t sunt uenu ala cite</l>
+<l>		d esuz <g ref="#abbr-qui">q&#x0365;</g>il sunt áriu	e</l>
+	
+
+	<pb n="90r"/>
+<l>		c hes un burgeis sunt herberge</l>
+<l>		c hi <g ref="#abbr-molt">ml&#x02BC;t</g> ert riches de marche</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> par mer sun marche menout</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> charge aueit mer passeout</l>
+<l>		e n la sue nef passere<g type="ligature-nt">nt</g></l>
+<l>		L i marcha<g ref="#abbr-nasal-tilde">&#x0303;</g>t q&#x0365; la chatere<g type="ligature-nt">nt</g></l>
+<l>		F loires q&#x0365; blancheflur <g ref="#abbr-que">q&#x0303;</g>rrei	t</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> pur <metamark function="transposition" place="above">&#x2033;</metamark> <seg xml:id="seg1" corresp="#seg2">si</seg> <metamark function="transposition" place="above">&#x2033;</metamark> <seg xml:id="seg2" corresp="#seg1">qui</seg> dolenz esteit</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> en sa maisun la nuit uirent</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> fors de mer eissu furent</l>
+<l>		p ar lui co <g ref="#abbr-qui">q&#x0365;</g>t reorra nuuelle</l>
+<l>		F loires iloc de la pulcel	e</l>
+<l>		L i chamb<g ref="#abbr-er">&#x0315;</g>laíns fait les <g ref="#abbr-tru">t&#x0367;</g>sseaus</l>
+<l>		d escharg<g ref="#abbr-er">&#x0315;</g> <pc>·</pc> <g ref="#abbr-et">&#xF158;</g> puis les cheuaus</l>
+<l>		B ien astabler <pc>·</pc> <g ref="#abbr-et">&#xF158;</g> afferrer</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> de litere <g ref="#abbr-et">&#xF158;</g> de manger</l>
+<l>		e n cel ostel trestut truuerent</l>
+<l>		<g ref="#abbr-Qua">Q&#x1DD3;</g> n<g ref="#abbr-que">q&#x0303;</g> al <add place="left" hand="scribe2">lur</add> os <del type="erasure">li</del> demandere<g type="ligature-nt">nt</g></l>
+<l>		F ain <g ref="#abbr-et">&#xF158;</g> auéine <pc>·</pc> <g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-molt">ml&#x02BC;t</g> bon<add place="above">s</add> uíns</l>
+<l>		c har [s]alee fresche <g ref="#abbr-et">&#xF158;</g> poucins</l>
+<l>		L u mang<g ref="#abbr-er">&#x0315;</g> <seg xml:id="seg3" corresp="#seg4">fait</seg> <metamark function="transposition" place="above">&#x2033;</metamark> <seg xml:id="seg4" corresp="#seg3">unt</seg> <metamark function="transposition" place="above">&#x2033;</metamark> <g ref="#abbr-molt">ml&#x02BC;t</g> hast<g ref="#abbr-er">&#x0315;</g></l>
+<l>		c har t<g ref="#abbr-ra">&#x1DD3;</g>uaille sunt <g ref="#abbr-molt">ml&#x02BC;t</g> <g ref="#abbr-per">&#xA751;</g>
+ mer</l>
+<l>		L i port esteit al amiraill</l>
+<l>		M eint hom í ad úú trauaill</l>
+<l>		&#xE33A; seit a dreit ú seit á tor 	t</l>
+<l>		T ut lur estout duner al port</l>
+<l>		L a siste part de lur aueir</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> puis iurer <g ref="#abbr-que">q&#x0303;</g> il dient ueir</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> rendre tut áda<g ref="#abbr-nasal-tilde">&#x0303;</g>marsile</l>
+<l>		c il q&#x0365; maistres <g ref="#abbr-est">&#x223B;</g> <g type="ligature-de">de</g> la uile</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> cel aueir ourent rendu</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> lur mang<g ref="#abbr-er">&#x0315;</g> a <g ref="#abbr-pre">p&#x0305;</g>
+ste F	u</l>
+<l>		d unc unt laue <g ref="#abbr-et">&#xF158;</g> su<g ref="#abbr-nasal-tilde">&#x0303;</g>t assi	s</l>
+<l>		e l plus bel lui unt <pc>·</pc> F <pc>·</pc> mis</l>
+<l>		I l un<add place="above">t</add> á mang<g ref="#abbr-er">&#x0315;</g> richeme<g type="ligature-nt">nt</g></l>
+<l>		<g ref="#abbr-et">&#xF158;</g> si maniument leeme<g type="ligature-nt">nt</g></l>
+<l>		<g type="pilcrow">&#x00A7;</g> M ais floires <g ref="#abbr-molt">ml&#x02BC;t</g> poi mangat</l>
+<l>		p ur samie dunt il pensat</l>
+<l>		L i ostes sest á parceu	t</l>
+<l>		<g ref="#abbr-Qui">Q&#x0365;</g> l nest pas lez <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ l[a]t ueut</l>
+<l>		S ire fait co mest á uis</l>
+<l>		p<g ref="#abbr-or">&#xF1C2;</g> <g ref="#abbr-vostre">ur&#x0303;e</g>
+ auair estes pensis</l>
+<l>		p ur la custume <g ref="#abbr-que">q&#x0303;</g> <g ref="#abbr-trop">t&#x0366;p</g> <g ref="#abbr-est">&#x223B;</g> <g ref="#abbr-grant">gn&#x1DD3;t</g></l>
+<l>		I o pens del sire dist lenfant</l>
+<l>		L i ostes dit tut autre tel</l>
+<l>		V i io lautrer en cest ostel</l>
+<l>		c i uint lautrer une <g ref="#abbr-con">&#xA76F;</g>
+paigne</l>
+<l>d e marchanz co <g ref="#abbr-qui">q&#x0365;</g>d despai<g ref="#abbr-nasal-tilde">&#x0303;</g>gne</l>
+		
+		<cb/>
+		
+<l>		M ener par mer ai cest port</l>
+<l>		c o mest uis si dreit recort</l>
+<l>		V ne pulcele ki si duleit</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> ensement se cunteneit</l>
+<l>		I o loi num<g ref="#abbr-er">&#x0315;</g> blancheflur</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> en ma nef menot <g ref="#abbr-grant">gn&#x1DD3;t</g> dolur</l>
+<l>		Y ci al mang<g ref="#abbr-er">&#x0315;</g> suspirout</l>
+<l>		V n sun ami regretout</l>
+<l>		F loires <g ref="#abbr-est">&#x223B;</g> lez de la nuuele</l>
+<l>		&#xE33A; mane<subst><del type="dot-below">i</del><add place="above" hand="scribe2">in</add></subst>t fait il la pulcele</l>
+<l>		c il respunt <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ sen alere<g type="ligature-nt">nt</g></l>
+<l>		e n babilonie la menerent</l>
+<l>		F loires len dune unbon ma<g ref="#abbr-nasal-tilde">&#x0303;</g>tel</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> un hanap dargent bel</l>
+<l>		S ire fait il co uoill<g ref="#abbr-que">q&#x0303;</g> aiez</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> <pc>·</pc> B <pc>·</pc> gre en sa <subst><del type="erasure">g</del><add place="above" hand="scribe2">c</add></subst>e	z</l>
+<l>		k ar li sui ci uenu <g ref="#abbr-que">q&#x0303;</g>rre</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> <seg xml:id="seg5" corresp="#seg6">emble</seg> <metamark function="transposition" place="above">&#x2033;</metamark> <seg xml:id="seg6" corresp="#seg5">fu</seg> <metamark function="transposition" place="above">&#x2033;</metamark> me de materre</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> del mang<g ref="#abbr-er">&#x0315;</g> su<g ref="#abbr-nasal-tilde">&#x0303;</g>t suffisant</l>
+<l>		L es napes ostent li seriant</l>
+<l>		d unc funt lur liz áparaillier</l>
+<l>		L as sunt si se uu<g ref="#abbr-nasal-tilde">&#x0303;</g>t cu<subst><del type="dot-below">ge   R</del><add place="above" hand="scribe2">cher</add></subst></l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> floires dort sun q<add place="above">or</add> ueille</l>
+<l>		o d <pc>·</pc> B <pc>·</pc> giue <g ref="#abbr-et">&#xF158;</g> cunseille</l>
+<l>		M eis sun dormir e<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ mult petit</l>
+<l>		a l matin <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ le iur ui<g ref="#abbr-nasal-tilde">&#x0303;</g>t</l>
+<l>		S es cu<g ref="#abbr-nasal-tilde">&#x0303;</g>pai<g ref="#abbr-nasal-tilde">&#x0303;</g>gnu<g ref="#abbr-nasal-tilde">&#x0303;</g>s ad asueillez</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> il se su<g ref="#abbr-nasal-tilde">&#x0303;</g>t aparaille	z</l>
+<l>		a l dreit chemi<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ su<g ref="#abbr-nasal-tilde">&#x0303;</g>t ale</l>
+<l>		V ers babilonie la cite</l>
+<l>		c ele nuit a un chastel ui<g ref="#abbr-nasal-tilde">&#x0303;</g>drent</l>
+<l>		&#xE33A; il mult herbege fure<g type="ligature-nt">nt</g></l>
+<l>		<g ref="#abbr-et">&#xF158;</g> le dema<add place="above">i</add>n<del type="erasure">[...]</del> ben <g ref="#abbr-per">&#xA751;</g>
+ matin</l>
+<l>		S e remetent en lur chemin</l>
+<l>		L a nuit se resunt herbege</l>
+<l>		e n un uile queout marche</l>
+<l>		&#xE33A; il reoient de li parler</l>
+<l>		p ar iluc la uit hum passer</l>
+<l>		a l terz iur deuant uesprer</l>
+<l>		p ar uindrent á un braz de mer</l>
+<l>		L enfer la nume<g ref="#abbr-nasal-tilde">&#x0303;</g>t el pai	s</l>
+<l>		d el autre part <g ref="#abbr-est">&#x223B;</g> munt felis</l>
+<l>		&#xE33A; n chastel riche <pc>·</pc> ú cil maneit</l>
+<l>		k i la gn<g ref="#abbr-nasal-tilde">&#x0303;</g>t utre cunueit</l>
+<l>		c har ert reide <g ref="#abbr-et">&#xF158;</g> par fu<g type="ligature-nt">nt</g></l>
+<l>		I l ni aueit ne planche ne punt</l>
+<l>		M ais al riuache un corn aueit</l>
+<l>		k i aun pel pendu asteit</l>
+	
+	<pb n="90v"/>
+<l>		O d q&#x0365; li uenant cornouent</l>
+<l>		k i le notoner ápelouent</l>
+<l>		V n deus le corne <pc>·</pc> <g ref="#abbr-et">&#xF158;</g> illes ot</l>
+<l>		a eus uint si tost cum pot</l>
+<l>		L i meistre sist en un batel</l>
+<l>		o d sei quill<subst><del type="erasure" ana="dot-below">[...]</del><add place="above">i</add></subst> lu iuuencel</l>
+<l>		e t li serianz les noteners</l>
+<l>		e n la nef t<g ref="#abbr-ra">&#x1DD3;</g>ient les sumer s</l>
+<l>		á tant cumencent a nage r</l>
+<l>		e t marcheant <g ref="#abbr-et">&#xF158;</g> notene	r</l>
+<l>		L i meistre esguarde uer<add place="above">s</add> lenfa<g type="ligature-nt">nt</g></l>
+<l>		G entilz ho<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ semble ensun se<g ref="#abbr-nasal-tilde">&#x0303;</g>bla<g type="ligature-nt">nt</g></l>
+<l>		p uis li dit sire cu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ errez uus</l>
+<l>		M archant sui ial ueez uu s</l>
+<l>		e n babilonie uoill aler</l>
+<l>		p ur uendre <g ref="#abbr-et">&#xF158;</g> pur achat<g ref="#abbr-er">&#x0315;</g></l>
+<l>		S i en cest chastel mesun auez</l>
+<l>		á nuit mais n<g ref="#abbr-us">&#xA770;</g>
+ h<g ref="#abbr-er">&#x0315;</g>berge	z</l>
+<l>		p ar fei fait il sire si ai</l>
+<l>		V olu<g ref="#abbr-nasal-tilde">&#x0303;</g>tiers uus í herbeg<g ref="#abbr-er">&#x0315;</g>ra	i</l>
+<l>		M ais fait il baus p<g ref="#abbr-or">&#xF1C2;</g> co le diseie</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> murne <g ref="#abbr-et">&#xF158;</g> pensif u<g ref="#abbr-us">&#xA770;</g>
+ uei	e</l>
+<l>		t ut ensement uí ío u an</l>
+<l>		e n tur la feste seint iohan</l>
+<l>		c einz une pulcele entrer</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> tut ensement fort plurer</l>
+<l>		M ais <g ref="#abbr-molt">ml&#x02BC;t</g> fait il la resemblez</l>
+<l>		S un frere estre bie<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ purrie	z</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> il loid sun chef drecha</l>
+<l>		S ire fait il ú ennala</l>
+<l>		e n babilonie fud menee</l>
+<l>		L amiraill lad achate e</l>
+<l>		F loires lad <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ <g ref="#abbr-qui">q&#x0365;</g>l poet celee</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ il furent a riu	e</l>
+<l>		o d lui la nuit sunt herb<g ref="#abbr-er">&#x0315;</g>ge</l>
+<l>		L en <g type="ligature-de">de</g> main <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ il <g ref="#abbr-pre">p&#x0305;</g>
+nt cunge</l>
+<l>		a sun ost cent souz duna</l>
+<l>		e n apres <g ref="#abbr-molt">ml&#x02BC;t</g> li preia</l>
+<l>		Q<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ n si babilonie oust</l>
+<l>		a mi ki aider li poust</l>
+<l>		k e par enseignes lui mandast</l>
+<l>		<g ref="#abbr-Qua">Q&#x1DD3;</g> sun busui<g ref="#abbr-nasal-tilde">&#x0303;</g>g le cunseillast</l>
+<l>		S ire dit il ainz ke uengez</l>
+<l>		e n babilonie <pc>·</pc> si truuere	z</l>
+<l>		V n flod deewe <g ref="#abbr-molt">ml&#x02BC;t</g> <g ref="#abbr-per">&#xA751;</g>
+fund</l>
+<l>		<g ref="#abbr-Quant">Q&#x1DD3; nt</g> en aurez passe le pund</l>
+<l>		d u<g ref="#abbr-nasal-tilde">&#x0303;</g>c <g ref="#abbr-tru">t&#x0367;</g>uerez lu pontene	r</l>
+<l>		M is cu<g ref="#abbr-nasal-tilde">&#x0303;</g>paig <g ref="#abbr-est">&#x223B;</g> si mad <g ref="#abbr-molt">ml&#x02BC;t</g> cher</l>
+		
+		<cb/>
+		
+<l>		e n babilonie <g ref="#abbr-est">&#x223B;</g> riches hom</l>
+<l>		G rant tur í ad <g ref="#abbr-et">&#xF158;</g> forte maisun</l>
+<l>		d e nos dous porz sum<g ref="#abbr-us">&#xA770;</g>
+ <g ref="#abbr-con">&#xA76F;</g>
+painz</l>
+<l>		<g ref="#abbr-per">&#xA751;</g>
+ mi partu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ tuz nos gain	z</l>
+<l>		c est men anel li portere	z</l>
+<l>		d e mai part si li dirre	z</l>
+<l>		<g ref="#abbr-Qui">Q&#x0365;</g> l uus cu<g ref="#abbr-nasal-tilde">&#x0303;</g>seillt cu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ meuz purrad</l>
+<l>		I o <g ref="#abbr-qui">q&#x0365;</g>d quil uus herberg<g ref="#abbr-er">&#x0315;</g>ra	d</l>
+<l>		a í tant sest <g type="ligature-de">de</g> lui part	i</l>
+<l>		a l pund <g ref="#abbr-est">&#x223B;</g> uenu ainz mid	i</l>
+<l>		L e pund passent si uunt aua<g type="ligature-nt">nt</g></l>
+<l>		L e puntener <g ref="#abbr-tru">t&#x0367;</g>uent sea<g type="ligature-nt">nt</g></l>
+<l>		a l ped del pund desucz un arb<g ref="#abbr-re">&#x0364;</g></l>
+<l>		s ur un perrun ki fud <g type="ligature-de">de</g> marbre</l>
+<l>		I l est <g ref="#abbr-molt">ml&#x02BC;t</g> richement ue<g type="ligature-st">st</g>u</l>
+<l>		<g ref="#abbr-pro">&#xA753;</g>
+ dom lur <g ref="#abbr-per">&#xA751;</g>
+rt <g ref="#abbr-quant">q&#x1DD3;nt</g>
+ lunt ueu</l>
+<l>		I a hu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ al punt ne passast</l>
+<l>		<g ref="#abbr-Qua">Q&#x1DD3;</g> tre deners ne li duna<g type="ligature-st">st</g></l>
+<l>		<g ref="#abbr-et">&#xF158;</g> autre tant de cheua	l</l>
+<l>		F loires salue lú uassa	l</l>
+<l>		d e tut ses d<g ref="#abbr-nasal-tilde">&#x0303;</g>s lad salu	e</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> plus li ad lanel dun	e</l>
+<l>		e n sei<g ref="#abbr-nasal-tilde">&#x0303;</g>gnes de sun <g ref="#abbr-con">&#xA76F;</g>
+pai<g ref="#abbr-nasal-tilde">&#x0303;</g>gniur</l>
+<l>		<g ref="#abbr-Qui">Q&#x0365;</g> l le herberge en sa maisun</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> á sun busui<g ref="#abbr-nasal-tilde">&#x0303;</g>g li cu<g ref="#abbr-nasal-tilde">&#x0303;</g>seillt</l>
+<l>		S i cu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ samur auer uulei t</l>
+<l>		I l ad lanel ben cune	u</l>
+<l>		R eceu lad ben lenf	u</l>
+<l>		L e son anel li ad baill	e</l>
+<l>		á sa fe<g ref="#abbr-nasal-tilde">&#x0303;</g>me lad enue	e</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> ben le herbeit pur samur</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> puis li ad mustre <del type="erasure">[...]</del> sa tur</l>
+<l>		e s le uus al ostel uen	u</l>
+<l>		p ur anel sunt ben rece	u</l>
+<l>		I l se herbergent leeme<g type="ligature-nt">nt</g></l>
+<l>		á stables truuent á tale<g type="ligature-nt">nt</g></l>
+<l>		o r <g ref="#abbr-est">&#x223B;</g> floires en lacite</l>
+<l>		&#xE33A; estre auait tant desir	e</l>
+<l>		h erberge c<add place="above">h</add>es le ponten<g ref="#abbr-er">&#x0315;</g></l>
+<l>		d e cunseill ad <g ref="#abbr-molt">ml&#x02BC;t</g> <g ref="#abbr-grant">gn&#x1DD3;t</g> mest<g ref="#abbr-er">&#x0315;</g></l>
+<l>		c har ia seit co <g ref="#abbr-que">q&#x0303;</g> uenu soit</l>
+<l>		L a ú tant uenir desireit</l>
+<l>		I l ne set si cunseill nanad</l>
+<l>		c onfaitement se cun<add place="above">ten</add>drad</l>
+<l>		S auei<add place="above">r</add> se met en sun curage</l>
+<l>		<g ref="#abbr-Que1">Q&#x0303;</g> lui rememb<g ref="#abbr-re">&#x0364;</g> sun parag	e</l>
+<l>		<g ref="#abbr-et">&#xF158;</g> cu<g ref="#abbr-nasal-tilde">&#x0303;</g>
+ il erre folement</l>
+<l>		f ait ele char ten tent</l>
+	
+
+	
+</body>
+  <back>
+  	<div type="abbreviations">
+        <head>List of Abbreviations</head>
+        <list type="abbreviations">
+		  <item xml:id="abbr-et">
+            <abbr type="et">&#xF158;</abbr> stands for <expan>et</expan>
+          </item>
+          <item xml:id="abbr-quant">
+  			<abbr type="quant">q&#x1DD3;nt</abbr> stands for <expan>quant</expan>
+		  </item>
+		  <item xml:id="abbr-Quant">
+  			<abbr type="quant">Q&#x1DD3; nt</abbr> stands for <expan>quant</expan>
+		  </item>
+		  <item xml:id="abbr-molt">
+  			<abbr type="molt">ml&#x02BC;t</abbr> stands for <expan>molt</expan>
+		  </item>
+		  <item xml:id="abbr-est">
+  			<abbr type="est">&#x223B;</abbr> stands for <expan>est</expan>
+		  </item>
+		  <item xml:id="abbr-qui">
+  			<abbr type="qui">q&#x0365;</abbr> stands for <expan>qui</expan>
+		  </item>	 
+		  <item xml:id="abbr-Qui">
+  			<abbr type="Qui">Q&#x0365;</abbr> stands for <expan>Qui</expan>
+		  </item>		  
+		  <item xml:id="abbr-Que">
+  			<abbr type="Que">Q&#x0303;</abbr> stands for <expan>Que</expan>
+		  </item>
+		  <item xml:id="abbr-que">
+  			<abbr type="que">q&#x0303;</abbr> stands for <expan>que</expan>
+		  </item>			  
+		  <item xml:id="abbr-qua">
+  			<abbr type="qua">q&#x1DD3;</abbr> stands for <expan>qua</expan>
+		  </item>		   
+		  <item xml:id="abbr-or">
+  			<abbr type="or">&#xF1C2;</abbr> stands for <expan>or, ur</expan>
+		  </item>	 
+		  <item xml:id="abbr-us">
+  			<abbr type="us">&#xA770;</abbr> stands for <expan>us</expan>
+		  </item>
+		  <item xml:id="abbr-con">
+  			<abbr type="con">&#xA76F;</abbr> stands for <expan>con</expan>
+		  </item>
+		  <item xml:id="abbr-pre">
+  			<abbr type="pre">p&#x0305;</abbr> stands for <expan>pre</expan>
+		  </item>
+		  <item xml:id="abbr-pro">
+  			<abbr type="pro">&#xA753;</abbr> stands for <expan>pro</expan>
+		  </item>
+		  <item xml:id="abbr-sunt">
+  			<abbr type="sunt">st&#x02BC;</abbr> stands for <expan>sunt</expan>
+		  </item>	
+		  <item xml:id="abbr-per">
+  			<abbr type="per">&#xA751;</abbr> stands for <expan>per and par</expan>
+		  </item>
+		  <item xml:id="abbr-vostre">
+  			<abbr type="vostre">ur&#x0303;e</abbr> stands for <expan>vostre</expan>
+		  </item>
+		  <item xml:id="abbr-Vostre">
+  			<abbr type="Vostre">V r&#x0303;e</abbr> stands for <expan>Vostre</expan>
+		  </item>
+		  <item xml:id="abbr-nostre">
+  			<abbr type="nostre">nr&#x0303;e</abbr> stands for <expan>nostre</expan>
+		  </item>	
+		  <item xml:id="abbr-dunc">
+  			<abbr type="dunc">dc&#x0303;</abbr> stands for <expan>dunc</expan>
+		  </item>		  	  	
+		  <item xml:id="abbr-pri">
+  			<abbr type="pri">p&#x0365;</abbr> stands for <expan>pri</expan>
+		  </item>	
+		  <item xml:id="abbr-cri">
+  			<abbr type="cri">c&#x0365;</abbr> stands for <expan>cri</expan>
+		  </item>	
+		  <item xml:id="abbr-tre">
+  			<abbr type="tre">t&#x0364;</abbr> stands for <expan>tre</expan>
+		  </item>	
+		  <item xml:id="abbr-nasal-tilde">
+ 		    <abbr type="nasal">&#x0303;</abbr> stand for <expan> n, en, m </expan>
+		  </item>		
+		  <item xml:id="abbr-trop">
+  			<abbr type="trop">t&#x0366;p</abbr> stands for <expan>trop</expan>
+		  </item>	
+		  <item xml:id="abbr-tro">
+  			<abbr type="tro">t&#x0366;</abbr> stands for <expan>tro</expan>
+		  </item>	
+		  <item xml:id="abbr-gra">
+  			<abbr type="gra">g&#x1DD3;</abbr> stands for <expan>gra</expan>
+		  </item>		
+		  <item xml:id="abbr-grant">
+  			<abbr type="grant">gn&#x1DD3;t</abbr> stands for <expan>grant</expan>
+		  </item>	
+		  <item xml:id="abbr-Qua">
+  			<abbr type="Qua">Q&#x1DD3;</abbr> stands for <expan>Qua</expan>
+		  </item>	
+		  <item xml:id="abbr-tra">
+  			<abbr type="tra">t&#x1DD3;</abbr> stands for <expan>tra</expan>
+		  </item>		
+		  <item xml:id="abbr-christi">
+  			<abbr type="christi">x&#xA751;i</abbr> stands for <expan>Christi</expan>
+		  </item>	
+		  <item xml:id="abbr-er">
+  			<abbr type="er">&#x0315;</abbr> stands for <expan>er</expan>
+		  </item>	
+		  <item xml:id="abbr-ra">
+  			<abbr type="ra">&#x1DD3;</abbr> stands for <expan>ra</expan>
+		  </item>	
+		  <item xml:id="abbr-gro">
+  			<abbr type="gro">g&#x0366;</abbr> stands for <expan>gro</expan>
+		  </item>	
+		  <item xml:id="abbr-tru">
+  			<abbr type="tru">t&#x0367;</abbr> stands for <expan>tru</expan>
+		  </item>	
+		  <item xml:id="abbr-re">
+  			<abbr type="re">&#x0364;</abbr> stands for <expan>re</expan>
+		  </item>	
+		  <item xml:id="abbr-que2">
+  			<abbr type="que2">q&#x0364;</abbr> stands for <expan>que</expan>
+		  </item>	
+		  <item xml:id="abbr-Tro">
+  			<abbr type="Tro">T&#x0366;</abbr> stands for <expan>Tro</expan>
+		  </item>		  		  		  	 		  		  		  		  	  	  	    		  		  	   		
+        </list>
+      </div>
+  </back>
+</text>
+</TEI>
