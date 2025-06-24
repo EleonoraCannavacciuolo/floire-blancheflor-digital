@@ -62,7 +62,7 @@
       <button id="scrollToTop" title="Go to top"><i class="fa-solid fa-arrow-up"></i></button>
 
       <xsl:text disable-output-escaping="yes">
-        &lt;script src="../script.js"&gt;&lt;/script&gt;
+        &lt;script src="../js/scrollToTop.js"&gt;&lt;/script&gt;
       </xsl:text>
       
       </body>
