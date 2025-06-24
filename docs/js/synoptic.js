@@ -12,22 +12,35 @@ async function buildSynopticEdition() {
   const colB = document.getElementById("colB");
   const colV = document.getElementById("colV");
 
+  const fragA = document.createDocumentFragment();
+  const fragB = document.createDocumentFragment();
+  const fragV = document.createDocumentFragment();
+
   for (const row of alignment) {
     const alignId = row.align;
     const lineA = row.A ? aDoc.getElementById(row.A) : null;
     const lineB = row.B ? bDoc.getElementById(row.B) : null;
     const lineV = row.V ? vDoc.getElementById(row.V) : null;
 
-    function makeLineHTML(line, id) {
-      if (!line) return `<p class="line gap" data-align="\${id}">[gap]</p>`;
-      line.setAttribute("data-align", id);
-      return line.outerHTML;
-    }
+    const makeLine = (line, id) => {
+      const wrapper = document.createElement('div');
+      if (!line) {
+        wrapper.innerHTML = `<p class="line gap" data-align="${id}">[gap]</p>`;
+      } else {
+        line.setAttribute("data-align", id);
+        wrapper.appendChild(line.cloneNode(true));
+      }
+      return wrapper.firstElementChild;
+    };
 
-    colA.innerHTML += makeLineHTML(lineA, alignId);
-    colB.innerHTML += makeLineHTML(lineB, alignId);
-    colV.innerHTML += makeLineHTML(lineV, alignId);
+    fragA.appendChild(makeLine(lineA, alignId));
+    fragB.appendChild(makeLine(lineB, alignId));
+    fragV.appendChild(makeLine(lineV, alignId));
   }
+
+  colA.appendChild(fragA);
+  colB.appendChild(fragB);
+  colV.appendChild(fragV);
 
   document.querySelectorAll('.line').forEach(el => {
     el.addEventListener('click', () => {
