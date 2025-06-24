@@ -6,6 +6,7 @@
     exclude-result-prefixes="tei">
 
   <xsl:output method="xml" indent="yes" encoding="UTF-8" />
+  <xsl:param name="base-id"></xsl:param>
 
   <xsl:template match="/">
     <div class="edition-text">
@@ -23,6 +24,10 @@
   <!-- Template for lines -->
   <xsl:template match="tei:l">
     <p class="line">
+      <xsl:attribute name="id">
+        <xsl:value-of select="$base-id"/>
+        <xsl:number level="any" count="tei:l"/>
+      </xsl:attribute>
       <xsl:apply-templates/>
     </p>
   </xsl:template>

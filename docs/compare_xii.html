@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Synoptic View - Normalised Editions (12th Century)</title>
+    <title>Édition synoptique</title>
     <link rel="stylesheet" href="style.css">
     <style>
         .synoptic {
@@ -32,93 +32,34 @@
     </style>
 </head>
 <body>
+<div class="wrapper">
     <header>
-        <h1>Synoptic Edition</h1>
+        <h1>Édition synoptique</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
-                <li><a href="xii.html">12th Century Version</a></li>
-                <li><a href="xiii.html">13th Century Version</a></li>
+                <li><a href="xii.html">Version du XIIe siècle</a></li>
+                <li><a href="xiii.html">Version du XIIIe siècle</a></li>
             </ul>
         </nav>
     </header>
 
     <main>
         <div class="synoptic">
-            <div class="column" id="columnA">
-                <h2>Manuscript A</h2>
+            <div class="column" id="colA"> 
             </div>
-            <div class="column" id="columnB">
-               <h2>Manuscript B</h2>
+            <div class="column" id="colB">
             </div>
-            <div class="column" id="columnV">
-                <h2>Manuscript V</h2>
+            <div class="column" id="colV">
             </div>
-        </div>
-    <!--    <div class="synoptic">
-            <div class="column"  id="columnA">
-                <h2>A - BnF, fr. 375</h2>
-                <iframe src="xii/A_text-only.html"></iframe>
-            </div>
-            <div class="column" id="columnB">
-                <h2>B - BnF, fr. 1447</h2>
-                <iframe src="xii/B_text-only.html"></iframe>
-            </div>
-            <div class="column" id="columnV">
-                <h2>V (BAV, pal. lat. 1971</h2>
-                <iframe src="xii/V_text-only.html"></iframe>
-            </div>
-        </div>-->
+        </div> 
     </main>
 
     <footer>
-        <p>© 2025 Eleonora Cannavacciuolo. Digital Humanities Project.</p>
+        <p>© 2025 Eleonora Cannavacciuolo, Université de Genève</p>
     </footer>
-
-    <script>
-        // JavaScript to fetch the normalised text-only files
-    function loadText(divId, filePath) {
-        fetch(filePath)
-          .then(response => response.text())
-          .then(data => {
-              document.getElementById(divId).innerHTML += data;
-          })
-          .catch(error => console.error('Error loading text:', error));
-    }
-
-    loadText('columnA', 'xii/A_text-only.html');
-    loadText('columnB', 'xii/B_text-only.html');
-    loadText('columnV', 'xii/V_text-only.html');
-
-
-    const columnA = document.getElementById('columnA');
-    const columnB = document.getElementById('columnB');
-    const columnV = document.getElementById('columnV');
-
-    let isSyncing = false;
-
-    function syncScroll(source, targets) {
-        if (!isSyncing) {
-            isSyncing = true;
-            targets.forEach(target => {
-                target.scrollTop = source.scrollTop;
-            });
-            isSyncing = false;
-        }
-    }
-
-    columnA.addEventListener('scroll', () => {
-        syncScroll(columnA, [columnB, columnV]);
-    });
-
-    columnB.addEventListener('scroll', () => {
-        syncScroll(columnB, [columnA, columnV]);
-    });
-
-    columnV.addEventListener('scroll', () => {
-        syncScroll(columnV, [columnA, columnB]);
-    });
-</script>
+</div>
+    <script src="script.js"></script>
 
 </body>
 </html>

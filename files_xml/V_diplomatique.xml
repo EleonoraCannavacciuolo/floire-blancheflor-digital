@@ -12,7 +12,9 @@
       <p>Unpublished TEI encoding for scholarly use.</p>
     </publicationStmt>
     <sourceDesc>
-      <p>Transcribed from BAV, pal. lat. 1971.</p>
+      <bibl>
+        <idno type="gallica">https://digi.vatlib.it/view/MSS_Pal.lat.1971</idno>
+      </bibl>
     </sourceDesc>
   </fileDesc>
 </teiHeader>
@@ -21,7 +23,7 @@
 <text>
   <body>
 	
-<pb n="85r"/>
+<pb n="85r" facs="/"/>
 <l>		e t pur la part de la rein 	e</l>
 <l>		D e reguart dune la meschin		e</l>
 <l>		L a reine mult se fait l&#x0119;&#x0119;</l>
@@ -136,7 +138,7 @@ nt <g ref="#abbr-grant">gn&#x1DD3;t</g> cure</l>
 <l>		L iures sauent páenur 	s</l>
 <l>		&#xE33A; aperneit parler damurs</l>
 
-<pb n="85v"/>
+<pb n="85v" facs="/"/>
 
 <l>		e n co grantment se delitount</l>
 <l>		e n cel liure ki il apernou<g type="ligature-nt">nt</g></l>
@@ -256,7 +258,7 @@ mes ot apareille</l>
 <l>		I llur otrei á quel <g ref="#abbr-que">q&#x0303;</g> peine</l>
 <l>		L i reis sun chamb<g ref="#abbr-er">&#x0315;</g>lanc demeine</l>
 	 
-	<pb n="86r"/>
+	<pb n="86r" facs="/"/>
 <l>		L i ad charge <g ref="#abbr-et">&#xF158;</g> <g ref="#abbr-grant">gn&#x1DD3;t</g> cunre		i</l>
 <l>		T el cum astut a filz de re		i </l>
 <l>		<g type="pilcrow">&#x00A7;</g> e st le uus uenuz al chastel</l>
@@ -378,7 +380,7 @@ merain áá ge</l>
  <g ref="#abbr-pre">p&#x0305;</g>ndre</l>
 
 	
-<pb n="86v"/>
+<pb n="86v" facs="/"/>
 <l>		c il len menerent kar <g ref="#abbr-molt">ml&#x02BC;t</g> <g ref="#abbr-est">&#x223B;</g> bele</l>
 <l>		I á norrent <g type="ligature-de">de</g> <seg xml:id="seg7" corresp="#seg8">li</seg> <metamark function="transposition" place="above">&#x2033;</metamark> <seg xml:id="seg8" corresp="#seg7">mais</seg> <metamark function="transposition" place="above">&#x2033;</metamark> nuuele</l>
 <l>		I ssi en serru<g ref="#abbr-nasal-tilde">&#x0303;</g>
@@ -494,7 +496,7 @@ dreit marchez</l>
 <l>		<g ref="#abbr-et">&#xF158;</g> si sen fu<g ref="#abbr-nasal-tilde">&#x0303;</g>t ioiant <g ref="#abbr-et">&#xF158;</g> lez </l>
 <l>		c har a duble <g ref="#abbr-qui">q&#x0365;</g>dent guainn<g ref="#abbr-er">&#x0315;</g></l>
 
-<pb n="87r"/>
+<pb n="87r" facs="/"/>
 <l>		S i sen pount b<subst><del>o</del><add place="above">e</add></subst>n repeirer</l>
 <l>		L i marcha<g ref="#abbr-nasal-tilde">&#x0303;</g>t out bon ore</l>
 <l>		e n lur pais sen su<g ref="#abbr-nasal-tilde">&#x0303;</g>t ale</l>
@@ -611,7 +613,7 @@ dreit partie</l>
  parage</l>
 <l>		V nches dame <g type="ligature-de">de</g> nul ááge</l>
 
-<pb n="87v"/>
+<pb n="87v" facs="/"/>
 <l>		N e <seg xml:id="seg11" corresp="#seg12">plus</seg> <metamark function="transposition" place="above">&#x2033;</metamark> <seg xml:id="seg12" corresp="#seg11">fud</seg> <metamark function="transposition" place="above">&#x2033;</metamark> bele ne plus sage</l>
 <l>		M ort <g ref="#abbr-est">&#x223B;</g> <g ref="#abbr-pre">p&#x0305;</g>
 ciose gemme</l>
@@ -734,7 +736,7 @@ ceueit</l>
 <l>		c el cha<g ref="#abbr-nasal-tilde">&#x0303;</g>p ne receit pecheur</l>
 <l>		e n fer senz chala<g ref="#abbr-nasal-tilde">&#x0303;</g>ge í metreit</l>
 
-<pb n="88r"/>
+<pb n="88r" facs="/"/>
 <l>		L a en irrez beau filz tut dreit</l>
 <l>		<g type="pilcrow">&#x00A7;</g> M inos <pc>·</pc> thoas <pc>·</pc> ad ama<g ref="#abbr-nasal-tilde">&#x0303;</g>t<g ref="#abbr-us">&#xA770;</g></l>
 <l>		c il sunt iugeur de la <subst><del type="erasure" ana="dot-below">s</del><add place="above">i</add></subst>us</l>
@@ -860,7 +862,7 @@ st ouoc <g ref="#abbr-grant">gn&#x1DD3;t</g>erere<add place="above">i</add>t</l>
  mu<g ref="#abbr-nasal-tilde">&#x0303;</g>
  aler plus hasterez</l>
 
-<pb n="88v"/>
+<pb n="88v" facs="/"/>
 <l>		<g ref="#abbr-et">&#xF158;</g> mei <g ref="#abbr-et">&#xF158;</g> li plus tost reuerrez</l>
 <l>		<g type="pilcrow">&#x00A7;</g> F ilz <g ref="#abbr-quant">q&#x1DD3;nt</g>
  remeind<g ref="#abbr-re">&#x0364;</g> ne uule	z</l>
@@ -987,7 +989,7 @@ nt lanel sil en m<g ref="#abbr-er">&#x0315;</g>ci	e</l>
 <l>		L i reis li tout <g ref="#abbr-tre">t&#x0364;</g>
 is feiz le beise</l>
 
-<pb n="89r"/>
+<pb n="89r" facs="/"/>
 <l>		L a les uerrez amdous plurer</l>
 <l>		T ortre les puinz lur <g ref="#abbr-cri">c&#x0365;</g>
 ns tirer</l>
@@ -1099,7 +1101,7 @@ ueit ú char ú pain</l>
 <l>		F loires une cupe dor fin</l>
 <l>		e mplir ad fait de bon uín</l>
 
-<pb n="89v"/>
+<pb n="89v" facs="/"/>
 <l>		a d soste ad fait le prese<g type="ligature-nt">nt</g></l>
 <l>		p uis li dit dame icest u<g ref="#abbr-us">&#xA770;</g>
  re<del type="erasure">[...]</del>nt</l>
@@ -1223,7 +1225,7 @@ messe <g ref="#abbr-et">&#xF158;</g> sen fret demande</l>
 <l>		d esuz <g ref="#abbr-qui">q&#x0365;</g>il sunt áriu	e</l>
 	
 
-	<pb n="90r"/>
+	<pb n="90r" facs="/"/>
 <l>		c hes un burgeis sunt herberge</l>
 <l>		c hi <g ref="#abbr-molt">ml&#x02BC;t</g> ert riches de marche</l>
 <l>		<g ref="#abbr-et">&#xF158;</g> par mer sun marche menout</l>
@@ -1334,7 +1336,7 @@ paigne</l>
 <l>		M ais al riuache un corn aueit</l>
 <l>		k i aun pel pendu asteit</l>
 	
-	<pb n="90v"/>
+	<pb n="90v" facs="/"/>
 <l>		O d q&#x0365; li uenant cornouent</l>
 <l>		k i le notoner ápelouent</l>
 <l>		V n deus le corne <pc>·</pc> <g ref="#abbr-et">&#xF158;</g> illes ot</l>

@@ -13,7 +13,9 @@
       <p>Unpublished TEI encoding for scholarly use.</p>
     </publicationStmt>
     <sourceDesc>
-      <p>Transcribed from BnF, fr. 1447.</p>
+      <bibl>
+        <idno type="gallica">https://gallica.bnf.fr/ark:/12148/btv1b52513419n/</idno>
+      </bibl>
     </sourceDesc>
   </fileDesc>
 </teiHeader>
@@ -24,7 +26,7 @@
 
 
   
-  <pb n="193r"/>
+  <pb n="193r" facs="f393.item"/>
 <l>    C i<g ref="#abbr-con">&#xA76F;</g>mence le romanz de floire <pc>·</pc></l>
 <l>      <g ref="#abbr-et">&#xF158;</g> de blanche flor <pc>·</pc> </l>
 <l>    <hi rend="lettrine" style="line-height:6">S</hi>eignor baro<g ref="#abbr-nasal-tilde">&#x0303;</g></l>
@@ -169,7 +171,7 @@
 
   
 
-  <pb n="193v"/>
+  <pb n="193v" facs="f394.item"/>
     
 <l>    <g ref="#abbr-Qui">Q&#x0365;</g> ainz namerent crestien</l>
 <l>    T antost ocient les <g ref="#abbr-pre">p&#x02BC;</g>miers</l>
@@ -315,7 +317,7 @@
     
   
 
-  <pb n="194r"/>
+  <pb n="194r" facs="f395.item"/>
 
 <l>    A fait son fill <del type="dot-below">le</del> apareill<g ref="#abbr-er">&#x02BC;</g></l>
 <l>    A lescole uelt enuoier</l>
@@ -463,7 +465,7 @@
 
   
 
-  <pb n="194v"/>
+  <pb n="194v" facs="f396.item"/>
     
 <l>    <g ref="#abbr-Molt">M l&#x02BC;t</g> lieem<g ref="#abbr-nasal-tilde">&#x0303;</g>t lenenuoia</l>
 <l>    L idamoiseax tint le larde</l>
@@ -607,7 +609,7 @@
 <l>    A u<g ref="#abbr-us">&#xA770;</g> merent <g ref="#abbr-con">&#xA76F;</g> a mo<g ref="#abbr-nasal-tilde">&#x0303;</g> <g ref="#abbr-per">&#xA751;</g>e</l>
         
   
-  <pb n="195r"/>
+  <pb n="195r" facs="f397.item"/>
     
 <l>    <g ref="#abbr-Quant">Q n&#x0303;t</g> uos uolez <g ref="#abbr-que">q&#x02BC;</g> lenmocie</l>
 <l>    V<g ref="#abbr-us">&#xA770;</g> mauez tant soef norrie</l>
@@ -754,7 +756,7 @@
 
   
   
-  <pb n="195v"/>
+  <pb n="195v" facs="f398.item"/>
     
 <l>    <g ref="#abbr-Quar">Q r&#x1DD3;</g> nese doit nul escuier</l>
 <l>    A rm<g ref="#abbr-er">&#x02BC;</g> en<g ref="#abbr-con">&#xA76F;</g>tre <g ref="#abbr-chevalier">ch&#x02BC;r</g></l>
@@ -899,7 +901,7 @@
 <l>    <g ref="#abbr-et">&#xF158;</g> dusieges fure<g ref="#abbr-nasal-tilde">&#x0303;</g>t fors mis</l>
   
   
-  <pb n="196r"/>
+  <pb n="196r" facs="f399.item"/>
 <l>    O uuos les auiez assis</l>
 <l>    S ire p<g ref="#abbr-or">&#xF1C2;</g> icel <g ref="#abbr-pre">p&#x02BC;</g>mier <g ref="#abbr-per">&#xA751;</g>e</l>
 <l>    <g ref="#abbr-et">&#xF158;</g> p<g ref="#abbr-or">&#xF1C2;</g> la <g ref="#abbr-pre">p&#x02BC;</g>meraine m<g ref="#abbr-er">&#x02BC;</g>e</l>
@@ -1042,7 +1044,7 @@
 <l>    M adienot cainte <pc>·</pc> une espee</l>
   
  
-  <pb n="196v"/>
+  <pb n="196v" facs="f400.item"/>
 <l>    I lnot sibone enla<g ref="#abbr-con">&#xA76F;</g>tree</l>
 <l>    F ors cune <g ref="#abbr-que">q&#x02BC;</g> floires en a</l>
 <l>    <g ref="#abbr-Que">Q&#x02BC;</g> ses paroilz li<g ref="#abbr-pre">p&#x02BC;</g>senta</l>
@@ -1187,7 +1189,7 @@
 <l>    <g ref="#abbr-Qui">Q&#x0365;</g> son <g ref="#abbr-con">&#xA76F;</g>paigno<g ref="#abbr-nasal-tilde">&#x0303;</g> touch<g ref="#abbr-er">&#x02BC;</g>oit</l>
   
  
-  <pb n="197r"/>
+  <pb n="197r" facs="f401.item"/>
 <l>    T ant dis <g ref="#abbr-con">&#xA76F;</g>me apie seroit</l>
 <l>    O umo<g ref="#abbr-nasal-tilde">&#x0303;</g> cheual me re<g ref="#abbr-nasal-tilde">&#x0303;</g>deroiz</l>
 <l>    O uauue<g ref="#abbr-que">q&#x02BC;</g>s moi descendroiz</l>
@@ -1331,7 +1333,7 @@
 <l>    <g ref="#abbr-Quar">Q r&#x1DD3;</g> am<g ref="#abbr-er">&#x02BC;</g>ueille lauoit ch<g ref="#abbr-er">&#x02BC;</g> <pc>·</pc></l>
   
  
-  <pb n="197v"/>
+  <pb n="197v" facs="f402.item"/>
 <l>    L ors est sailliz el bon cheual</l>
 <l>    D ont ilot mort leseneschal</l>
 <l>    E<g ref="#abbr-nasal-tilde">&#x0303;</g> riant dist alaroine</l>
@@ -1476,7 +1478,7 @@
   
 
  
-  <pb n="198r"/>
+  <pb n="198r" facs="f403.item"/>
 <l>    <g ref="#abbr-Quant">Q n&#x0303;t</g> de<g ref="#abbr-pre">p&#x02BC;</g>s uirent sabeaute</l>
 <l>    S iliont <g ref="#abbr-molt">ml&#x02BC;t</g> tost demande</l>
 <l>    S ire font il uenez auant</l>
@@ -1617,7 +1619,7 @@
 <l>    <g ref="#abbr-Quar">Q r&#x1DD3;</g> <g ref="#abbr-molt">ml&#x02BC;t</g> samie desirroit</l>
   
  
-  <pb n="198v"/>
+  <pb n="198v" facs="f404.item"/>
 <l>    M o<g ref="#abbr-nasal-tilde">&#x0303;</g>strer li<g ref="#abbr-qui">&#x0365;</g>de lecoste</l>
 <l>    <g ref="#abbr-Qui">Q&#x0365;</g> ot este el champ naure</l>
 <l>    S on <g ref="#abbr-per">&#xA751;</g>e <g ref="#abbr-et">&#xF158;</g> sam<g ref="#abbr-er">&#x02BC;</g>e salue</l>
@@ -1758,7 +1760,7 @@
 <l>    H ai <pc>&#xF1F0;</pc> fait il seign<g ref="#abbr-or">&#xF1C2;</g> leon</l>
   
 
-  <pb n="199r"/>
+  <pb n="199r" facs="f405.item"/>
 <l>    T ant soliez estre felon</l>
 <l>    R iens ne pooit u<g ref="#abbr-er">&#x02BC;</g>r uos uenir</l>
 <l>    S euos e<g ref="#abbr-nasal-tilde">&#x0303;</g> auiez loisir</l>
@@ -1899,7 +1901,7 @@
 <l>    C este t<g ref="#abbr-er">&#x02BC;</g>re est <g ref="#abbr-molt">ml&#x02BC;t</g> couoitiee</l>
   
   
-  <pb n="199v"/>
+  <pb n="199v" facs="f406.item"/>
 <l>    <g ref="#abbr-et">&#xF158;</g> souent de g<g ref="#abbr-er">&#x02BC;</g>re marchiee</l>
 <l>    V<g ref="#abbr-er">&#x02BC;</g>s tel home <g ref="#abbr-qui">&#x0365;</g>er mariaige</l>
 <l>    S iluoit tahonte <g ref="#abbr-et">&#xF158;</g> ton domaige</l>
@@ -2040,7 +2042,7 @@
 <l>    S ilseuuele<g ref="#abbr-nasal-tilde">&#x0303;</g>t anos mell<g ref="#abbr-er">&#x02BC;</g></l>
   
   
-  <pb n="200r"/>
+  <pb n="200r" facs="f407.item"/>
 <l>    G ardez <g ref="#abbr-que">q&#x02BC;</g>nus nisoit auer</l>
 <l>    M ais mo<g ref="#abbr-nasal-tilde">&#x0303;</g>strez lor au<g ref="#abbr-bien">bn&#x02BC;</g> ferir</l>
 <l>    <g ref="#abbr-Que">Q&#x02BC;</g> ge puis mielz lecha<g ref="#abbr-nasal-tilde">&#x0303;</g>p ten<g ref="#abbr-er">&#x02BC;</g></l>
@@ -2181,7 +2183,7 @@
 <l>    B eax sire filz cedit lirois</l>
   
 
-  <pb n="200v"/>
+  <pb n="200v" facs="f408.item"/>
 <l>    T ant puis estre dole<g ref="#abbr-nasal-tilde">&#x0303;</g>z detoi</l>
 <l>    <g ref="#abbr-Que">Q&#x02BC;</g> st deuenue labeaute</l>
 <l>    <g ref="#abbr-Qui">Q&#x0365;</g> sitauoit e<g ref="#abbr-nasal-tilde">&#x0303;</g>lumine</l>
@@ -2323,7 +2325,7 @@
     
   
   
-  <pb n="201r"/>
+  <pb n="201r" facs="f409.item"/>
     
 <l>    S il uos al<g ref="#abbr-er">&#x02BC;</g>ent assaillir</l>
 <l>    <g ref="#abbr-Bien">B n&#x02BC;</g> les alastes acueillr</l>
@@ -2465,7 +2467,7 @@
 <l>    L idus remaine<g ref="#abbr-nasal-tilde">&#x0303;</g>t elmanoir</l>
   
   
-  <pb n="201v"/>
+  <pb n="201v" facs="f410.item"/>
     
 <l>    D it lamiral gel sai assez</l>
 <l>    M ais uendez la se uosuolez</l>
@@ -2606,7 +2608,7 @@
 <l>    M ais ladame sa<g ref="#abbr-per">&#xA751;</g>cut <g ref="#abbr-bien">bn&#x02BC;</g></l>
 <l>    <g ref="#abbr-Que">Q&#x02BC;</g> cil ne menia nule rien</l>
   
-  <pb n="202r"/>
+  <pb n="202r" facs="f411.item"/>
     
 <l>    I <pc>·</pc> poi regarde son seignor</l>
 <l>    S ili adit <g ref="#abbr-per">&#xA751;</g> grant amor</l>
@@ -2748,7 +2750,7 @@
 <l>    T restoz lemielz <g ref="#abbr-que">q&#x02BC;</g> saurai</l>
   
   
-  <pb n="202v"/>
+  <pb n="202v" facs="f412.item"/>
 
 <l>    L ors apela <pc>·</pc> i <pc>·</pc> siens<g ref="#abbr-er">&#x02BC;</g>iant</l>
 <l>    M oine les tost gelte comant</l>
@@ -2890,7 +2892,7 @@
 <l>    <g ref="#abbr-Qui">Q&#x0365;</g> ensator <del type="dot-below">le</del> la enfermee</l>
 
   
-  <pb n="203r"/>
+  <pb n="203r" facs="f413.item"/>
 
 <l>    X <pc>·</pc> anz a ia gel pleuis</l>
 <l>    <g ref="#abbr-Qua">Q &#x1DD3;</g> ceste porte fui ci mis</l>
@@ -3033,7 +3035,7 @@
      
   
 
-  <pb n="203v"/>
+  <pb n="203v" facs="f414.item"/>
     
 <l>    N eflor nerose <g ref="#abbr-que">q&#x02BC;</g> me uaut</l>
 <l>    <g ref="#abbr-Quant">Q n&#x0303;t</g> ge naiflo <pc>·</pc> nemechaut</l>
@@ -3176,7 +3178,7 @@
         
   
 
-  <pb n="204r"/>
+  <pb n="204r" facs="f415.item"/>
     
 <l>    <g ref="#abbr-Quant">Q n&#x0303;t</g> ilse fuasseurez</l>
 <l>    A rriers aulit senest alez</l>
@@ -3319,7 +3321,7 @@
     
   
 
-  <pb n="204v"/>
+  <pb n="204v" facs="f416.item"/>
     
 <l>    L a<g ref="#abbr-pre">p&#x02BC;</g>sse ro<g ref="#abbr-nasal-tilde">&#x0303;</g>t <g ref="#abbr-et">&#xF158;</g> uie<g ref="#abbr-nasal-tilde">&#x0303;</g>t aua<g ref="#abbr-nasal-tilde">&#x0303;</g>t</l>
 <l>    H ai <pc>&#xF1F0;</pc> fait il sire amirant</l>
@@ -3461,7 +3463,7 @@
 <l>    <g ref="#abbr-Que">Q&#x02BC;</g> nos esgarde<g ref="#abbr-nasal-tilde">&#x0303;</g>t mai<g ref="#abbr-nasal-tilde">&#x0303;</g>te ge<g ref="#abbr-nasal-tilde">&#x0303;</g>t</l>
   
   
-  <pb n="205r"/>
+  <pb n="205r" facs="f417.item"/>
     
 <l>    L aumacor uoit iost<g ref="#abbr-er">&#x02BC;</g> lestuet</l>
 <l>    <g ref="#abbr-Que">Q&#x02BC;</g> autre chose estre nepuet</l>
@@ -3604,7 +3606,7 @@
         
   
   
-  <pb n="205v"/>
+  <pb n="205v" facs="f418.item"/>
     
 <l>    F lo <pc>·</pc> seuit siiustisier</l>
 <l>    <g ref="#abbr-Molt">M l&#x02BC;t</g> lidut form<g ref="#abbr-nasal-tilde">&#x0303;</g>t ennuier</l>
