@@ -22,15 +22,36 @@
   </xsl:template>
 
   <!-- Template for lines -->
-  <xsl:template match="tei:l">
-    <p class="line">
-      <xsl:attribute name="id">
-        <xsl:value-of select="$base-id"/>
-        <xsl:number level="any" count="tei:l"/>
+<xsl:template match="tei:l">
+  <p class="line">
+    <xsl:attribute name="id">
+        <xsl:text>l</xsl:text>
+        <xsl:number count="tei:l" format="0000"  level="any"/>
       </xsl:attribute>
+
+    <xsl:variable name="lineNumber">
+      <xsl:number count="tei:l" level="any"/>
+    </xsl:variable>
+
+    <xsl:choose>
+      <xsl:when test="$lineNumber mod 5 = 0">
+        <span class="ln">
+          <xsl:value-of select="$lineNumber"/>
+        </span>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:text disable-output-escaping="yes">
+          &lt;span class="ln"&gt;&lt;/span&gt;
+        </xsl:text> 
+        
+      </xsl:otherwise>
+    </xsl:choose>
+
+    <span class="line-text">
       <xsl:apply-templates/>
-    </p>
-  </xsl:template>
+    </span>
+  </p>
+</xsl:template>
 
   <!-- Template for page breaks -->
   <xsl:template match="tei:pb">
