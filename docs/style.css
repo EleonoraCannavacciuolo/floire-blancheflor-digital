@@ -92,20 +92,21 @@ footer {
     width: 100%;
 }
 
-/* Synoptic view */
 .synoptic {
     display: flex;
-    gap: 10px;
-    margin-top: 20px;
+    gap: 2%; /* adjust space between columns */
+    max-width: 95vw; /* or 100% if you want full width */
+    margin: auto;
 }
 
 .column {
-    width: 32%;
+    width: 33%; /* try 33–35% */
+    min-width: 350px; /* prevents columns from becoming too small on narrow screens */
+    padding: 15px;
+    overflow-y: auto;
     background: white;
     border: 1px solid #ccc;
-    overflow-y: scroll;
     height: 80vh;
-    padding: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
