@@ -1,11 +1,11 @@
 
 async function buildSynopticEdition() {
-  const alignment = await fetch("/alignment.json").then(r => r.json());
+  const alignment = await fetch("alignment.json").then(r => r.json());
 
   const [aDoc, bDoc, vDoc] = await Promise.all([
-    fetch("/xii/A_text-only.html").then(r => r.text()).then(t => new DOMParser().parseFromString(t, "text/html")),
-    fetch("/xii/B_text-only.html").then(r => r.text()).then(t => new DOMParser().parseFromString(t, "text/html")),
-    fetch("/xii/V_text-only.html").then(r => r.text()).then(t => new DOMParser().parseFromString(t, "text/html")),
+    fetch("xii/A_text-only.html").then(r => r.text()).then(t => new DOMParser().parseFromString(t, "text/html")),
+    fetch("xii/B_text-only.html").then(r => r.text()).then(t => new DOMParser().parseFromString(t, "text/html")),
+    fetch("xii/V_text-only.html").then(r => r.text()).then(t => new DOMParser().parseFromString(t, "text/html")),
   ]);
 
   const colA = document.getElementById("colA");
