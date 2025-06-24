@@ -100,24 +100,18 @@ footer {
 }
 
 .column {
-    width: 33%; /* try 33–35% */
-    min-width: 350px; /* prevents columns from becoming too small on narrow screens */
-    padding: 15px;
-    overflow-y: auto;
+    flex: 1;
+    min-width: 400px; /* Adjust this value as needed */
+    padding: 20px;
     background: white;
     border: 1px solid #ccc;
+    overflow-y: auto;
     height: 80vh;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    word-break: normal;
+    white-space: normal;
 }
 
-.column h2 {
-    text-align: center;
-    background: #0055aa;
-    color: white;
-    margin-top: 0;
-    padding: 10px;
-    font-size: 1.3em;
-}
 
 .line {
   display: grid;
@@ -189,9 +183,11 @@ em {
 }
 
 .wrapper {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh; /* Full viewport height */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Full viewport height */
+    width: 100%;
+    max-width: 100%;  
 }
 
 #scrollToTop {
