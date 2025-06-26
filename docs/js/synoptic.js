@@ -25,7 +25,7 @@ async function buildSynopticEdition() {
     const makeLine = (line, id) => {
       const wrapper = document.createElement('div');
       if (!line) {
-        wrapper.innerHTML = `<p class="line gap" data-align="${id}">[gap]</p>`;
+        wrapper.innerHTML = `<p class="line gap" data-align="${id}">[---]</p>`;
       } else {
         line.setAttribute("data-align", id);
         wrapper.appendChild(line.cloneNode(true));
