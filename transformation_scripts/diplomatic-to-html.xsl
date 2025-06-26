@@ -166,4 +166,19 @@
     <xsl:value-of select="normalize-space(.)"/>
   </xsl:template>
 
+
+  <xsl:template match="tei:hi[@rend='lettrine']">
+    <span class="lettrine">
+      <xsl:apply-templates/>
+   </span>
+  </xsl:template>
+
+<xsl:template match="tei:hi[@rend='rubric']">
+  <span class="rubric">
+    <xsl:apply-templates/>
+  </span>
+</xsl:template>
+
 </xsl:stylesheet>
+
+

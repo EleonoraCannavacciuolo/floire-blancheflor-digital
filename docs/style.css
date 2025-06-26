@@ -152,7 +152,7 @@ main a:hover {
 
 em {
     font-style: italic;
-    font-weight: bold;
+    font-weight: normal;
     letter-spacing: 0.5px;
 }
 
@@ -188,6 +188,22 @@ em {
     min-height: 100vh; /* Full viewport height */
     width: 100%;
     max-width: 100%;  
+}
+
+.lettrine {
+  float: left;
+  font-size: 2.5em;
+  line-height: 1;
+  padding-right: 0.1em;
+  padding-left: 0.05em;
+  font-weight: bold;
+  vertical-align: top;
+}
+
+.rubric {
+  color: darkred;
+  font-style: normal;
+  font-weight: 500;
 }
 
 #scrollToTop {
@@ -275,6 +291,12 @@ em {
   font-size: 0.85em;
   box-shadow: 0 0 4px rgba(0,0,0,0.1);
   z-index: 1000;
+}
+
+#home-wrapper main {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
 }
 
 html{
