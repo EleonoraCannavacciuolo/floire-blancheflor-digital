@@ -129,6 +129,10 @@ footer {
   min-height: 1em;
 }
 
+.highlight {
+    background-color: yellow;
+}
+
 /* Links inside main */
 main a {
     color: #0055aa;
