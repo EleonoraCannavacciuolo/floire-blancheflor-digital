@@ -14,7 +14,7 @@
     
     <html xmlns="http://www.w3.org/1999/xhtml">
       <head>
-        <title>Floire et Blancheflor : édition diplomatique</title>
+        <title>Floire et Blancheflor : édition interprétative</title>
         <link rel="stylesheet" href="../style.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
@@ -38,7 +38,7 @@
         </aside>
         <div class="wrapper">
         <header>
-          <h1><em>Floire et Blancheflor</em> : édition diplomatique</h1>
+          <h1><em>Floire et Blancheflor</em> : édition interprétative</h1>
           <nav>
             <ul>
               <li><a href="../index.html">Home</a></li>
