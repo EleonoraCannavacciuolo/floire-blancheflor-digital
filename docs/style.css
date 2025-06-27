@@ -137,7 +137,7 @@ footer {
     flex: 1;
     min-width: 300px; /* Adjust this value as needed */
     padding: 20px;
-    background: white;
+    background: var(--color-background);
     border: 1px solid #ccc;
     overflow-y: auto;
     height: 80vh;
@@ -158,13 +158,13 @@ footer {
 
 .ln {
   text-align: right;
-  color: #888;
+  color: var(--color-text);
   font-size: 0.9em;
   min-height: 1em;
 }
 
 .highlight {
-    background-color: #fff8dc;
+    background-color: var(--color-accent);
 }
 
 /* Links inside main */
