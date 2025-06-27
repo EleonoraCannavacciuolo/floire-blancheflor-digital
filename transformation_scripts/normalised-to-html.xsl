@@ -38,10 +38,9 @@
         </aside>
         <div class="wrapper">
         <header>
-          <h1><em>Floire et Blancheflor</em> : édition interprétative</h1>
+          <h1><a href="../index.html"><em>Floire et Blancheflor</em></a> : édition interprétative</h1>
           <nav>
             <ul>
-              <li><a href="../index.html">Home</a></li>
               <li><a href="../xii.html">Version du XIIe siècle</a></li>
               <li><a href="../xiii.html">Version du XIIIe siècle</a></li>
             </ul>
