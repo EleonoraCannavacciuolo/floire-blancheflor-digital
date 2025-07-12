@@ -415,3 +415,118 @@ footer .footer-links a:hover img {
   word-break: normal;
   white-space: normal;
 }
+
+.manuscript-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1.5rem;
+  font-size: 1em;
+}
+
+.manuscript-table th,
+.manuscript-table td {
+  padding: 0.8em 1em;
+  border-bottom: 1px solid #ccc;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.manuscript-table th {
+  background-color: var(--color-primary);
+  color: var(--color-background);
+  font-weight: bold;
+}
+
+.manuscript-table td a.button-link {
+  margin-right: 0.5em;
+  white-space: nowrap;
+}
+
+.manuscript-table tr:hover {
+  background-color: #f3f3f3;
+}
+
+.manuscript-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+  margin-top: 1.5rem;
+}
+
+.manuscript-card.list-style {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 1rem;
+  padding: 1.2rem 1.5rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+  gap: 1.5rem;
+}
+
+.manuscript-card.list-style:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+}
+
+.manuscript-card.list-style .sigle {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--color-primary);
+  flex-shrink: 0;
+  width: 3rem;
+  text-align: center;
+}
+
+.manuscript-card.list-style .description {
+  font-size: 1em;
+  color: var(--color-secondary);
+  flex-grow: 1;
+}
+
+.manuscript-card .card-buttons.vertical {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+
+.manuscript-card .card-buttons.vertical a {
+  width: max-content;
+}
+
+/* Edition links */
+.edition-link {
+  padding: 0.4em 0.8em;
+  background-color: #f2f2f2;
+  color: var(--color-primary);
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 0.9em;
+  transition: background-color 0.3s ease;
+}
+
+.edition-link:hover {
+  background-color: var(--color-accent);
+  color: white;
+  border-color: var(--color-accent);
+}
+
+/* Digitized link */
+.digitized-link {
+  color: var(--color-secondary);
+  text-decoration: none;
+}
+
+.digitized-link i {
+  margin-right: 0.3em;
+  font-size: 0.75em;
+}
+
+.digitized-link:hover {
+  text-decoration: underline;
+  color: var(--color-accent);
+}
