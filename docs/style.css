@@ -390,7 +390,7 @@ footer .footer-links a:hover img {
 /*==========================================
   Home Page Specific
 ==========================================*/
-#home-wrapper main {
+#home-wrapper {
   max-width: 800px;
   margin: 0 auto;
   text-align: justify;
