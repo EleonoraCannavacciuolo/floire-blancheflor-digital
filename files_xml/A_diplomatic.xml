@@ -5,7 +5,7 @@
 <teiHeader>
   <fileDesc>
     <titleStmt>
-      <title>Diplomatic Edition of "Floire et Blancheflor" in BnF, fr. 375</title>
+      <title>Edition diplomatique du manuscrit BnF, fr. 375</title>
       <editor>Eleonora Cannavacciuolo</editor>
     </titleStmt>
     <publicationStmt>
@@ -14,6 +14,9 @@
     <sourceDesc>
 	    <bibl>
 	      <idno type="gallica">https://gallica.bnf.fr/ark:/12148/btv1b10510319x/</idno>
+	      <idno type="manuscriptCode">A</idno>
+	      <idno type="normalised">A_normalised.html</idno>
+	      <idno type="diplomaticTEI">A_diplomatic.xml</idno>	      
 	    </bibl>
     </sourceDesc>
   </fileDesc>

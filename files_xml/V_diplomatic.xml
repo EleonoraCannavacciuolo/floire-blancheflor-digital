@@ -5,7 +5,7 @@
 <teiHeader>
   <fileDesc>
     <titleStmt>
-      <title>Diplomatic Edition of "Floire et Blancheflor" in BAV, pal. lat. 1971</title>
+      <title>Edition diplomatique du manuscrit BAV, pal. lat. 1971</title>
       <editor>Eleonora Cannavacciuolo</editor>
     </titleStmt>
     <publicationStmt>
@@ -14,6 +14,8 @@
     <sourceDesc>
       <bibl>
         <idno type="gallica">https://digi.vatlib.it/view/MSS_Pal.lat.1971</idno>
+        <idno type="manuscriptCode">V</idno>        
+        <idno type="normalised">V_normalised.html</idno>
       </bibl>
     </sourceDesc>
   </fileDesc>

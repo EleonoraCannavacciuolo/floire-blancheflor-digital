@@ -6,14 +6,18 @@
 <teiHeader>
   <fileDesc>
     <titleStmt>
-      <title>Edition of "Floire et Blancheflor" in Biblioteca Apostolica Vaticana, pal. lat. 1971</title>
+      <title>Édition normalisée (manuscrit BAV, pal. lat. 1971)</title>
       <editor>Eleonora Cannavacciuolo</editor>
     </titleStmt>
     <publicationStmt>
       <p>Unpublished TEI encoding for scholarly use.</p>
     </publicationStmt>
     <sourceDesc>
-      <p>Roma, BAV, Pal. lat. 1971</p>
+      <bibl>
+        <idno type="gallica">https://digi.vatlib.it/view/MSS_Pal.lat.1971</idno>
+        <idno type="manuscriptCode">V</idno>        
+        <idno type="diplomatic">V_diplomatic.html</idno>
+      </bibl>
     </sourceDesc>
   </fileDesc>
 </teiHeader>
@@ -643,7 +647,7 @@
 <l>    Ne vuliums que Blancheflur</l>
 <l>    En avant eust t'amur</l>
 <l>    Pur ço que christiene esteit</l>
-<l>    Poure chose de bas en dreit</l>
+<l>    Poure chose de bas endreit</l>
 <l>    Marchant l'unt achatee</l>
 <l>    Et l'autre l'en unt menee</l>
 <l>    Beau filz dit ele pur Deu merci</l>

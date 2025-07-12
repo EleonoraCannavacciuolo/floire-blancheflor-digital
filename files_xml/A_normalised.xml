@@ -6,14 +6,18 @@
 <teiHeader>
   <fileDesc>
     <titleStmt>
-      <title>Edition of "Floire et Blancheflor" in BnF, fr. 375</title>
+      <title>Édition normalisée (manuscrit BnF, fr. 375)</title>
       <editor>Eleonora Cannavacciuolo</editor>
     </titleStmt>
     <publicationStmt>
       <p>Unpublished TEI encoding for scholarly use.</p>
     </publicationStmt>
     <sourceDesc>
-      <p>Paris, BnF, fr. 375.</p>
+      <bibl>
+        <idno type="gallica">https://gallica.bnf.fr/ark:/12148/btv1b10510319x/</idno>
+        <idno type="manuscriptCode">A</idno>       
+        <idno type="diplomatic">A_diplomatic.html</idno>
+      </bibl>
     </sourceDesc>
   </fileDesc>
 </teiHeader>

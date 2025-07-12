@@ -8,13 +8,15 @@
   <xsl:output method="xml" indent="yes" encoding="UTF-8" doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN" doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"/>
 
   <xsl:variable name="gallicaBase" select="//tei:idno[@type='gallica']"/>
-
+  <xsl:variable name="manuscriptCode" select="string(//tei:idno[@type='manuscriptCode'])"/>
+  <xsl:variable name="diplomatic" select="string(//tei:idno[@type='diplomatic'])"/>
+  <xsl:variable name="normalisedTEI" select="string(//tei:idno[@type='normalisedTEI'])"/>
 
   <xsl:template match="/">
     
     <html xmlns="http://www.w3.org/1999/xhtml">
       <head>
-        <title>Floire et Blancheflor : édition interprétative</title>
+        <title>Floire et Blancheflor</title>
         <link rel="stylesheet" href="../style.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
@@ -38,7 +40,7 @@
         </aside>
         <div class="wrapper">
         <header>
-          <h1><a href="../index.html"><em>Floire et Blancheflor</em></a> : édition interprétative</h1>
+          <h1><a href="../index.html"><em>Floire et Blancheflor</em></a></h1>
           <nav>
             <ul>
               <li><a href="../xii.html">Version du XIIe siècle</a></li>
@@ -47,6 +49,16 @@
           </nav>
         </header>
         <main class="with-sidebar">
+          <section id="edition-title">
+            <span>
+              <xsl:value-of select="//tei:titleStmt/tei:title"/>
+            </span>
+            <ul>
+              <li><a href="{$manuscriptCode}_diplomatic.html" class="button-link">Édition diplomatique</a></li> 
+              <li><a href="{$gallicaBase}" target="_blank" class="button-link">Manuscrit numérisé</a></li>
+              <li><a href="https://github.com/EleonoraCannavacciuolo/floire-blancheflor-digital/blob/main/files_xml/{$manuscriptCode}_normalised.xml" target="_blank" class="button-link">XML-TEI</a></li> 
+            </ul>
+          </section>
           <section id="edition-text">
             <xsl:apply-templates select="//tei:body"/>
           </section>

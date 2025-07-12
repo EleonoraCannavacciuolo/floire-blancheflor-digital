@@ -6,14 +6,18 @@
 <teiHeader>
   <fileDesc>
     <titleStmt>
-      <title>Edition of "Floire et Blancheflor" in BnF, fr. 1447</title>
+      <title>Édition normalisée (manuscrit BnF, fr. 1447)</title>
       <editor>Eleonora Cannavacciuolo</editor>
     </titleStmt>
     <publicationStmt>
       <p>Unpublished TEI encoding for scholarly use.</p>
     </publicationStmt>
     <sourceDesc>
-      <p>Paris, BnF, fr. 1447.</p>
+      <bibl>
+        <idno type="gallica">https://gallica.bnf.fr/ark:/12148/btv1b10509655q/</idno>
+        <idno type="manuscriptCode">B</idno>        
+        <idno type="diplomatic">B_diplomatic.html</idno>
+      </bibl>
     </sourceDesc>
   </fileDesc>
 </teiHeader>
@@ -180,7 +184,7 @@
 <l>    Et la royne respondit</l>
 <l>    Que des ice jour gries estoit</l>
 <l>    Et cele noit conçut avoit</l>
-<l>    Dont sorent bien sanz deviserer.}</l>
+<l>    Dont sorent bien sanz deviserer.</l>
 <l>    Le droit terme de l'enfanter</l>
 <l>    Le jour de la Pasque Florie</l>
 <l>    Si con le reconte lor vie</l>
@@ -1646,7 +1650,7 @@
 <l>     De nule part n'en doute mie</l>
 <l>     El mileu de ceste cité</l>
 <l>     A une tor d'antiquité</l>
-<l>     Toute de noirs carriaus de marbrerbre.}</l>
+<l>     Toute de noirs carriaus de marbrerbre.</l>
 <l>     Couverte a voute tot sanz arbre</l>
 <l>     Hourde est amont con clochier</l>
 <l>     Li coupiaus desus est moult chier</l>
@@ -2198,7 +2202,7 @@
 <l>    Veez mon se la connoistrez</l>
 <l>    Donrai la vos se vous volez</l>
 <l>    Avoi fet Blancheflor Claris</l>
-<l>    Compaigne porquoi m'eschernisrnis.}</l>
+<l>    Compaigne porquoi m'eschernisrnis.</l>
 <l>    Pechié fetes en moie foi</l>
 <l>    Quant vous escharnisiez de moi</l>
 <l>    Damoisele [&#x2020;&#x2020;] a amours</l>
@@ -2568,7 +2572,7 @@
 <l>     Mes nepourquant o&#x00EF;r devons</l>
 <l>     Ainçois que jugement façons</l>
 <l>     Ce qu'il voudront encontre dire</l>
-<l>     Ainz que les jugons a martirertire.}</l>
+<l>     Ainz que les jugons a martirertire.</l>
 <l>     Et puis selonc lor erremenz</l>
 <l>     Doit estre fez li jugemenz</l>
 <l>     De l'autre part fu dant Gaifiers</l>
