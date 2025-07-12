@@ -1,3 +1,6 @@
+/*==========================================
+  Fonts and Variables
+==========================================*/
 @font-face {
   font-family: 'Junicode';
   src: url('fonts/Junicode.ttf') format('truetype');
@@ -32,25 +35,45 @@
   --color-accent: #B3C0A4;
   --color-background: #FAFAFA;
   --color-text: #27233A;
-  --header-height: 60px;
+
+  --header-height: 50px;
+  --edition-title-height: 50px;
+  --sidebar-width: 170px;
 }
 
-/* General page styles */
+/*==========================================
+  Base Layout
+==========================================*/
+html {
+  scroll-behavior: smooth;
+}
+
 body {
+  margin: 0;
+  padding: 0;
   font-family: 'Junicode', serif;
   font-size: 1.1em;
   line-height: 1.6;
-  margin: 0;
-  padding: 0;
   background-color: var(--color-background);
   color: var(--color-text);
 }
 
-/* Header styles */
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100%;
+  max-width: 100%;
+}
+
+/*==========================================
+  Header and Navigation
+==========================================*/
 header {
   position: sticky;
   top: 0;
   z-index: 1000;
+  height: var(--header-height);
   background-color: var(--color-primary);
   color: var(--color-background);
   display: flex;
@@ -58,94 +81,201 @@ header {
   align-items: center;
   padding: 10px 20px;
   border-bottom: 1px solid #ccc;
-  height: var(--header-height);
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.5em;
 }
 
 header a {
   color: inherit;
-  text-decoration: none;
   font-weight: bold;
+  text-decoration: none;
 }
 
 header a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
-header h1 {
-    margin: 0;
-    font-size: 1.5em;
-}
-
-
-/* Navigation styles */
 nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 10px 0 0 0;
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-}
-
-nav ul li {
-  margin-left: 20px;
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  margin: 10px 0 0;
+  padding: 0;
 }
 
 nav ul li a {
-    color: inherit;
-    text-decoration: none;
-    font-weight: bold;
+  color: inherit;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 nav ul li a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
+/*==========================================
+  Sticky Edition Title
+==========================================*/
+#edition-title {
+  position: sticky;
+  top: var(--header-height);
+  z-index: 950;
+  height: var(--edition-title-height);
+  margin-left: var(--sidebar-width);
+  background-color: var(--color-background);
+  padding: 10px 20px;
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  white-space: nowrap;
+  overflow-x: auto;
+  gap: 1em;
+}
 
-/* Main content */
+#edition-title > span {
+  font-weight: bold;
+  font-size: 1.1em;
+  flex-shrink: 0;
+}
+
+#edition-title ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 10px;
+  flex-wrap: nowrap;
+}
+
+/*==========================================
+  Sidebar
+==========================================*/
+#page-index {
+  position: fixed;
+  top: var(--header-height);
+  left: 0;
+  width: 150px;
+  height: calc(100vh - var(--header-height));
+  background-color: var(--color-secondary);
+  color: var(--color-background);
+  border-right: 1px solid #ccc;
+  padding: 2em;
+  font-size: 0.9em;
+  z-index: 999;
+  overflow-y: auto;
+}
+
+#page-index ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#page-index li {
+  margin-bottom: 0.5em;
+}
+
+#page-index a {
+  color: var(--color-background);
+  text-decoration: none;
+}
+
+#page-index a:hover {
+  text-decoration: underline;
+}
+
+/*==========================================
+  Main Content
+==========================================*/
 main {
-    padding: 20px;
-    max-width: 1200px;
-    margin: 0 auto;
-    flex: 1;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  flex: 1;
 }
 
-.with-sidebar {
-  margin-left: 170px; /* adjust as needed */
+main.with-sidebar {
+  margin-left: var(--sidebar-width);
+  padding-top: calc(var(--header-height) + var(--edition-title-height));
 }
 
-/* Footer styles */
-footer {
-    background-color: var(--color-primary);
-    color: var(--color-background);
-    text-align: center;
-    padding: 10px;
-    font-size: 0.9em;
-    position: relative;
-    bottom: 0;
-    width: 100%;
+main a {
+  color: var(--color-primary);
+  font-weight: bold;
+  text-decoration: none;
 }
 
-.synoptic {
-    display: flex;
-    gap: 2%; /* adjust space between columns */
-    max-width: 95vw; /* or 100% if you want full width */
-    margin: auto;
+main a:hover {
+  color: var(--color-accent);
+  text-decoration: underline;
 }
 
-.column {
-    flex: 1;
-    min-width: 300px; /* Adjust this value as needed */
-    padding: 20px;
-    background: var(--color-background);
-    border: 1px solid #ccc;
-    overflow-y: auto;
-    height: 80vh;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    word-break: normal;
-    white-space: normal;
+.text,
+.edition-text {
+  margin-top: 20px;
 }
 
+/*==========================================
+  Page Breaks and Labels
+==========================================*/
+.pagebreak {
+  font-weight: bold;
+  margin: 1em 0;
+}
+
+.position-label {
+  position: sticky;
+  top: calc(var(--header-height) + var(--edition-title-height));
+  float: right;
+  background: #fff;
+  padding: 0.2em 0.6em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 0.85em;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+  z-index: 500;
+  margin-bottom: 0.5em;
+}
+
+#positionDisplay {
+  position: fixed;
+  top: 0.5em;
+  right: 1em;
+  background: #fff;
+  padding: 0.4em 0.8em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 0.85em;
+  box-shadow: 0 0 4px rgba(0,0,0,0.1);
+  z-index: 1000;
+}
+
+/*==========================================
+  Components and Elements
+==========================================*/
+.button-link {
+  display: inline-block;
+  padding: 6px 12px;
+  margin: 4px 4px;
+  background-color: var(--color-primary);
+  color: var(--color-background);
+  border-radius: 5px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  white-space: nowrap;
+  font-size: 0.95em;
+}
+
+.button-link:hover {
+  background-color: var(--color-accent);
+  color: var(--color-primary);
+  text-decoration: none;
+}
 
 .line {
   display: grid;
@@ -164,69 +294,7 @@ footer {
 }
 
 .highlight {
-    background-color: var(--color-accent);
-}
-
-/* Links inside main */
-main a {
-    color: var(--color-primary);
-    text-decoration: none;
-    font-weight: bold;
-}
-
-main a:hover {
-  text-decoration: underline;
-  color: var(--color-accent);
-}
-
-/* Edition text styles */
-.text, .edition-text {
-    margin-top: 20px;
-}
-
-.pagebreak {
-    font-weight: bold;
-    margin: 1em 0;
-}
-
-em {
-    font-style: italic;
-    font-weight: normal;
-    letter-spacing: 0.5px;
-}
-
-.button-link {
-  display: inline-block;
-  padding: 6px 12px;
-  margin: 4px 4px;
-  background-color: var(--color-primary);
-  color: var(--color-background);
-  border-radius: 5px;
-  text-decoration: none;
-  font-weight: bold;
-  transition: background-color 0.3s ease;
-}
-
-.button-link:hover {
   background-color: var(--color-accent);
-  color: var(--color-primary);
-  text-decoration: none;
-}
-
-.column-break {
-  margin: 1em 0;
-  padding: 0.5em;
-  font-style: normal;
-  color: #555;
-  border-top: 1px dashed #aaa;
-}
-
-.wrapper {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh; /* Full viewport height */
-    width: 100%;
-    max-width: 100%;  
 }
 
 .lettrine {
@@ -245,6 +313,16 @@ em {
   font-weight: 500;
 }
 
+.column-break {
+  margin: 1em 0;
+  padding: 0.5em;
+  color: #555;
+  border-top: 1px dashed #aaa;
+}
+
+/*==========================================
+  Scroll Button
+==========================================*/
 #scrollToTop {
   position: fixed;
   bottom: 2em;
@@ -271,75 +349,49 @@ em {
   background-color: var(--color-secondary);
 }
 
-#page-index {
-  position: fixed;
-  left: 0;
-  top: var(--header-height);
-  width: 150px;
-  height: calc(100vh - var(--header-height));
-  overflow-y: auto;
-  background-color: var(--color-secondary);
+/*==========================================
+  Footer
+==========================================*/
+footer {
+  background-color: var(--color-primary);
   color: var(--color-background);
-  border-right: 1px solid #ccc;
-  padding: 2em;
+  text-align: center;
+  padding: 10px;
   font-size: 0.9em;
-  z-index: 999;
+  position: relative;
+  width: 100%;
 }
 
-
-#page-index ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+footer .footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
-#page-index li {
-  margin-bottom: 0.5em;
+footer .footer-links {
+  display: flex;
+  align-items: center;
+  gap: 20px;
 }
 
-#page-index a {
-  text-decoration: none;
-  color: var(--color-background);
+footer .footer-links a img {
+  height: 30px;
+  width: auto;
+  transition: opacity 0.3s ease;
 }
 
-#page-index a:hover {
-  text-decoration: underline;
+footer .footer-links a:hover img {
+  opacity: 0.8;
 }
 
-.position-label {
-  position: sticky;
-  top: 0.5em;
-  right: 1em;
-  float: right;
-  background: #fff;
-  padding: 0.2em 0.6em;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  font-size: 0.85em;
-  box-shadow: 0 0 4px rgba(0,0,0,0.1);
-  z-index: 500;
-  margin-bottom: 0.5em;
-}
-
-#positionDisplay {
-  position: fixed;
-  top: 0.5em;
-  right: 1em;
-  background: #fff;
-  padding: 0.4em 0.8em;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  font-size: 0.85em;
-  box-shadow: 0 0 4px rgba(0,0,0,0.1);
-  z-index: 1000;
-}
-
+/*==========================================
+  Home Page Specific
+==========================================*/
 #home-wrapper main {
-    max-width: 800px;
-    margin: 0 auto;
-    text-align: justify;
-}
-
-html{
-  scroll-behavior:smooth;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: justify;
 }
