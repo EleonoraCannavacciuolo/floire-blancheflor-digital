@@ -395,3 +395,23 @@ footer .footer-links a:hover img {
   margin: 0 auto;
   text-align: justify;
 }
+
+.synoptic {
+  display: flex;
+  gap: 2%;
+  max-width: 95vw;
+  margin: auto;
+}
+
+.column {
+  flex: 1;
+  min-width: 300px;
+  padding: 20px;
+  background: var(--color-background);
+  border: 1px solid #ccc;
+  overflow-y: auto;
+  height: 80vh;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  word-break: normal;
+  white-space: normal;
+}
