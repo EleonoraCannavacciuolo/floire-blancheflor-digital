@@ -1,5 +1,7 @@
 # *Floire et Blancheflor* : une archive numérique
 
+
+
 Ce [site](https://eleonoracannavacciuolo.github.io/floire-blancheflor-digital/index.html) constitue le volet numérique d’un projet plus vaste d’édition critique des deux versions en ancien français de *Floire et Blancheflor*.
             
 Le texte de la première version peut être lu à travers les trois principaux manuscrits qui nous l’ont transmis : les deux manuscrits de la Bibliothèque nationale de France, *fr*. 375 et *fr*. 1447, ainsi que le long fragment conservé à la Biblioteca Apostolica Vaticana, pal. lat. 1971. Un autre onglet est consacré au texte de la seconde version de l’histoire et au manuscrit unique qui nous l’a préservée.
@@ -15,6 +17,10 @@ instrument utile, organisé et consultable, réunissant des données et des mat�
 Grâce au mode synoptique, le site offre la possibilité de comparer les transcriptions interprétatives des trois manuscrits principaux de la version du XIIe siècle.
 En cliquant sur un vers dans l’un des trois textes, les deux autres s’y alignent automatiquement, rendant possible une lecture parallèle des leçons issues des témoins. 
 
+## Licence
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
  ## Pour citer ce projet
 
 Eleonora Cannavacciuolo, *'Floire et Blancheflor' : une archive numérique*, Genève, Université de Genève.
@@ -29,5 +35,7 @@ Eleonora Cannavacciuolo, *'Floire et Blancheflor' : une archive numérique*, Gen
 }
 ```
 
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
     
     
