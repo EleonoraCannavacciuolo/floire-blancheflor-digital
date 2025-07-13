@@ -9,8 +9,6 @@
 
   <xsl:variable name="gallicaBase" select="//tei:idno[@type='gallica']"/>
   <xsl:variable name="manuscriptCode" select="string(//tei:idno[@type='manuscriptCode'])"/>
-  <xsl:variable name="normalised" select="string(//tei:idno[@type='normalised'])"/>
-  <xsl:variable name="diplomaticTEI" select="string(//tei:idno[@type='diplomaticTEI'])"/>
 
 
   <xsl:template match="/">
@@ -104,23 +102,11 @@
         <xsl:number count="tei:l" format="0000"  level="any"/>
       </xsl:attribute>
 
-    <xsl:variable name="lineNumber">
-      <xsl:number count="tei:l" level="any"/>
-    </xsl:variable>
-
-    <xsl:choose>
-      <xsl:when test="$lineNumber mod 5 = 0">
-        <span class="ln">
-          <xsl:value-of select="$lineNumber"/>
-        </span>
-      </xsl:when>
-      <xsl:otherwise>
+ 
         <xsl:text disable-output-escaping="yes">
           &lt;span class="ln"&gt;&lt;/span&gt;
         </xsl:text> 
-        
-      </xsl:otherwise>
-    </xsl:choose>
+   
 
     <span class="line-text">
       <xsl:apply-templates/>
