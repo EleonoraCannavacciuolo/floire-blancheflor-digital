@@ -23,22 +23,6 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
       </head>
       <body>
-        <aside id="page-index">
-          <ul>
-            <xsl:for-each select="//tei:pb">
-              <!-- Sort by numeric part -->
-              <xsl:sort select="number(translate(@n, 'rv ', ''))" data-type="number"/>
-              <!-- Then by side: r before v -->
-              <xsl:sort select="contains(@n, 'v')" data-type="number"/>
-
-              <li>
-                <a href="#page-{@n}">
-                  <xsl:value-of select="@n"/>
-                </a>
-              </li>
-            </xsl:for-each>
-          </ul>
-        </aside>
         <div class="wrapper">
         <header>
           <h1><a href="../index.html"><em>Floire et Blancheflor</em></a></h1>
@@ -49,8 +33,7 @@
             </ul>
           </nav>
         </header>
-        <main class="with-sidebar">
-          <section id="edition-title">
+          <div id="edition-title">
             <span>
               <xsl:value-of select="//tei:titleStmt/tei:title"/>
             </span>
@@ -59,11 +42,27 @@
               <li><a href="{$gallicaBase}" target="_blank" class="button-link">Manuscrit numérisé</a></li>
               <li><a href="https://github.com/EleonoraCannavacciuolo/floire-blancheflor-digital/blob/main/files_xml/{$manuscriptCode}_diplomatic.xml" target="_blank" class="button-link">XML-TEI</a></li> 
             </ul>
-          </section>
-          <section id="edition-text">
-            <xsl:apply-templates select="//tei:body"/>
-          </section>
-        </main>
+          </div>        
+        <div class="with-sidebar">
+            <aside id="page-index">
+              <ul>
+                <xsl:for-each select="//tei:pb">
+                  <!-- Sort by numeric part -->
+                  <xsl:sort select="number(translate(@n, 'rv ', ''))" data-type="number"/>
+                  <!-- Then by side: r before v -->
+                  <xsl:sort select="contains(@n, 'v')" data-type="number"/>
+                  <li>
+                    <a href="#page-{@n}">
+                      <xsl:value-of select="@n"/>
+                    </a>
+                  </li>
+                </xsl:for-each>
+              </ul>
+            </aside>
+            <main id="edition-text">
+              <xsl:apply-templates select="//tei:body"/>
+            </main>
+        </div>
 
       <footer>
           <div class="footer-content">
