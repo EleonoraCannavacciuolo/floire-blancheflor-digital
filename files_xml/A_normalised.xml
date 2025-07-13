@@ -1,23 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://github.com/EleonoraCannavacciuolo/floire-blancheflor-digital/blob/main/schema/floire-blancheflor-digital.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  
 
 <teiHeader>
   <fileDesc>
     <titleStmt>
-      <title>Édition normalisée (manuscrit BnF, fr. 375)</title>
-      <editor>Eleonora Cannavacciuolo</editor>
+      <title>Édition normalisée du manuscrit BnF, fr. 375</title>
+      <respStmt>
+               <resp>Direction du projet.</resp>
+               <persName xml:id="EC">
+                  <forename>Eleonora</forename>
+                  <surname>Cannavacciuolo</surname>
+                  <ptr type="orcid" target="0009-0001-1488-6557"/>
+               </persName>
+      </respStmt>
     </titleStmt>
+
     <publicationStmt>
-      <p>Unpublished TEI encoding for scholarly use.</p>
+      <authority>Université de Genève</authority>
+            <address>
+               <addrLine>5 rue de-Candolle</addrLine>
+               <addrLine>CH-1205 Genève</addrLine>
+            </address>
+            <availability status="restricted" n="CC-BY">
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+               <p>Creative Commons Attribution 4.0 CC BY 4.0</p>
+            </availability>
+            <date when="2025-07-13"/>
     </publicationStmt>
+
     <sourceDesc>
-      <bibl>
+      <msDesc>
+        <country>France</country>
+        <settlement>Paris</settlement>
+        <institution>Bibliothèque Nationale de France</institution>
+        <idno type="shelfmark">français 375</idno>
         <idno type="gallica">https://gallica.bnf.fr/ark:/12148/btv1b10510319x/</idno>
-        <idno type="manuscriptCode">A</idno>       
-        <idno type="diplomatic">A_diplomatic.html</idno>
-      </bibl>
+        <idno type="manuscriptCode">A</idno>    
+      </msDesc>
     </sourceDesc>
   </fileDesc>
 </teiHeader>
