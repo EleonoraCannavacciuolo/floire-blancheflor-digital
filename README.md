@@ -14,9 +14,20 @@ instrument utile, organisé et consultable, réunissant des données et des mat�
             
 Grâce au mode synoptique, le site offre la possibilité de comparer les transcriptions interprétatives des trois manuscrits principaux de la version du XIIe siècle.
 En cliquant sur un vers dans l’un des trois textes, les deux autres s’y alignent automatiquement, rendant possible une lecture parallèle des leçons issues des témoins. 
-            
 
-        
+ ## Pour citer ce projet
+
+Eleonora Cannavacciuolo, *'Floire et Blancheflor' : une archive numérique*, Genève, Université de Genève.
+
+```bibtex
+@misc{digFB,
+  author={Cannavacciuolo, Eleonora},
+  title={'Floire et Blancheflor' : une archive numérique},
+  address={Genève},
+  publisher={Université de Genève},
+  url={https://eleonoracannavacciuolo.github.io/floire-blancheflor-digital},
+}
+```
 
     
     
